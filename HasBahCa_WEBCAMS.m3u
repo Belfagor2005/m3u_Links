@@ -55,8 +55,6 @@ http://5a407a32a4adf.streamlock.net:1935/webcam/webcam.stream/HasBahCa.m3u8
 https://ch-fra-n2.livespotting.com/vpu/tw0xvqm0/bc49630p_720.m3u8
 #EXTINF:-1 group-title="cam_PORTUGAL",Baía de Cascais
 https://video-auth1.iol.pt/beachcam/praiadospescadores/playlist.m3u8
-#EXTINF:-1 group-title="cam_MIX",Berdyansk Hall (UA)
-https://stream.bmr.gov.ua/hls/511.m3u8
 #EXTINF:-1 group-title="cam_MIX",Bishkek - Kyrgyzstan (KG)
 http://iptv.saima.kg/hls-cam/berengold.m3u8
 #EXTINF:-1 group-title="cam_MIX",Brazil - Angra Dos Reis Airport
@@ -173,50 +171,6 @@ https://cam.indikom.ru/66/hls/stream.m3u8
 https://cam.indikom.ru/67/hls/stream.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",cam.indikom.ru/9
 https://cam.indikom.ru/9/hls/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",cam10: Вишневе. Переїзд.
-http://94.158.80.166:9000/play/web_cam10/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",cam11: Боярка - Сквер
-http://94.158.80.166:9000/play/web_cam11/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",cam13: Стадіон
-http://94.158.80.166:9000/play/web_cam13/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",cam18: Боярка. Переїзд.
-http://94.158.80.166:9000/play/web_cam18/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",cam1: Білогородська
-http://94.158.80.166:9000/play/web_cam1/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",cam23: Боярка.Білогородська 51-1
-http://94.158.80.166:9000/play/web_cam23/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",cam30: Боярка.Білогородська 51-8
-http://94.158.80.166:9000/play/web_cam30/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",cam33: Боярка.Білогородська 51-11
-http://94.158.80.166:9000/play/web_cam33/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",cam34: Боярка.Білогородська 51-12
-http://94.158.80.166:9000/play/web_cam34/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",cam36: Боярка.Білогородська 51-14
-http://94.158.80.166:9000/play/web_cam36/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",cam42: Боярка.Білогородська 25-2
-http://94.158.80.166:9000/play/web_cam42/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",cam4: Тарасівка. Переїзд.
-http://94.158.80.166:9000/play/web_cam4/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",cam52: Білогородська 27
-http://94.158.80.166:9000/play/web_cam52/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",cam57: Боярка. Київська
-http://94.158.80.166:9000/play/web_cam57/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",cam58: Боярка. Київська
-http://94.158.80.166:9000/play/web_cam58/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",cam59: Боярка. Київська
-http://94.158.80.166:9000/play/web_cam59/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",cam60: Боярка. Лінійна-Гоголя
-http://94.158.80.166:9000/play/web_cam60/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",cam61: Боярка. Лінійна-Молодіжна
-http://94.158.80.166:9000/play/web_cam61/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",cam63: Боярка. Білогородська - Соборноті
-http://94.158.80.166:9000/play/web_cam63/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",cam7: Боярка. Михайлівська площа
-http://94.158.80.166:9000/play/web_cam7/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",cam8: Чабани. Перехрестя
-http://94.158.80.166:9000/play/web_cam8/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",cam9: Вишневе. Лесі Укр./Зелена
-http://94.158.80.166:9000/play/web_cam9/index.m3u8
 #EXTINF:-1 group-title="cam_MIX",Camino
 http://a.jsrdn.com/broadcast/aee08372e5/+0000/high/c.m3u8
 #EXTINF:-1 group-title="cam_MIX",Canada - Saint-Jean Airport
@@ -385,8 +339,6 @@ https://video-auth1.iol.pt/beachcam/figueiradafoz/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcfigueiradois/playlist.m3u8
 #EXTINF:-1 group-title="cam_PORTUGAL",Fonte da Telha
 https://video-auth1.iol.pt/beachcam/fontedatelha/playlist.m3u8
-#EXTINF:-1 group-title="cam_PORTUGAL",Foz do Arelho
-https://video-auth1.iol.pt/beachcam/bcfozdoarelho/playlist.m3u8
 #EXTINF:-1 group-title="cam_MIX",France - Bourg-Ceyzeriat Airport
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UClSvJfNXQ9G9Ked8nv6CAJw/live
 #EXTINF:-1 group-title="cam_MIX",France - Chambley Airport
@@ -473,16 +425,8 @@ https://outbound-production.explore.org/stream-production-189/.m3u8
 https://outbound-production.explore.org/stream-production-188/.m3u8
 #EXTINF:-1 group-title="cam_MIX",Hummingbird Trees
 https://outbound-production.explore.org/stream-production-209/.m3u8
-#EXTINF:-1 group-title="cam_MIX",Hungary - Aquapark
-https://stream.hungarospa.hu/hls/axis3/index.m3u8
-#EXTINF:-1 group-title="cam_MIX",Hungary - Beach
-https://stream.hungarospa.hu/hls/axis0/index.m3u8
-#EXTINF:-1 group-title="cam_MIX",Hungary - Beach 2
-https://stream.hungarospa.hu/hls/axis2/index.m3u8
 #EXTINF:-1 group-title="cam_MIX",Hungary - Dunaujvaros
 https://stream.idokep.hu/live/lhdv/s_orig.m3u8
-#EXTINF:-1 group-title="cam_MIX",Hungary - Spa
-https://stream.hungarospa.hu/hls/axis1/index.m3u8
 #EXTINF:-1 group-title="cam_MIX",Ilfracombe (UK)
 http://camsecure.co/HLS/ilfracombe2.m3u8
 #EXTINF:-1 group-title="cam_MIX",Island Escape
@@ -491,10 +435,6 @@ http://a.jsrdn.com/broadcast/41e3e6703e/+0000/mid/c.m3u8
 http://195.175.107.10:8080/hls3/liv3.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",Isparta-Yalvaç-PTT Önü
 http://195.175.107.10:8080/hls2/liv2.m3u8
-#EXTINF:-1 group-title="cam_TÜRKEY",IST-BAĞDAT CADDESİ 1
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_bagdat_cad_1.stream/chunklist_w525462264.m3u8
-#EXTINF:-1 group-title="cam_TÜRKEY",IST-BAĞDAT CADDESİ 2
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_bagdat_cad_2.stream/chunklist_w402909197.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",IST-BÜYÜK ÇAMLICA
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_buyuk_camlica.stream/chunklist_w27132547.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",IST-DRAGOS
@@ -507,10 +447,6 @@ https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_eyup.stream/chunklist_w71400
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_emirgan.stream/chunklist_w1232476941.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",IST-HİDİV KASRI
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_hidiv_kasri_1.stream/chunklist_w1974231243.m3u8
-#EXTINF:-1 group-title="cam_MIX",Italy - Asiago Airfield
-https://www.terasweb.live/terasstream/aeroportoasiagofinepista.stream/chunklist_w646256133.m3u8
-#EXTINF:-1 group-title="cam_MIX",Italy - Asiago Airfield
-https://www.terasweb.live/terasstream/aeroportoasiagoiniziopista.stream/chunklist_w1049955251.m3u8
 #EXTINF:-1 group-title="cam_MIX",Italy - Calcinate Del Pesce Airfield
 https://streaming.acao.it/hls/cam1/1080/index.m3u8
 #EXTINF:-1 group-title="cam_MIX",Italy - Calcinate Del Pesce Airfield
@@ -549,8 +485,6 @@ http://95.0.155.24/live/drmustafa.stream/HasBahCa.m3u8
 http://95.0.155.24/live/goksun.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",Kahramanmaraş-Kapalı Çarşı 1
 http://95.0.155.24/live/kapalicarsi1.stream/HasBahCa.m3u8
-#EXTINF:-1 group-title="cam_TÜRKEY",Kahramanmaraş-Kapalı Çarşı 2
-http://95.0.155.24/live/kapalicarsi2.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",Kahramanmaraş-Pazarcık Meydanı
 http://95.0.155.24/live/pazarcik.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",Kahramanmaraş-Ulucami
@@ -869,12 +803,6 @@ http://91.224.104.112:80/ujsoly/index.m3u8
 http://91.224.104.112:80/wgwidok/index.m3u8
 #EXTINF:-1 group-title="cam_POLSKI",Poland - Wroclaw
 http://hstream1.webcamera.pl/wroclaw_przed_cam_16c68e/wroclaw_przed_cam_16c68e.stream/playlist.m3u8
-#EXTINF:-1 group-title="cam_POLSKI",Poland 10
-http://live.kamera24.pl/medykain/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="cam_POLSKI",Poland 11
-http://live.kamera24.pl/korczowaout/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="cam_POLSKI",Poland 12
-http://live.kamera24.pl/korczowain/tracks-v1/mono.m3u8
 #EXTINF:-1 group-title="cam_POLSKI",Poland 13
 http://79.139.51.165/stella/kamera1.m3u8
 #EXTINF:-1 group-title="cam_POLSKI",Poland 14
@@ -889,8 +817,6 @@ https://s1.worldcam.live:8082/budkalegowa2/index.m3u8
 https://s1.worldcam.live:8082/karmnik/index.m3u8
 #EXTINF:-1 group-title="cam_POLSKI",Poland 8
 http://live.kamera24.pl/umolawa/index.m3u8
-#EXTINF:-1 group-title="cam_POLSKI",Poland 9
-http://live.kamera24.pl/medykaout/index.m3u8
 #EXTINF:-1 group-title="cam_POLSKI",Poland:Dziwnow
 http://hoktastream1.webcamera.pl/dziwnowum_cam_d0ed48/dziwnowum_cam_d0ed48.stream/playlist.m3u8
 #EXTINF:-1 group-title="cam_POLSKI",Poland:Rysianka
@@ -939,8 +865,6 @@ https://hls8.webcamera.pl/rewal_cam_003f77/rewal_cam_003f77.stream/playlist.m3u8
 https://hls8.webcamera.pl/polanczyk_cam_d1e2d8/polanczyk_cam_d1e2d8.stream/playlist.m3u8
 #EXTINF:-1 group-title="cam_POLSKI",Polen - Pysz?w Lodowisko
 https://hls1.webcamera.pl/pszow2_cam_4b93fa/pszow2_cam_4b93fa.stream/playlist.m3u8
-#EXTINF:-1 group-title="cam_POLSKI",Polen - Rusi
-https://hls12.webcamera.pl/rusinski_cam_3580b7/rusinski_cam_3580b7.stream/playlist.m3u8
 #EXTINF:-1 group-title="cam_POLSKI",Polen - Zakopane - Kasprowy Hala G
 https://hls8.webcamera.pl/pkl_cam_c9ee88/pkl_cam_c9ee88.stream/playlist.m3u8
 #EXTINF:-1 group-title="cam_POLSKI",Polen - Zakopane Guba
@@ -1012,8 +936,6 @@ http://media.ercis.ro:9999/cmareis/playlist.m3u8
 #EXTINF:-1 group-title="cam_MIX",Rosies Pan
 https://outbound-production.explore.org/stream-production-108/.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Russia - Sochi Adler Airport
-https://sochi.camera:8081/cam_171/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Russia - Sochi Adler Airport
 https://sochi.camera:8081/cam_314/tracks-v1/mono.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Russia - Sochi Adler Airport
 https://sochi.camera:8081/cam_5/tracks-v1/mono.m3u8
@@ -1069,567 +991,561 @@ https://cdn-004.whatsupcams.com/hls/si_ljpz1.m3u8
 https://cdn-001.whatsupcams.com/hls/si_bled1.m3u8
 #EXTINF:-1 group-title="cam_MIX",Sochi (RU)
 http://sochi.camera:8080/cam_185/index.m3u8?token=null
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_1 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_1 FHD
 http://sochi.camera:8080/cam_1/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_10 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_10 FHD
 http://sochi.camera:8080/cam_10/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_100 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_100 FHD
 http://sochi.camera:8080/cam_100/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_101 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_101 FHD
 http://sochi.camera:8080/cam_101/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_103 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_103 FHD
 http://sochi.camera:8080/cam_103/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_104 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_104 FHD
 http://sochi.camera:8080/cam_104/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_105 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_105 FHD
 http://sochi.camera:8080/cam_105/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_106 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_106 FHD
 http://sochi.camera:8080/cam_106/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_107 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_107 FHD
 http://sochi.camera:8080/cam_107/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_108 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_108 FHD
 http://sochi.camera:8080/cam_108/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_11 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_11 FHD
 http://sochi.camera:8080/cam_11/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_111 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_111 FHD
 http://sochi.camera:8080/cam_111/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_113 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_113 FHD
 http://sochi.camera:8080/cam_113/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_114 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_114 FHD
 http://sochi.camera:8080/cam_114/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_115 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_115 FHD
 http://sochi.camera:8080/cam_115/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_117 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_117 FHD
 http://sochi.camera:8080/cam_117/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_119 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_119 FHD
 http://sochi.camera:8080/cam_119/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_120 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_120 FHD
 http://sochi.camera:8080/cam_120/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_122 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_122 FHD
 http://sochi.camera:8080/cam_122/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_124 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_124 FHD
 http://sochi.camera:8080/cam_124/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_125 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_125 FHD
 http://sochi.camera:8080/cam_125/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_126 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_126 FHD
 http://sochi.camera:8080/cam_126/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_127 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_127 FHD
 http://sochi.camera:8080/cam_127/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_129 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_129 FHD
 http://sochi.camera:8080/cam_129/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_133 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_133 FHD
 http://sochi.camera:8080/cam_133/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_134 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_134 FHD
 http://sochi.camera:8080/cam_134/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_135 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_135 FHD
 http://sochi.camera:8080/cam_135/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_137 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_137 FHD
 http://sochi.camera:8080/cam_137/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_138 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_138 FHD
 http://sochi.camera:8080/cam_138/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_139 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_139 FHD
 http://sochi.camera:8080/cam_139/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_143 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_143 FHD
 http://sochi.camera:8080/cam_143/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_144 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_144 FHD
 http://sochi.camera:8080/cam_144/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_145 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_145 FHD
 http://sochi.camera:8080/cam_145/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_146 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_146 FHD
 http://sochi.camera:8080/cam_146/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_147 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_147 FHD
 http://sochi.camera:8080/cam_147/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_148 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_148 FHD
 http://sochi.camera:8080/cam_148/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_149 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_149 FHD
 http://sochi.camera:8080/cam_149/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_156 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_156 FHD
 http://sochi.camera:8080/cam_156/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_158 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_158 FHD
 http://sochi.camera:8080/cam_158/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_160 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_160 FHD
 http://sochi.camera:8080/cam_160/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_161 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_161 FHD
 http://sochi.camera:8080/cam_161/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_169 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_169 FHD
 http://sochi.camera:8080/cam_169/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_17 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_17 FHD
 http://sochi.camera:8080/cam_17/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_170 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_170 FHD
 http://sochi.camera:8080/cam_170/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_171 FHD
-http://sochi.camera:8080/cam_171/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_173 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_173 FHD
 http://sochi.camera:8080/cam_173/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_176 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_176 FHD
 http://sochi.camera:8080/cam_176/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_178 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_178 FHD
 http://sochi.camera:8080/cam_178/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_179 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_179 FHD
 http://sochi.camera:8080/cam_179/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_18 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_18 FHD
 http://sochi.camera:8080/cam_18/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_183 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_183 FHD
 http://sochi.camera:8080/cam_183/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_184 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_184 FHD
 http://sochi.camera:8080/cam_184/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_185 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_185 FHD
 http://sochi.camera:8080/cam_185/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_186 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_186 FHD
 http://sochi.camera:8080/cam_186/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_187 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_187 FHD
 http://sochi.camera:8080/cam_187/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_19 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_19 FHD
 http://sochi.camera:8080/cam_19/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_192 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_192 FHD
 http://sochi.camera:8080/cam_192/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_193 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_193 FHD
 http://sochi.camera:8080/cam_193/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_195 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_195 FHD
 http://sochi.camera:8080/cam_195/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_196 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_196 FHD
 http://sochi.camera:8080/cam_196/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_198 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_198 FHD
 http://sochi.camera:8080/cam_198/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_199 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_199 FHD
 http://sochi.camera:8080/cam_199/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_200 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_200 FHD
 http://sochi.camera:8080/cam_200/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_201 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_201 FHD
 http://sochi.camera:8080/cam_201/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_202 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_202 FHD
 http://sochi.camera:8080/cam_202/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_204 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_204 FHD
 http://sochi.camera:8080/cam_204/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_206 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_206 FHD
 http://sochi.camera:8080/cam_206/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_207 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_207 FHD
 http://sochi.camera:8080/cam_207/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_208 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_208 FHD
 http://sochi.camera:8080/cam_208/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_209 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_209 FHD
 http://sochi.camera:8080/cam_209/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_217 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_217 FHD
 http://sochi.camera:8080/cam_217/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_218 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_218 FHD
 http://sochi.camera:8080/cam_218/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_227 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_227 FHD
 http://sochi.camera:8080/cam_227/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_230 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_230 FHD
 http://sochi.camera:8080/cam_230/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_231 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_231 FHD
 http://sochi.camera:8080/cam_231/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_24 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_24 FHD
 http://sochi.camera:8080/cam_24/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_242 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_242 FHD
 http://sochi.camera:8080/cam_242/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_243 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_243 FHD
 http://sochi.camera:8080/cam_243/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_245 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_245 FHD
 http://sochi.camera:8080/cam_245/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_246 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_246 FHD
 http://sochi.camera:8080/cam_246/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_249 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_249 FHD
 http://sochi.camera:8080/cam_249/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_250 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_250 FHD
 http://sochi.camera:8080/cam_250/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_251 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_251 FHD
 http://sochi.camera:8080/cam_251/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_257 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_257 FHD
 http://sochi.camera:8080/cam_257/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_261 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_261 FHD
 http://sochi.camera:8080/cam_261/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_262 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_262 FHD
 http://sochi.camera:8080/cam_262/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_263 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_263 FHD
 http://sochi.camera:8080/cam_263/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_265 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_265 FHD
 http://sochi.camera:8080/cam_265/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_266 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_266 FHD
 http://sochi.camera:8080/cam_266/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_274 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_274 FHD
 http://sochi.camera:8080/cam_274/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_275 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_275 FHD
 http://sochi.camera:8080/cam_275/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_277 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_277 FHD
 http://sochi.camera:8080/cam_277/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_278 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_278 FHD
 http://sochi.camera:8080/cam_278/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_279 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_279 FHD
 http://sochi.camera:8080/cam_279/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_284 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_284 FHD
 http://sochi.camera:8080/cam_284/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_289 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_289 FHD
 http://sochi.camera:8080/cam_289/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_290 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_290 FHD
 http://sochi.camera:8080/cam_290/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_291 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_291 FHD
 http://sochi.camera:8080/cam_291/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_292 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_292 FHD
 http://sochi.camera:8080/cam_292/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_298 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_298 FHD
 http://sochi.camera:8080/cam_298/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_30 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_30 FHD
 http://sochi.camera:8080/cam_30/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_300 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_300 FHD
 http://sochi.camera:8080/cam_300/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_301 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_301 FHD
 http://sochi.camera:8080/cam_301/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_302 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_302 FHD
 http://sochi.camera:8080/cam_302/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_305 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_305 FHD
 http://sochi.camera:8080/cam_305/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_31 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_31 FHD
 http://sochi.camera:8080/cam_31/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_310 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_310 FHD
 http://sochi.camera:8080/cam_310/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_311 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_311 FHD
 http://sochi.camera:8080/cam_311/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_314 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_314 FHD
 http://sochi.camera:8080/cam_314/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_317 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_317 FHD
 http://sochi.camera:8080/cam_317/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_318 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_318 FHD
 http://sochi.camera:8080/cam_318/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_32 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_32 FHD
 http://sochi.camera:8080/cam_32/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_326 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_326 FHD
 http://sochi.camera:8080/cam_326/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_327 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_327 FHD
 http://sochi.camera:8080/cam_327/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_328 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_328 FHD
 http://sochi.camera:8080/cam_328/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_33 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_33 FHD
 http://sochi.camera:8080/cam_33/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_334 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_334 FHD
 http://sochi.camera:8080/cam_334/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_335 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_335 FHD
 http://sochi.camera:8080/cam_335/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_336 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_336 FHD
 http://sochi.camera:8080/cam_336/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_337 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_337 FHD
 http://sochi.camera:8080/cam_337/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_339 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_339 FHD
 http://sochi.camera:8080/cam_339/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_34 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_34 FHD
 http://sochi.camera:8080/cam_34/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_340 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_340 FHD
 http://sochi.camera:8080/cam_340/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_341 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_341 FHD
 http://sochi.camera:8080/cam_341/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_343 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_343 FHD
 http://sochi.camera:8080/cam_343/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_344 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_344 FHD
 http://sochi.camera:8080/cam_344/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_345 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_345 FHD
 http://sochi.camera:8080/cam_345/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_346 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_346 FHD
 http://sochi.camera:8080/cam_346/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_347 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_347 FHD
 http://sochi.camera:8080/cam_347/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_348 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_348 FHD
 http://sochi.camera:8080/cam_348/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_349 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_349 FHD
 http://sochi.camera:8080/cam_349/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_35 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_35 FHD
 http://sochi.camera:8080/cam_35/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_350 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_350 FHD
 http://sochi.camera:8080/cam_350/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_351 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_351 FHD
 http://sochi.camera:8080/cam_351/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_352 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_352 FHD
 http://sochi.camera:8080/cam_352/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_353 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_353 FHD
 http://sochi.camera:8080/cam_353/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_358 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_358 FHD
 http://sochi.camera:8080/cam_358/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_36 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_36 FHD
 http://sochi.camera:8080/cam_36/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_363 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_363 FHD
 http://sochi.camera:8080/cam_363/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_367 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_367 FHD
 http://sochi.camera:8080/cam_367/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_37 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_37 FHD
 http://sochi.camera:8080/cam_37/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_370 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_370 FHD
 http://sochi.camera:8080/cam_370/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_375 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_375 FHD
 http://sochi.camera:8080/cam_375/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_377 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_377 FHD
 http://sochi.camera:8080/cam_377/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_388 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_388 FHD
 http://sochi.camera:8080/cam_388/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_389 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_389 FHD
 http://sochi.camera:8080/cam_389/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_39 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_39 FHD
 http://sochi.camera:8080/cam_39/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_390 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_390 FHD
 http://sochi.camera:8080/cam_390/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_391 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_391 FHD
 http://sochi.camera:8080/cam_391/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_393 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_393 FHD
 http://sochi.camera:8080/cam_393/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_394 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_394 FHD
 http://sochi.camera:8080/cam_394/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_395 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_395 FHD
 http://sochi.camera:8080/cam_395/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_396 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_396 FHD
 http://sochi.camera:8080/cam_396/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_40 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_40 FHD
 http://sochi.camera:8080/cam_40/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_401 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_401 FHD
 http://sochi.camera:8080/cam_401/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_402 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_402 FHD
 http://sochi.camera:8080/cam_402/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_403 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_403 FHD
 http://sochi.camera:8080/cam_403/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_405 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_405 FHD
 http://sochi.camera:8080/cam_405/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_407 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_407 FHD
 http://sochi.camera:8080/cam_407/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_408 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_408 FHD
 http://sochi.camera:8080/cam_408/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_41 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_41 FHD
 http://sochi.camera:8080/cam_41/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_410 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_410 FHD
 http://sochi.camera:8080/cam_410/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_411 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_411 FHD
 http://sochi.camera:8080/cam_411/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_412 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_412 FHD
 http://sochi.camera:8080/cam_412/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_413 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_413 FHD
 http://sochi.camera:8080/cam_413/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_414 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_414 FHD
 http://sochi.camera:8080/cam_414/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_415 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_415 FHD
 http://sochi.camera:8080/cam_415/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_416 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_416 FHD
 http://sochi.camera:8080/cam_416/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_417 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_417 FHD
 http://sochi.camera:8080/cam_417/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_418 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_418 FHD
 http://sochi.camera:8080/cam_418/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_419 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_419 FHD
 http://sochi.camera:8080/cam_419/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_420 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_420 FHD
 http://sochi.camera:8080/cam_420/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_421 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_421 FHD
 http://sochi.camera:8080/cam_421/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_423 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_423 FHD
 http://sochi.camera:8080/cam_423/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_424 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_424 FHD
 http://sochi.camera:8080/cam_424/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_425 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_425 FHD
 http://sochi.camera:8080/cam_425/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_427 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_427 FHD
 http://sochi.camera:8080/cam_427/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_428 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_428 FHD
 http://sochi.camera:8080/cam_428/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_429 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_429 FHD
 http://sochi.camera:8080/cam_429/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_430 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_430 FHD
 http://sochi.camera:8080/cam_430/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_431 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_431 FHD
 http://sochi.camera:8080/cam_431/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_432 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_432 FHD
 http://sochi.camera:8080/cam_432/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_433 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_433 FHD
 http://sochi.camera:8080/cam_433/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_434 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_434 FHD
 http://sochi.camera:8080/cam_434/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_435 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_435 FHD
 http://sochi.camera:8080/cam_435/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_436 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_436 FHD
 http://sochi.camera:8080/cam_436/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_437 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_437 FHD
 http://sochi.camera:8080/cam_437/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_439 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_439 FHD
 http://sochi.camera:8080/cam_439/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_44 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_44 FHD
 http://sochi.camera:8080/cam_44/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_441 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_441 FHD
 http://sochi.camera:8080/cam_441/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_442 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_442 FHD
 http://sochi.camera:8080/cam_442/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_443 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_443 FHD
 http://sochi.camera:8080/cam_443/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_444 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_444 FHD
 http://sochi.camera:8080/cam_444/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_445 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_445 FHD
 http://sochi.camera:8080/cam_445/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_448 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_448 FHD
 http://sochi.camera:8080/cam_448/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_449 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_449 FHD
 http://sochi.camera:8080/cam_449/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_450 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_450 FHD
 http://sochi.camera:8080/cam_450/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_451 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_451 FHD
 http://sochi.camera:8080/cam_451/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_457 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_457 FHD
 http://sochi.camera:8080/cam_457/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_458 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_458 FHD
 http://sochi.camera:8080/cam_458/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_459 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_459 FHD
 http://sochi.camera:8080/cam_459/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_461 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_461 FHD
 http://sochi.camera:8080/cam_461/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_462 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_462 FHD
 http://sochi.camera:8080/cam_462/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_463 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_463 FHD
 http://sochi.camera:8080/cam_463/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_464 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_464 FHD
 http://sochi.camera:8080/cam_464/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_465 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_465 FHD
 http://sochi.camera:8080/cam_465/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_468 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_468 FHD
 http://sochi.camera:8080/cam_468/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_469 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_469 FHD
 http://sochi.camera:8080/cam_469/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_47 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_47 FHD
 http://sochi.camera:8080/cam_47/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_471 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_471 FHD
 http://sochi.camera:8080/cam_471/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_472 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_472 FHD
 http://sochi.camera:8080/cam_472/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_473 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_473 FHD
 http://sochi.camera:8080/cam_473/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_476 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_476 FHD
 http://sochi.camera:8080/cam_476/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_477 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_477 FHD
 http://sochi.camera:8080/cam_477/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_478 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_478 FHD
 http://sochi.camera:8080/cam_478/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_479 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_479 FHD
 http://sochi.camera:8080/cam_479/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_480 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_480 FHD
 http://sochi.camera:8080/cam_480/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_481 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_481 FHD
 http://sochi.camera:8080/cam_481/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_483 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_483 FHD
 http://sochi.camera:8080/cam_483/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_484 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_484 FHD
 http://sochi.camera:8080/cam_484/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_486 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_486 FHD
 http://sochi.camera:8080/cam_486/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_489 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_489 FHD
 http://sochi.camera:8080/cam_489/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_490 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_490 FHD
 http://sochi.camera:8080/cam_490/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_491 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_491 FHD
 http://sochi.camera:8080/cam_491/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_492 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_492 FHD
 http://sochi.camera:8080/cam_492/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_493 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_493 FHD
 http://sochi.camera:8080/cam_493/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_494 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_494 FHD
 http://sochi.camera:8080/cam_494/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_495 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_495 FHD
 http://sochi.camera:8080/cam_495/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_496 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_496 FHD
 http://sochi.camera:8080/cam_496/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_497 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_497 FHD
 http://sochi.camera:8080/cam_497/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_498 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_498 FHD
 http://sochi.camera:8080/cam_498/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_499 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_499 FHD
 http://sochi.camera:8080/cam_499/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_5 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_5 FHD
 http://sochi.camera:8080/cam_5/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_500 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_500 FHD
 http://sochi.camera:8080/cam_500/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_501 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_501 FHD
 http://sochi.camera:8080/cam_501/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_503 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_503 FHD
 http://sochi.camera:8080/cam_503/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_504 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_504 FHD
 http://sochi.camera:8080/cam_504/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_505 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_505 FHD
 http://sochi.camera:8080/cam_505/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_506 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_506 FHD
 http://sochi.camera:8080/cam_506/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_507 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_507 FHD
 http://sochi.camera:8080/cam_507/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_508 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_508 FHD
 http://sochi.camera:8080/cam_508/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_509 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_509 FHD
 http://sochi.camera:8080/cam_509/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_512 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_512 FHD
 http://sochi.camera:8080/cam_512/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_513 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_513 FHD
 http://sochi.camera:8080/cam_513/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_514 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_514 FHD
 http://sochi.camera:8080/cam_514/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_515 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_515 FHD
 http://sochi.camera:8080/cam_515/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_517 FHD
-http://sochi.camera:8080/cam_517/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_518 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_518 FHD
 http://sochi.camera:8080/cam_518/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_52 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_52 FHD
 http://sochi.camera:8080/cam_52/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_521 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_521 FHD
 http://sochi.camera:8080/cam_521/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_522 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_522 FHD
 http://sochi.camera:8080/cam_522/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_523 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_523 FHD
 http://sochi.camera:8080/cam_523/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_524 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_524 FHD
 http://sochi.camera:8080/cam_524/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_525 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_525 FHD
 http://sochi.camera:8080/cam_525/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_526 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_526 FHD
 http://sochi.camera:8080/cam_526/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_527 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_527 FHD
 http://sochi.camera:8080/cam_527/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_55 FHD
-http://sochi.camera:8080/cam_55/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_6 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_6 FHD
 http://sochi.camera:8080/cam_6/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_63 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_63 FHD
 http://sochi.camera:8080/cam_63/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_64 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_64 FHD
 http://sochi.camera:8080/cam_64/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_65 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_65 FHD
 http://sochi.camera:8080/cam_65/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_66 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_66 FHD
 http://sochi.camera:8080/cam_66/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_67 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_67 FHD
 http://sochi.camera:8080/cam_67/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_68 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_68 FHD
 http://sochi.camera:8080/cam_68/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_7 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_7 FHD
 http://sochi.camera:8080/cam_7/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_72 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_72 FHD
 http://sochi.camera:8080/cam_72/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_80 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_80 FHD
 http://sochi.camera:8080/cam_80/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_83 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_83 FHD
 http://sochi.camera:8080/cam_83/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_85 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_85 FHD
 http://sochi.camera:8080/cam_85/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_86 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_86 FHD
 http://sochi.camera:8080/cam_86/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_87 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_87 FHD
 http://sochi.camera:8080/cam_87/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_88 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_88 FHD
 http://sochi.camera:8080/cam_88/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_89 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_89 FHD
 http://sochi.camera:8080/cam_89/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_9 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_9 FHD
 http://sochi.camera:8080/cam_9/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_91 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_91 FHD
 http://sochi.camera:8080/cam_91/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_93 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_93 FHD
 http://sochi.camera:8080/cam_93/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_94 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_94 FHD
 http://sochi.camera:8080/cam_94/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_95 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_95 FHD
 http://sochi.camera:8080/cam_95/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_96 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_96 FHD
 http://sochi.camera:8080/cam_96/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_97 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_97 FHD
 http://sochi.camera:8080/cam_97/playlist.m3u8
-#EXTINF:-1 group-title="cam_rus_exCCCP_SOCHICAM_FHD",SOCHI cam_98 FHD
+#EXTINF:-1 group-title="cam_RUS_exCCCP",SOCHI cam_98 FHD
 http://sochi.camera:8080/cam_98/playlist.m3u8
 #EXTINF:-1 group-title="cam_MIX",Spain - Malaga Airport
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCd3-NYoslM4KN99HFV4d9GA/live
@@ -1639,8 +1555,6 @@ https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube
 https://cdn.livespotting.com/vpu/jsxhx3vx/9chmjag2.m3u8
 #EXTINF:-1 group-title="cam_PORTUGAL",São João do Estoril
 https://video-auth1.iol.pt/beachcam/saojoaodoestoril/playlist.m3u8
-#EXTINF:-1 group-title="cam_PORTUGAL",Tamariz
-https://video-auth1.iol.pt/beachcam/tamariz/playlist.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",Tekirdağ-Süleymanpaşa - Balıkçı Limanı
 http://wowza.tekirdag.bel.tr:1935/sahil/sahil.stream/chunklist_w1140208261.m3u8
 #EXTINF:-1 group-title="cam_MIX",Thunderstorms
@@ -1755,14 +1669,6 @@ https://2-fss-2.streamhoster.com/pl_126/200612-1195930-1/chunklist.m3u8
 https://2-fss-2.streamhoster.com/pl_126/200612-1195932-1/chunklist.m3u8
 #EXTINF:-1 group-title="cam_USA",United States - Independence State Airport
 https://5ddd47d64e730.streamlock.net:444/jeannesflyingservice1/jeannesflyingservice1.stream/chunklist_w1266566556.m3u8
-#EXTINF:-1 group-title="cam_USA",United States - Mountain Air
-https://wowza.skyrunner.net/mtnair/ch0.stream/playlist.m3u8
-#EXTINF:-1 group-title="cam_USA",United States - Mountain Air
-https://wowza.skyrunner.net/mtnair/ch2.stream/playlist.m3u8
-#EXTINF:-1 group-title="cam_USA",United States - Mountain Air
-https://wowza.skyrunner.net/mtnair/ch3.stream/playlist.m3u8
-#EXTINF:-1 group-title="cam_USA",United States - NAS North Island Air Base
-https://595b9deb3d6ac.streamlock.net/rtplive/sandiego.stream/chunklist_w756110790.m3u8
 #EXTINF:-1 group-title="cam_USA",United States - New Castle County Airport
 http://8.43.23.19:1935/live/ILGRearPL1.stream/chunklist_w642166793.m3u8
 #EXTINF:-1 group-title="cam_USA",United States - New Castle County Airport
@@ -1799,8 +1705,6 @@ http://wse1.resortcams.com/live-nDVR/freedomboatclub.stream/HasBahCa.m3u8
 http://55507e0501d25.streamlock.net/live/greenparrot2.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_USA",USA - Greeneville
 http://wse1.resortcams.com/live/greeneville.stream/HasBahCa.m3u8
-#EXTINF:-1 group-title="cam_USA",USA - Hawaii
-https://edge01.kirillovka.ks.ua/hawaii1/index.m3u8
 #EXTINF:-1 group-title="cam_USA",USA - Hogs Breath Saloon
 https://55507e0501d25.streamlock.net/live-audio/hogsbreath3.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_USA",USA - Kure Beach Street Cam
@@ -1921,10 +1825,6 @@ https://bagcilarbelediyesilive.mediatriple.net/bagcilarbelediyesi_live/broadcast
 https://bagcilarbelediyesilive.mediatriple.net/bagcilarbelediyesi_live/broadcast_59414489d70f5.smil/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-Bağcılar-Halk Sarayı - Sahne (Devamlı AÇIK DEĞİL)
 https://bagcilarbelediyesilive.mediatriple.net/bagcilarbelediyesi_live/broadcast_594144367cee4.smil/chunklist_w1434137037_b200000.m3u8
-#EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-Bağdat Caddesi 1
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_bagdat_cad_1.stream/HasBahCa.m3u8
-#EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-Bağdat Caddesi 2
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_bagdat_cad_2.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-Büyük Çamlıca
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_buyuk_camlica.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-Dragos
@@ -1933,8 +1833,6 @@ https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_dragos.stream/HasBahCa.m3u8
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_eminonu.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-Emirgan
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_emirgan.stream/HasBahCa.m3u8
-#EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-Esenler Meydanı
-https://livestream.ibb.gov.tr/cam_sehir/cam_esenler_meydan.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-Eyüp Sultan
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_eyup.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-Eyüpsultan-Akşemsettin Parkı 1
@@ -1979,8 +1877,6 @@ https://eyup3.taliavision.com/livestream/hls/ozgecan2/index.m3u8
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_hidiv_kasri_1.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-Karaköy
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_karakoy.stream/HasBahCa.m3u8
-#EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-Küçükçekmece
-https://livestream.ibb.gov.tr/cam_sehir/cam_kucukcekmece.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-Kız Kulesi
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_kiz_kulesi_1.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-Metrohan
@@ -1989,8 +1885,6 @@ https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_metrohan.stream/HasBahCa.m3u
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_miniaturk.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-Mısır Çarşısı
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_misir_carsisi.stream/HasBahCa.m3u8
-#EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-Ortaköy
-https://livestream.ibb.gov.tr/cam_sehir/cam_ortakoy.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-Pierre Loti
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_pierloti.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-Salacak
@@ -2003,16 +1897,10 @@ https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sepetciler_kasri.stream/HasB
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sultanahmet_1.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-Sultanahmet 2
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sultanahmet_2.stream/HasBahCa.m3u8
-#EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-Sultanbeyli
-https://livestream.ibb.gov.tr/cam_sehir/cam_sultanbeyli_meydan.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-Taksim Meydanı
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_taksim.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-Ulus Parkı
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_ulus_parki.stream/HasBahCa.m3u8
-#EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-Zeytinburnu
-https://livestream.ibb.gov.tr/cam_sehir/cam_zeytinburnu_meydan.stream/HasBahCa.m3u8
-#EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-Üsküdar
-https://livestream.ibb.gov.tr/cam_sehir/cam_uskudar.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-İstiklal Caddesi 1 (Devamlı AÇIK DEĞİL)
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_istiklal_cad_1.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_TÜRKEY",İstanbul-İstiklal Caddesi 2
@@ -2047,8 +1935,6 @@ https://watch.vikscom.net/more.bassein/index.m3u8
 https://watch.vikscom.net/more.villa1/index.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Алушта 3
 https://watch.vikscom.net/more.naberezhnaya/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Апатиты 3
-http://murmansk-online.ru:8080/apatity_fontan/index.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Апатиты 4
 http://murmansk-online.ru:8080/apatity_zal1/index.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Апатиты 5
@@ -2129,8 +2015,6 @@ http://stream-5gw.1000eyes.de/cupertino/cgn06B1E8.stream/HasBahCa.m3u8
 http://stream-5gw.1000eyes.de/cupertino/cgn2C70DD.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Аэропорт Кельн/Бонн 3
 http://stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/HasBahCa.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Барнаул 1
-https://live.katun24.ru:8082/drama/index.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Барнаул 2
 https://live.katun24.ru:8082/RVI_PTZ_DINAMO/index.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Барнаул 3
@@ -2157,30 +2041,6 @@ https://streamer.devnet.rs/hls/pupina.m3u8
 http://91.225.157.3/mstream/zubryonline.stream/index.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Бельгия
 http://stream.brucity.be/BXLCAM/CAM-DeBrouckere.stream/HasBahCa.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Бердянск - Вход
-https://stream.bmr.gov.ua/hls/411.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Бердянск - Панорама
-https://stream.bmr.gov.ua/hls/251.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Бердянск - Парк
-https://stream.bmr.gov.ua/hls/2101.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Бердянск - ЦНАП 1
-https://stream.bmr.gov.ua/hls/3101.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Бердянск - ЦНАП 2
-https://stream.bmr.gov.ua/hls/391.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Бердянск 1
-https://edge01.kirillovka.ks.ua/berdyansksuncoast1/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Бердянск 10
-https://edge01.kirillovka.ks.ua/locman/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Бердянск 2
-https://edge01.kirillovka.ks.ua/berdyansknab13/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Бердянск 3
-https://edge01.kirillovka.ks.ua/berdyanskliski1/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Бердянск 5
-https://edge01.kirillovka.ks.ua/berdyansksuncoast2/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Бердянск 7
-https://edge01.kirillovka.ks.ua/maxim1/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Бердянск 8
-https://edge01.kirillovka.ks.ua/maxim2/index.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Благовещенск 1
 http://hls3.bashtel.ru/hls/cam313.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Благовещенск 4
@@ -2189,42 +2049,8 @@ http://hls3.bashtel.ru/hls/cam304.m3u8
 http://hls3.bashtel.ru/hls/cam312.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Благовещенск 7
 http://hls3.bashtel.ru/hls/cam301.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Болгария
-https://edge01.kirillovka.ks.ua/bulgaria2/index.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Ботаническая ул.-Чебышевская ул.
 http://gorod.tv/s/live/899/87.102.217.154/1643216962684/0.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Боярка 10
-http://cam.maximuma.net/hls/cam52/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Боярка 10
-http://cam.maximuma.net/hls/cam30/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Боярка 13
-http://cam.maximuma.net/hls/cam7/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Боярка 14
-http://cam.maximuma.net/hls/cam23/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Боярка 15
-http://cam.maximuma.net/hls/cam60/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Боярка 15
-http://cam.maximuma.net/hls/cam17/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Боярка 16
-http://cam.maximuma.net/hls/cam18/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Боярка 17
-http://cam.maximuma.net/hls/cam32/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Боярка 18
-http://cam.maximuma.net/hls/cam56/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Боярка 18
-http://cam.maximuma.net/hls/cam34/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Боярка 19
-http://cam.maximuma.net/hls/cam53/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Боярка 19
-http://cam.maximuma.net/hls/cam31/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Боярка 2
-http://cam.maximuma.net/hls/cam61/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Боярка 4
-http://cam.maximuma.net/hls/cam4/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Боярка 7
-http://cam.maximuma.net/hls/cam64/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Боярка 8
-http://cam.maximuma.net/hls/cam54/stream.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Брест 8
 http://217.21.34.252:1028
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Бузулук 1
@@ -2397,8 +2223,6 @@ http://uhu.streaming.pixtura.de/live/Uhu2.stream/HasBahCa.m3u8
 http://gorod.tv/s/live/890/87.102.217.154/1643216962684/0.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Гостилицкое ш.-Чичеринская ул.перекрёсток
 http://gorod.tv/s/live/882/87.102.217.154/1643216962684/0.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Грибовка 2
-https://edge01.kirillovka.ks.ua/gribovkayuzhnaya1/index.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",д. 86 дет.площадка
 http://gorod.tv/s/live/850/87.102.217.154/1643217069920/0.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",д. 96 дет.площадка
@@ -2435,10 +2259,6 @@ http://109.196.208.35:8080/hls/5086/dbeecc83d28fb6e5d3bf/playlist.m3u8
 http://109.196.208.35:8080/hls/5092/ed37678b9af1448aae5a/playlist.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",ЖК Ломоносовъ
 http://gorod.tv/s/live/870/87.102.217.154/1643216962684/0.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Запорожье 1
-https://edge01.kirillovka.ks.ua/zpromaks/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Запорожье 2
-https://edge01.kirillovka.ks.ua/zpdubovka/index.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Ирландия
 http://cdn-004.whatsupcams.com/hls/ie_tralee01.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Испания
@@ -2475,8 +2295,6 @@ http://media.gov39.ru:1935/webcam-rec/mapp_bagrat.stream/HasBahCa.m3u8
 http://media.gov39.ru:1935/webcam-rec/onkocenter.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Калининград 6
 http://media.gov39.ru:1935/webcam-rec/onkocenter2.stream/HasBahCa.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Каменск-Уральский 1
-http://78.139.78.106:8080/hls/3762/f37bfba459879eb71ace/playlist.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Каменск-Уральский 2
 http://78.139.78.106:8080/hls/3674/3816e1b1e92deed01a13/playlist.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Кашира 1
@@ -2523,42 +2341,14 @@ https://flussonic.king-online.ru/camera07/index.m3u8
 https://flussonic.king-online.ru/camera02/index.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Кингисепп 4
 https://flussonic.king-online.ru/camera04/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Кирилловка 1
-https://edge01.kirillovka.ks.ua/sanremo/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Кирилловка 2
-http://edge01.kirillovka.ks.ua/vodamir/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Кирилловка 3
-https://edge01.kirillovka.ks.ua/sanatorium/index.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Кирилловка 4
 https://live02.kirillovka.ks.ua/live/peresyp.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Кирилловка 6
-http://edge01.kirillovka.ks.ua/sanremo/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Кировоград 1
-http://webcam.shtorm.com/camera/CAM12/12.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Кировоград 2
-http://webcam.shtorm.com/camera/CAM14/14.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Кировоград 3
-http://webcam.shtorm.com/camera/CAM15/15.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Кировоград 4
-http://webcam.shtorm.com/camera/CAM16/16.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Кировоград 5
-http://webcam.shtorm.com/camera/CAM18/18.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Кировоград 6
-http://webcam.shtorm.com/camera/CAM17/17.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Китай 2
 http://bililive.kksmg.com:1935/hls/sdi80/playlist.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Коломна
 http://78.25.155.250:8080/hls/38789/c60fe3aac77f3c81f852/playlist.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Коломыя - Писанка
-http://stream.ntktv.ua/s/pysanka/pysanka.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Коломыя - Ратуша
-http://stream.ntktv.ua/s/ratusha/ratusha.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Коломыя 1
-http://stream.ntktv.ua/s/bell_tower/bell_tower.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Коломыя 2
 http://stream.ntktv.ua/s/annunciation/annunciation.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Коломыя 3
-https://stream.ntktv.ua/s/ratusha/ratusha.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",корп. 1
 http://gorod.tv/s/live/841/87.102.217.154/1643216962684/0.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",корп. 1
@@ -2641,10 +2431,6 @@ http://89.117.128.169:80/Palanga/palanga.stream/chunklist.m3u8
 https://s1.dcdn.lt/livecam/tra04.stream/playlist.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Ломоносов
 http://gorod.tv/s/live/888/87.102.217.154/1643216962684/0.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Львов - Рынок Шувар 1
-http://shuvarcam.levtv.net/hls/camera3.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Львов - Рынок Шувар 8
-http://shuvarcam.levtv.net/hls/camera9.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Львов - Церковь 1
 http://sukhovolya-tserkva.org.ua/live-video/church1.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Львов - Церковь 2
@@ -2683,8 +2469,6 @@ http://streaming1.neotel.net.mk:8080/hls/gostivar_1.m3u8
 http://streaming1.neotel.net.mk:8080/hls/glumovo_1.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Македония 8
 http://streaming1.neotel.net.mk:8080/hls/zelino_1.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Македония 9
-http://streaming1.neotel.net.mk:8080/hls/tetovo_1.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Медногорск 1
 https://live2-orsk.cdnvideo.ru/orsk-mednogorsk/mednogorsk1/playlist.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Медногорск 2
@@ -2757,8 +2541,6 @@ http://553dc34944e34.streamlock.net/ingrad/Tumensky2.stream/chunklist.m3u8
 http://553dc34944e34.streamlock.net/ingrad/Tumensky3.stream/chunklist.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Москва 19
 https://cameras.inetcom.ru/hls/camera12_11.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Москва 2
-https://room-park.ru/hls-576/stream.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Москва 20
 https://cameras.inetcom.ru/hls/camera12_5.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Москва 21
@@ -2939,10 +2721,6 @@ http://cam.ntks.ru/lenina23hd/index.m3u8
 http://cam.ntks.ru/school25/index.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Низино детская площадка
 http://gorod.tv/s/live/872/87.102.217.154/1643217069920/0.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Николаев 1
-http://194.246.74.219/video/index2.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Николаев 2
-http://194.246.74.219/video/index1.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Новосибирск 2
 http://wowza-2.novo-sibirsk.ru:1935/live/Pervomay_GerRev_NTK.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Новосибирск 3
@@ -3003,18 +2781,6 @@ http://camera.global-x.ru:80/CAM_Park/index.m3u8
 http://92.46.108.21:1934/rtplive/_definst_/camera1.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Нур-Султан - ТРЦ Хан Шатыр 2
 http://92.46.108.21:1934/rtplive/_definst_/camera2.stream/HasBahCa.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Одесса - Бассейн в форме дельфина
-http://cdn1.live-tv.od.ua:8081/nemo/cam-dolphin-720p/playlist.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Одесса - Бассейн с дельфинами
-http://cdn1.live-tv.od.ua:8081/nemo/cam-elipse-720p/playlist.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Одесса - Пляж/Набережная
-http://cdn1.live-tv.od.ua:8081/nemo/cam-kupol-720p/playlist.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Одесса - Ресторан
-http://cdn1.live-tv.od.ua:8081/nemo/cam-terassa6-720p/playlist.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Одесса - Терраса отеля Немо
-http://cdn1.live-tv.od.ua:8081/nemo/cam-m1-720p/playlist.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Одесса - Терраса отеля Немо 2
-http://cdn1.live-tv.od.ua:8081/nemo/cam-lift7-720p/playlist.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Одинцово
 https://cam.indikom.ru/1/hls/stream.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Одинцово 2
@@ -3391,8 +3157,6 @@ http://streams3.renet.ru/13/hls/live.m3u8
 http://streams3.renet.ru/47/hls/live.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Саратов 5
 http://streams3.renet.ru/7/hls/live.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Саратов 5
-http://streams3.renet.ru/45/hls/live.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Саратов 6
 http://streams3.renet.ru/37/hls/live.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Саратов 7
@@ -3403,8 +3167,6 @@ http://streams3.renet.ru/41/hls/live.m3u8
 http://streams3.renet.ru/42/hls/live.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Саратов 9
 http://streams3.renet.ru/30/hls/live.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Северо-Курильск
-http://185.87.194.73:8086/tv/cam/playlist.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Симферополь - ГРЭС
 http://195.49.206.244:9090/GRES_1/index.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Симферополь - Мемориал
@@ -3425,30 +3187,6 @@ http://80.245.112.23/5/hls/live5.m3u8
 http://80.245.112.23/1/hls/live.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Симферополь 7
 http://iptv.media-ix.com:11375/cam01/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Славянск 1
-http://slavrada.dyndns.org:20480/hls20/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Славянск 10
-http://slavrada.dyndns.org:20480/hls3/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Славянск 11
-http://slavrada.dyndns.org:20480/hls15/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Славянск 12
-http://slavrada.dyndns.org:20480/hls22/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Славянск 13
-http://slavrada.dyndns.org:20480/hls18/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Славянск 3
-http://slavrada.dyndns.org:20480/hls5/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Славянск 4
-http://slavrada.dyndns.org:20480/hls19/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Славянск 5
-http://slavrada.dyndns.org:20480/hls10/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Славянск 5
-http://slavrada.dyndns.org:20480/hls7/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Славянск 7
-http://slavrada.dyndns.org:20480/hls24/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Славянск 8
-http://slavrada.dyndns.org:20480/hls17/stream.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Словакия 10
-http://stream.profi-net.sk:1935/tmr/STREAM34.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Словакия 11
 http://stream.profi-net.sk:1935/tmr/STREAM3.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Словакия 11
@@ -3551,20 +3289,12 @@ https://stream.telko.ru/Tuhach_28_9_cam1/tracks-v1/mono.m3u8
 https://stream.telko.ru/Tuhach_28_9_cam2/tracks-v1/mono.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Стрый 3
 https://stream-uspinnia.pp.ua/hls2/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Сходница 1
-https://edge01.kirillovka.ks.ua/skhodnitsa02/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Сходница 2
-https://edge01.kirillovka.ks.ua/skhodnitsa01/index.m3u8
 #EXTINF:-1 group-title="cam_USA",США - Бабуин
 http://zssd-baboon.hls.camzonecdn.com/CamzoneStreams/zssd-baboon/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_USA",США - Бегемоты
 https://zssd-hippo.hls.camzonecdn.com/CamzoneStreams/zssd-hippo/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_USA",США - Белый медведь
 http://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/HasBahCa.m3u8
-#EXTINF:-1 group-title="cam_USA",США - Землекоп 1
-https://nzp-ms06.si.edu/live_edge_nmr/nmr_1080_all.smil/chunklist_b5500000.m3u8
-#EXTINF:-1 group-title="cam_USA",США - Землекоп 2
-https://nzp-ms06.si.edu/live_edge_nmr_02/nmr_02_1080_all.smil/chunklist_b850000.m3u8
 #EXTINF:-1 group-title="cam_USA",США - Клетка
 https://zssd-owlaviary.hls.camzonecdn.com/CamzoneStreams/zssd-owlaviary/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_USA",США - Коала
@@ -3741,34 +3471,6 @@ https://webcam.feonet.net/adv_42370/index.m3u8
 https://webcam.feonet.net/adv_30545/index.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Феодосия 9
 https://webcam.feonet.net/adv_92333/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Херсон - Автовокзал
-http://91.214.176.84:8088/hls/ch01/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Херсон 1
-http://91.214.176.84:8088/hls/ch03/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Херсон 10
-http://91.214.176.84:8088/hls/ch08/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Херсон 11
-http://91.214.176.84:8088/hls/ch11/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Херсон 2
-http://91.214.176.84:8088/hls/ch14/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Херсон 2
-http://91.214.176.84:8088/hls/ch04/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Херсон 3
-http://91.214.176.84:8088/hls/ch07/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Херсон 4
-http://91.214.176.84:8088/hls/ch02/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Херсон 5
-http://91.214.176.84:8088/hls/ch09/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Херсон 6
-http://91.214.176.84:8088/hls/ch10/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Херсон 7
-http://91.214.176.84:8088/hls/ch06/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Херсон 9
-http://91.214.176.84:8088/hls/ch05/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Хмельницкий
-http://stream1.ic.km.ua/kmmaidan.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Хорватия 2
-https://edge01.kirillovka.ks.ua/croatialopar/index.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Челябинск 1
 https://cams.is74.ru/live/sub/cam9531.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Челябинск 2
@@ -3813,36 +3515,6 @@ http://live.cmirit.ru:1935/live/axis5_1280x720.stream/HasBahCa.m3u8
 http://live.cmirit.ru:1935/live/axis7_1920x1080.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Череповец 9
 http://live.cmirit.ru:1935/live/rvi2_1920x1080.stream/HasBahCa.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Черновцы 1
-http://langate.tv/cam18/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Черновцы 10
-http://langate.tv/cam28/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Черновцы 12
-http://langate.tv/cam12/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Черновцы 14
-http://langate.tv/cam16/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Черновцы 15
-http://langate.tv/cam17/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Черновцы 15
-http://langate.tv/cam15/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Черновцы 2
-http://langate.tv/cam11/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Черновцы 3
-http://langate.tv/cam35/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Черновцы 4
-http://langate.tv/cam34/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Черновцы 5
-http://langate.tv/cam33/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Черновцы 6
-http://langate.tv/cam32/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Черновцы 7
-http://langate.tv/cam31/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Черновцы 8
-http://langate.tv/cam36/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Черновцы 8
-http://langate.tv/cam30/index.m3u8
-#EXTINF:-1 group-title="cam_RUS_exCCCP",Черновцы 9
-http://langate.tv/cam29/index.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Черноморск
 http://cmr.gov.ua/live/ip1/mpegts/stream.m3u8
 #EXTINF:-1 group-title="cam_RUS_exCCCP",Черноморское
