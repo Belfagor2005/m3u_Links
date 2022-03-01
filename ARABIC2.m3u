@@ -1083,8 +1083,6 @@ http://45.94.31.190:7001/play/a0ai
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Mekameleen مكملين
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
-#EXTINF:-1,Mekka tv (480p)
-http://makkahtv.srfms.com:1935/makkahtv/livestream/HasBahCa.m3u8
 #EXTINF:-1,Menhag Alnbowa
 http://45.94.31.190:7002/play/a0bm
 #EXTINF:-1,Miracle TV
@@ -1343,8 +1341,6 @@ https://iptv.salaamtv.org/salaam/playlist2/index.m3u8?HasBahCa.m3u8
 http://45.94.31.190:7003/play/a0al
 #EXTINF:-1,Salam TV (720p)
 https://iptv.salaamtv.org/salaam/playlist.m3u8
-#EXTINF:-1,SALAMAT (576p)
-https://sdm.telewebion.com/live/salamat/playlist.m3u8
 #EXTINF:-1,SAMA DUBAI HD
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
 #EXTINF:-1,SAMA TV

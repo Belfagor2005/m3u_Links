@@ -313,8 +313,6 @@ http://149.62.183.198:8000/play/a08u/index.m3u8?HasBahCa.m3u8
 http://149.62.183.198:8000/play/a05i/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Althanya
 http://149.62.183.214:8000/play/a021/index.m3u8
-#EXTINF:-1,ALWadi ALGaded
-http://149.62.183.214:8000/play/a04j/index.m3u8
 #EXTINF:-1,ALWAQIE TV HD
 http://149.62.183.214:8000/play/a091/index.m3u8
 #EXTINF:-1,Amman TV
@@ -349,8 +347,6 @@ http://149.62.183.198:8000/play/a03e/index.m3u8?HasBahCa.m3u8
 http://149.62.183.214:8000/play/a08l/index.m3u8
 #EXTINF:-1,Assadissa
 http://149.62.183.198:8000/play/a03h/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,Aswan
-http://149.62.183.214:8000/play/a04h/index.m3u8
 #EXTINF:-1,Athagavia MR
 http://149.62.183.214:8000/play/a0bq/index.m3u8
 #EXTINF:-1,Athaqafia
@@ -367,8 +363,6 @@ http://149.62.183.198:8000/play/a06c/index.m3u8?HasBahCa.m3u8
 http://149.62.183.198:8000/play/a020/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Bahia TV
 http://149.62.183.214:8000/play/a089/index.m3u8
-#EXTINF:-1,Bakous Alexandaria
-http://149.62.183.214:8000/play/a04g/index.m3u8
 #EXTINF:-1,BATOOT KIDS
 http://149.62.183.198:8000/play/a09w/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,BATOOT KIDS
@@ -379,12 +373,6 @@ http://149.62.183.198:8000/play/a0bw/index.m3u8?HasBahCa.m3u8
 http://149.62.183.214:8000/play/a01h/index.m3u8
 #EXTINF:-1,BBC Arabic HD
 http://149.62.183.214:8000/play/a01k/index.m3u8
-#EXTINF:-1,BBC Horn of Africa
-http://149.62.183.214:8000/play/a01r/index.m3u8
-#EXTINF:-1,BBC World Service Arabic
-http://149.62.183.214:8000/play/a01p/index.m3u8
-#EXTINF:-1,BBC World Service English Middle East
-http://149.62.183.214:8000/play/a01q/index.m3u8
 #EXTINF:-1,BBCW
 http://149.62.183.198:8000/play/a06d/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Bedaya
@@ -441,12 +429,6 @@ http://149.62.183.214:8000/play/a02t/index.m3u8
 http://149.62.183.198:8000/play/a07a/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,CBC Sofra
 http://149.62.183.214:8000/play/a02s/index.m3u8
-#EXTINF:-1,CHAINE 1
-http://149.62.183.214:8000/play/a07q/index.m3u8
-#EXTINF:-1,CHAINE 2
-http://149.62.183.214:8000/play/a07r/index.m3u8
-#EXTINF:-1,CHAINE 3
-http://149.62.183.214:8000/play/a07s/index.m3u8
 #EXTINF:-1,CHINGUIT TV
 http://149.62.183.214:8000/play/a0bo/index.m3u8
 #EXTINF:-1,Cima
@@ -489,8 +471,6 @@ http://149.62.183.214:8000/play/a0bp/index.m3u8
 http://149.62.183.214:8000/play/a08v/index.m3u8
 #EXTINF:-1,Dijlah Tarab
 http://149.62.183.198:8000/play/a04f/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,dmc
-http://149.62.183.198:8000/play/a070/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,dmc masraheyat
 http://149.62.183.198:8000/play/a074/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,dmc News
@@ -585,8 +565,6 @@ http://149.62.183.214:8000/play/a08p/index.m3u8
 http://149.62.183.198:8000/play/a0cb/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Euronews
 http://149.62.183.214:8000/play/a01t/index.m3u8
-#EXTINF:-1,Eurpean Radio
-http://149.62.183.214:8000/play/a060/index.m3u8
 #EXTINF:-1,Extra News
 http://149.62.183.198:8000/play/a07c/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Extra News
@@ -625,8 +603,6 @@ http://149.62.183.198:8000/play/a043/index.m3u8?HasBahCa.m3u8
 http://149.62.183.198:8000/play/a044/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Hiya TV
 http://149.62.183.214:8000/play/a08u/index.m3u8
-#EXTINF:-1,Holly Quran
-http://149.62.183.214:8000/play/a05x/index.m3u8
 #EXTINF:-1,Hona Baghdad
 http://149.62.183.198:8000/play/a0bf/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Iqraa
@@ -691,8 +667,6 @@ http://149.62.183.198:8000/play/a03x/index.m3u8?HasBahCa.m3u8
 http://149.62.183.198:8000/play/a090/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Libya 218 News
 http://149.62.183.198:8000/play/a08x/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,Libya Al Ahrar HD
-http://149.62.183.198:8000/play/a04s/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Libya Al Ahrar HD
 http://149.62.183.214:8000/play/a0ay/index.m3u8
 #EXTINF:-1,Libya Al Ahrar HD
@@ -851,8 +825,6 @@ http://149.62.183.198:8000/play/a05a/index.m3u8?HasBahCa.m3u8
 http://149.62.183.214:8000/play/a0bf/index.m3u8
 #EXTINF:-1,NBN
 http://149.62.183.214:8000/play/a0df/index.m3u8
-#EXTINF:-1,Nedaa El Islam
-http://149.62.183.214:8000/play/a061/index.m3u8
 #EXTINF:-1,Nile Cinema
 http://149.62.183.198:8000/play/a08d/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Nile Cinema
@@ -909,16 +881,6 @@ http://149.62.183.214:8000/play/a0b6/index.m3u8
 http://149.62.183.214:8000/play/a00o/index.m3u8
 #EXTINF:-1,Noursat_c
 http://149.62.183.214:8000/play/a0bb/index.m3u8
-#EXTINF:-1,OMAN CLASSIC
-http://149.62.183.214:8000/play/a05c/index.m3u8
-#EXTINF:-1,OMAN ENGLISH RADIO
-http://149.62.183.214:8000/play/a05d/index.m3u8
-#EXTINF:-1,OMAN GENERAL RADIO
-http://149.62.183.214:8000/play/a054/index.m3u8
-#EXTINF:-1,OMAN HOLY QURAN
-http://149.62.183.214:8000/play/a055/index.m3u8
-#EXTINF:-1,OMAN SHABAB RADIO
-http://149.62.183.214:8000/play/a05b/index.m3u8
 #EXTINF:-1,OMAN TV Culture HD
 http://149.62.183.214:8000/play/a05a/index.m3u8
 #EXTINF:-1,OMAN TV General HD
@@ -1041,22 +1003,10 @@ http://149.62.183.214:8000/play/a07a/index.m3u8
 http://149.62.183.198:8000/play/a0ai/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,QUEEN DRAMA
 http://149.62.183.214:8000/play/a07b/index.m3u8
-#EXTINF:-1,Quran Kareem
-http://149.62.183.214:8000/play/a082/index.m3u8
 #EXTINF:-1,QURAN TV
 http://149.62.183.214:8000/play/a03p/index.m3u8
-#EXTINF:-1,RADIO 3
-http://149.62.183.214:8000/play/a0by/index.m3u8
-#EXTINF:-1,RADIO CORAN
-http://149.62.183.214:8000/play/a0bw/index.m3u8
-#EXTINF:-1,RADIO JEUNESSE
-http://149.62.183.214:8000/play/a0bx/index.m3u8
-#EXTINF:-1,RADIO MAURITANIE
-http://149.62.183.214:8000/play/a0bv/index.m3u8
 #EXTINF:-1,Ressala HD
 http://149.62.183.214:8000/play/a01c/index.m3u8
-#EXTINF:-1,RFI Francais
-http://149.62.183.214:8000/play/a01f/index.m3u8
 #EXTINF:-1,RO'YA HD
 http://149.62.183.198:8000/play/a0bg/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,RO`YA
@@ -1125,16 +1075,10 @@ http://149.62.183.214:8000/play/a063/index.m3u8
 http://149.62.183.198:8000/play/a0br/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Saudi Ch. For Sunnah
 http://149.62.183.198:8000/play/a0bs/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,Saudi Radio 1
-http://149.62.183.214:8000/play/a05y/index.m3u8
-#EXTINF:-1,Saudi Radio 2
-http://149.62.183.214:8000/play/a05z/index.m3u8
 #EXTINF:-1,SAUDI TV HD
 http://149.62.183.214:8000/play/a05s/index.m3u8
 #EXTINF:-1,Saudi-1
 http://149.62.183.198:8000/play/a0bm/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,SAWTOMAN RADIO
-http://149.62.183.214:8000/play/a05e/index.m3u8
 #EXTINF:-1,SBC
 http://149.62.183.198:8000/play/a0bt/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,SBC HD
@@ -1151,8 +1095,6 @@ http://149.62.183.214:8000/play/a07c/index.m3u8
 http://149.62.183.214:8000/play/a01i/index.m3u8
 #EXTINF:-1,Sky News Arabia HD
 http://149.62.183.214:8000/play/a01j/index.m3u8
-#EXTINF:-1,Sky News Arabia Radio
-http://149.62.183.214:8000/play/a01n/index.m3u8
 #EXTINF:-1,Soft
 http://149.62.183.198:8000/play/a04t/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Soft
@@ -1247,8 +1189,6 @@ http://149.62.183.214:8000/play/a07p/index.m3u8
 http://149.62.183.214:8000/play/a08n/index.m3u8
 #EXTINF:-1,VIP TV
 http://149.62.183.198:8000/play/a04k/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,Voice of Palestine
-http://149.62.183.214:8000/play/a0du/index.m3u8
 #EXTINF:-1,WAAR HD
 http://149.62.183.214:8000/play/a08m/index.m3u8
 #EXTINF:-1,Wanasah

@@ -79,8 +79,6 @@ http://181.78.22.214:8000/play/a00v
 http://45.236.175.0:9600/play/a00s
 #EXTINF:-1,Animal Planet
 http://190.83.119.67:8000/play/a0il/index.m3u8
-#EXTINF:-1,Animal Planet HD
-http://190.83.119.67:8000/play/a0ge/index.m3u8
 #EXTINF:-1,ANTARES TELEVISION HD
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w2094395631.m3u8
 #EXTINF:-1,Antena 3
@@ -115,8 +113,6 @@ http://190.83.119.67:8000/play/a0fz/index.m3u8
 http://190.83.119.67:8000/play/a0kc/index.m3u8
 #EXTINF:-1,AZ click HD
 http://190.92.95.37:8000/play/a0go/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,AZ click HD
-http://190.83.119.67:8000/play/a0go/index.m3u8
 #EXTINF:-1,AZ.TV
 https://azxtv.com/hls/stream.m3u8
 #EXTINF:-1,Azcorazon
@@ -275,8 +271,6 @@ http://panel.dattalive.com:1935/8250/8250/HasBahCa.m3u8
 https://inliveserver.com:1936/15506/15506/HasBahCa.m3u8
 #EXTINF:-1,Canal Antigua - GUA
 http://190.92.95.37:8000/play/a0hy/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,Canal Antigua - GUA
-http://190.83.119.67:8000/play/a0hy/index.m3u8
 #EXTINF:-1,Canal Azteca - GUA
 http://190.92.95.37:8000/play/a0hz/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Canal Azteca - GUA
@@ -301,8 +295,6 @@ http://190.92.95.37:8000/play/a0f8/index.m3u8?HasBahCa.m3u8
 http://190.131.228.59:8000/play/a06a/index.m3u8
 #EXTINF:-1,Canal Claro
 http://190.83.119.67:8000/play/a0f8/index.m3u8
-#EXTINF:-1,Canal Claro HD
-http://190.83.119.67:8000/play/a0ey/index.m3u8
 #EXTINF:-1,Canal de Las estrellas
 http://45.236.175.0:9600/play/a01f
 #EXTINF:-1,Canal de Las estrellas
@@ -349,8 +341,6 @@ http://45.236.175.0:9600/play/a020
 http://190.131.228.59:8000/play/a049/index.m3u8
 #EXTINF:-1,Cartoon Network
 http://190.83.119.67:8000/play/a0fi/index.m3u8
-#EXTINF:-1,CARTOON NT HD
-http://190.83.119.67:8000/play/a0ez/index.m3u8
 #EXTINF:-1,Cbsn
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 #EXTINF:-1,CCN
@@ -395,8 +385,6 @@ http://45.236.175.0:9600/play/a01q
 http://190.131.228.59:8000/play/a03z/index.m3u8
 #EXTINF:-1,CineCanal
 http://190.83.119.67:8000/play/a0k2/index.m3u8
-#EXTINF:-1,CINECANAL HD
-http://190.83.119.67:8000/play/a0iw/index.m3u8
 #EXTINF:-1,CINEMA+
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
 #EXTINF:-1,Cinemax
@@ -423,8 +411,6 @@ http://190.187.200.69:8000/play/a02a
 http://190.131.228.59:8000/play/a04b/index.m3u8
 #EXTINF:-1,Claro Sports  HD
 http://190.92.95.37:8000/play/a0ex/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,Claro Sports  HD
-http://190.83.119.67:8000/play/a0ex/index.m3u8
 #EXTINF:-1,Claro Sports PAN
 http://190.92.95.37:8000/play/a0ee/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Claro Sports PAN
@@ -455,8 +441,6 @@ http://45.236.175.0:9600/play/a005
 http://190.131.228.59:8000/play/a052/index.m3u8
 #EXTINF:-1,CNN Internacional
 http://190.92.95.37:8000/play/a0ei/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,CNN Internacional
-http://190.83.119.67:8000/play/a0ei/index.m3u8
 #EXTINF:-1,CNNE
 http://190.92.95.37:8000/play/a0g2/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,CNNE
@@ -507,8 +491,6 @@ http://190.92.95.37:8000/play/a0eu/index.m3u8?HasBahCa.m3u8
 http://190.83.119.67:8000/play/a0eu/index.m3u8
 #EXTINF:-1,DHE HD
 http://190.92.95.37:8000/play/a0gn/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,DHE HD
-http://190.83.119.67:8000/play/a0gn/index.m3u8
 #EXTINF:-1,DIGITAL 15
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/8268514/player
 #EXTINF:-1,Digital 15 - RD
@@ -529,14 +511,10 @@ http://45.236.175.0:9600/play/a00r
 http://190.131.228.59:8000/play/a05n/index.m3u8
 #EXTINF:-1,Discovery Channel
 http://190.83.119.67:8000/play/a0ik/index.m3u8
-#EXTINF:-1,Discovery Channel HD
-http://190.83.119.67:8000/play/a0l3/index.m3u8
 #EXTINF:-1,Discovery Home & Health
 http://190.83.119.67:8000/play/a0jq/index.m3u8
 #EXTINF:-1,Discovery ID
 http://181.78.22.214:8000/play/a013
-#EXTINF:-1,Discovery ID HD
-http://190.83.119.67:8000/play/a0l8/index.m3u8
 #EXTINF:-1,Discovery ID XXXXX Animal Planet
 http://45.236.175.0:9600/play/a028
 #EXTINF:-1,Discovery Kids
@@ -547,8 +525,6 @@ http://45.236.175.0:9600/play/a004
 http://190.83.119.67:8000/play/a0jl/index.m3u8
 #EXTINF:-1,Discovery Kids ca
 http://190.131.228.59:8000/play/a06y/index.m3u8
-#EXTINF:-1,Discovery Kids HD
-http://190.83.119.67:8000/play/a0l4/index.m3u8
 #EXTINF:-1,Discovery Science
 http://190.92.95.37:8000/play/a0ea/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,DISCOVERY SCIENCE
@@ -563,8 +539,6 @@ http://45.236.175.0:9600/play/a02r
 http://190.131.228.59:8000/play/a04t/index.m3u8
 #EXTINF:-1,Discovery Turbo
 http://190.83.119.67:8000/play/a0jp/index.m3u8
-#EXTINF:-1,Discovery World HD
-http://190.83.119.67:8000/play/a0l5/index.m3u8
 #EXTINF:-1,Disney
 http://190.83.119.67:8000/play/a0jn/index.m3u8
 #EXTINF:-1,Disney Channel
@@ -599,8 +573,6 @@ http://45.236.175.0:9600/play/a00u
 http://190.92.95.37:8000/play/a0ih/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,E!
 http://190.83.119.67:8000/play/a0ih/index.m3u8
-#EXTINF:-1,E! Entertairment HD
-http://190.83.119.67:8000/play/a0gf/index.m3u8
 #EXTINF:-1,EBS KIDS HD
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/HasBahCa.m3u8
 #EXTINF:-1,ECU FOXS
@@ -635,8 +607,6 @@ http://45.236.175.0:9600/play/a00x
 http://190.83.119.67:8000/play/a0io/index.m3u8
 #EXTINF:-1,ESPN  +
 http://190.92.95.37:8000/play/a0g8/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,ESPN  +
-http://190.83.119.67:8000/play/a0g8/index.m3u8
 #EXTINF:-1,ESPN 2
 http://190.92.95.37:8000/play/a0ip/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,ESPN 2
@@ -647,8 +617,6 @@ http://45.236.175.0:9600/play/a00n
 http://190.131.228.59:8000/play/a05k/index.m3u8
 #EXTINF:-1,ESPN 2
 http://190.83.119.67:8000/play/a0ip/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://190.83.119.67:8000/play/a0ky/index.m3u8
 #EXTINF:-1,ESPN 2 Latin ca
 http://190.131.228.59:8000/play/a05s/index.m3u8
 #EXTINF:-1,ESPN 3
@@ -661,12 +629,8 @@ http://45.236.175.0:9600/play/a02t
 http://190.131.228.59:8000/play/a04v/index.m3u8
 #EXTINF:-1,ESPN 3
 http://190.83.119.67:8000/play/a0nc/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://190.83.119.67:8000/play/a0kx/index.m3u8
 #EXTINF:-1,ESPN 4
 http://190.83.119.67:8000/play/a0jt/index.m3u8
-#EXTINF:-1,ESPN 4  HD
-http://190.83.119.67:8000/play/a0kb/index.m3u8
 #EXTINF:-1,ESPN CO
 http://181.78.22.214:8000/play/a01c
 #EXTINF:-1,ESPN CO
@@ -697,8 +661,6 @@ http://190.92.95.37:8000/play/a0et/index.m3u8?HasBahCa.m3u8
 http://190.83.119.67:8000/play/a0et/index.m3u8
 #EXTINF:-1,Film & arts HD
 http://190.92.95.37:8000/play/a0gg/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,Film & arts HD
-http://190.83.119.67:8000/play/a0gg/index.m3u8
 #EXTINF:-1,FMTV 1
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,Fox Sport 3
@@ -745,8 +707,6 @@ http://181.78.22.214:8000/play/a01m
 http://45.236.175.0:9600/play/a02i
 #EXTINF:-1,FX
 http://190.83.119.67:8000/play/a0n6/index.m3u8
-#EXTINF:-1,FX HD
-http://190.83.119.67:8000/play/a0gk/index.m3u8
 #EXTINF:-1,FX Movies
 http://45.236.175.0:9600/play/a00b
 #EXTINF:-1,FX Movies
@@ -755,8 +715,6 @@ http://190.131.228.59:8000/play/a058/index.m3u8
 http://190.83.119.67:8000/play/a0jx/index.m3u8
 #EXTINF:-1,FX Movies HD
 http://190.92.95.37:8000/play/a0gm/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,FX Movies HD
-http://190.83.119.67:8000/play/a0gm/index.m3u8
 #EXTINF:-1,FXM
 http://181.78.22.214:8000/play/a00i
 #EXTINF:-1,GALICIA HD
@@ -817,12 +775,8 @@ http://190.131.228.59:8000/play/a05h/index.m3u8
 http://190.83.119.67:8000/play/a0k6/index.m3u8
 #EXTINF:-1,HBO Family HD
 http://190.131.228.59:8000/play/a0ex/index.m3u8
-#EXTINF:-1,HBO Family HD
-http://190.83.119.67:8000/play/a0f4/index.m3u8
 #EXTINF:-1,HBO HD
 http://190.131.228.59:8000/play/a0eu/index.m3u8
-#EXTINF:-1,HBO HD
-http://190.83.119.67:8000/play/a0f1/index.m3u8
 #EXTINF:-1,HBO Plus
 http://181.78.22.214:8000/play/a00o
 #EXTINF:-1,HBO Plus
@@ -831,14 +785,10 @@ http://45.236.175.0:9600/play/a00i
 http://190.83.119.67:8000/play/a0k5/index.m3u8
 #EXTINF:-1,HBO Plus HD
 http://190.131.228.59:8000/play/a0ew/index.m3u8
-#EXTINF:-1,HBO Plus HD
-http://190.83.119.67:8000/play/a0f3/index.m3u8
 #EXTINF:-1,HBO PREMIUM
 https://s.vdo.ai/vhs/1.m3u8
 #EXTINF:-1,HBO XTREME
 http://190.83.119.67:8000/play/a0k7/index.m3u8
-#EXTINF:-1,HBO XTREME
-http://190.83.119.67:8000/play/a0f5/index.m3u8
 #EXTINF:-1,HBO XTREME SD
 http://181.78.22.214:8000/play/a00p
 #EXTINF:-1,HBO XTREME SD
@@ -849,8 +799,6 @@ http://190.83.119.67:8000/play/a0k4/index.m3u8
 http://190.92.95.37:8000/play/a0f2/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,HBO2 HD
 http://190.131.228.59:8000/play/a0ev/index.m3u8
-#EXTINF:-1,HBO2 HD
-http://190.83.119.67:8000/play/a0f2/index.m3u8
 #EXTINF:-1,History Channel
 http://190.92.95.37:8000/play/a0im/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,History Channel
@@ -909,8 +857,6 @@ http://tvpremiumhd.com/channels/tvpremiumhd.mp4
 http://190.187.200.69:8000/play/a00l
 #EXTINF:-1,ISAT HD
 http://clubtv.link/10fb/lista2.php?c=3303&f=.m3u8
-#EXTINF:-1,ITC TV HD
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/f05d55e42dc746c8bd36edafbace7cc1/chunklist_b4628000.m3u8
 #EXTINF:-1,ITV Patagonia HD
 https://unlimited1-cl-isp.dps.live/itv/itv.smil/itv/livestream3/chunks.m3u8
 #EXTINF:-1,JEHOVA TV
@@ -939,8 +885,6 @@ http://190.92.95.37:8000/play/a0fv/index.m3u8?HasBahCa.m3u8
 http://190.83.119.67:8000/play/a0fv/index.m3u8
 #EXTINF:-1,LOGOS ESTUDIO
 https://streamer1.streamhost.org:443/salive/logosdirectaH/chunklist_w1482981736.m3u8
-#EXTINF:-1,LOS SANTOS.TV
-https://tiquiciatv.duckdns.org/hls/live.m3u8?HasBahCa.m3u8
 #EXTINF:-1,LTV.HD
 https://5e85d90130e77.streamlock.net/6022/6022/chunklist_w113526813.m3u8
 #EXTINF:-1,LUNA TV
@@ -987,8 +931,6 @@ http://190.83.119.67:8000/play/a0nf/index.m3u8
 http://190.92.95.37:8000/play/a0fy/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,MTV 80s
 http://190.83.119.67:8000/play/a0fy/index.m3u8
-#EXTINF:-1,MTV HD
-http://190.83.119.67:8000/play/a0g9/index.m3u8
 #EXTINF:-1,MTV Hits
 http://190.92.95.37:8000/play/a0fx/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,MTV Hits
@@ -1037,8 +979,6 @@ http://45.236.175.0:9600/play/a01o
 http://190.131.228.59:8000/play/a03x/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://190.131.228.59:8000/play/a0gw/index.m3u8
-#EXTINF:-1,Nat Geo HD
-http://190.83.119.67:8000/play/a0l0/index.m3u8
 #EXTINF:-1,Nat Geo Kids
 http://190.92.95.37:8000/play/a0hf/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Nat Geo Kids
@@ -1103,8 +1043,6 @@ http://190.83.119.67:8000/play/a0l1/index.m3u8
 https://cloudvideo.servers10.com:8081/8106/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Pasiones HD
 http://190.131.228.59:8000/play/a0gc/index.m3u8
-#EXTINF:-1,Pasiones HD
-http://190.83.119.67:8000/play/a0l6/index.m3u8
 #EXTINF:-1,PELIS-Cinecanal
 http://190.187.200.69:8000/play/a00d
 #EXTINF:-1,PELIS-Cinemax
@@ -1241,8 +1179,6 @@ http://181.78.22.214:8000/play/a01l
 http://45.236.175.0:9600/play/a02h
 #EXTINF:-1,SPACE
 http://190.83.119.67:8000/play/a0fr/index.m3u8
-#EXTINF:-1,SPACE HD
-http://190.83.119.67:8000/play/a0kd/index.m3u8
 #EXTINF:-1,STAR ACTION
 http://190.92.95.37:8000/play/a0hs/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,STAR CHANNEL
@@ -1253,8 +1189,6 @@ http://190.131.228.59:8000/play/a08r/index.m3u8
 http://190.83.119.67:8000/play/a0jo/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
 http://190.92.95.37:8000/play/a0it/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,STAR CHANNEL HD
-http://190.83.119.67:8000/play/a0it/index.m3u8
 #EXTINF:-1,STAR CLASSICS
 http://190.92.95.37:8000/play/a0hu/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,STAR COMEDY
@@ -1279,14 +1213,10 @@ http://45.236.175.0:9600/play/a01w
 http://190.83.119.67:8000/play/a0k8/index.m3u8
 #EXTINF:-1,Star TVE HD
 http://190.92.95.37:8000/play/a0gp/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,Star TVE HD
-http://190.83.119.67:8000/play/a0gp/index.m3u8
 #EXTINF:-1,Studio Universal
 http://190.83.119.67:8000/play/a0k1/index.m3u8
 #EXTINF:-1,Studio Universal HD
 http://190.92.95.37:8000/play/a0gc/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,Studio Universal HD
-http://190.83.119.67:8000/play/a0gc/index.m3u8
 #EXTINF:-1,Sun Channel
 http://190.92.95.37:8000/play/a0es/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Sun Channel
@@ -1295,16 +1225,12 @@ http://190.131.228.59:8000/play/a0eq/index.m3u8
 http://190.83.119.67:8000/play/a0es/index.m3u8
 #EXTINF:-1,SUPER CANAL 3 HD
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/chunklist_b200000.m3u8
-#EXTINF:-1,SUYAPA TV
-http://190.83.119.67:8000/play/a0mm/index.m3u8
 #EXTINF:-1,SyFy
 http://190.92.95.37:8000/play/a0ij/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,SyFy
 http://190.83.119.67:8000/play/a0ij/index.m3u8
 #EXTINF:-1,SyFy HD
 http://190.92.95.37:8000/play/a0gd/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,SyFy HD
-http://190.83.119.67:8000/play/a0gd/index.m3u8
 #EXTINF:-1,TBN Enlace
 http://190.92.95.37:8000/play/a0g5/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,TBN Enlace
@@ -1329,12 +1255,8 @@ http://190.131.228.59:8000/play/a06z/index.m3u8
 http://190.83.119.67:8000/play/a0nh/index.m3u8
 #EXTINF:-1,TD+2 HD CR
 http://190.92.95.37:8000/play/a0em/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,TD+2 HD CR
-http://190.83.119.67:8000/play/a0em/index.m3u8
 #EXTINF:-1,TD+HD CR
 http://190.92.95.37:8000/play/a0el/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,TD+HD CR
-http://190.83.119.67:8000/play/a0el/index.m3u8
 #EXTINF:-1,Tele Antillas - RD
 http://190.92.95.37:8000/play/a0fb/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Tele Antillas - RD
@@ -1385,8 +1307,6 @@ http://45.236.175.0:9600/play/a01i
 http://190.131.228.59:8000/play/a067/index.m3u8
 #EXTINF:-1,Telemundo
 http://190.83.119.67:8000/play/a0fp/index.m3u8
-#EXTINF:-1,Telemundo HD
-http://190.83.119.67:8000/play/a0gj/index.m3u8
 #EXTINF:-1,TELENOVISA CANAL 43 HD
 http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/chunklist_w1350303160.m3u8
 #EXTINF:-1,Telepacifico
@@ -1453,8 +1373,6 @@ http://190.92.95.37:8000/play/a0fs/index.m3u8?HasBahCa.m3u8
 http://190.83.119.67:8000/play/a0fs/index.m3u8
 #EXTINF:-1,TNT Series HD
 http://190.131.228.59:8000/play/a0g8/index.m3u8
-#EXTINF:-1,TNT Series HD
-http://190.83.119.67:8000/play/a0l2/index.m3u8
 #EXTINF:-1,TNT Sport 3
 http://45.236.175.0:9600/play/a010
 #EXTINF:-1,TNT SPORTS 2
@@ -1489,8 +1407,6 @@ https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1418908987.m3u
 http://45.183.12.18:8001/play/a005/index.m3u8
 #EXTINF:-1,TV COOSMOS
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w169290402.m3u8
-#EXTINF:-1,TV DIGITAL CHIRRIPO
-https://tiquiciatv.duckdns.org/hls/livetvdc.m3u8
 #EXTINF:-1,TV FAMILIA VENEZUELA
 https://cdn01.yowi.tv/KPFPGJU8A6/live-1500.m3u8
 #EXTINF:-1,TV FAMILIAR HD
@@ -1549,8 +1465,6 @@ http://190.131.228.59:8000/play/a075/index.m3u8
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist.m3u8
 #EXTINF:-1,TVP
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/chunklist_w747018279_b1428000_sleng.m3u8
-#EXTINF:-1,TVS HD
-http://181.40.66.93:1935/tvspub/tvs/chunklist_w1086942918.m3u8?_=1
 #EXTINF:-1,TyC Sports HD
 https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,TYC SPORTS PLAY
@@ -1571,8 +1485,6 @@ http://190.83.119.67:8000/play/a0jw/index.m3u8
 http://190.131.228.59:8000/play/a0et/index.m3u8
 #EXTINF:-1,UNIVERSAL CINEMA HD
 http://190.131.228.59:8000/play/a0gf/index.m3u8
-#EXTINF:-1,UNIVERSAL CINEMA HD
-http://190.83.119.67:8000/play/a0l9/index.m3u8
 #EXTINF:-1,UNIVERSAL COMEDY
 http://190.83.119.67:8000/play/a0nk/index.m3u8
 #EXTINF:-1,UNIVERSAL CRIME
@@ -1637,8 +1549,6 @@ http://190.131.228.59:8000/play/a05p/index.m3u8
 http://190.83.119.67:8000/play/a0ig/index.m3u8
 #EXTINF:-1,WARNER HD
 http://190.92.95.37:8000/play/a0iu/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,WARNER HD
-http://190.83.119.67:8000/play/a0iu/index.m3u8
 #EXTINF:-1,Win
 http://181.78.22.214:8000/play/a01o
 #EXTINF:-1,Win Sports

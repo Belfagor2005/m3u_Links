@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,13th Street HD
 http://185.236.229.53:9981/play/a02c
+#EXTINF:-1,13th Street HD
+http://109.200.130.123:7027/play/a00u
 #EXTINF:-1,3Sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8?HasBahCa.m3u8
 #EXTINF:-1,3sat
@@ -13,8 +15,12 @@ https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 http://80.151.59.124:8000/play/a085
 #EXTINF:-1,Beate Uhse HD
 http://185.236.229.53:9981/play/a014
+#EXTINF:-1,Beate Uhse HD
+http://109.200.130.123:7029/play/a01f
 #EXTINF:-1,Boomerang
 http://185.236.229.53:9981/play/a013
+#EXTINF:-1,Boomerang
+http://109.200.130.123:7029/play/a01e
 #EXTINF:-1,Cartoon Network
 http://185.236.229.53:9981/play/a03q
 #EXTINF:-1,Classica
@@ -53,6 +59,8 @@ https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
 https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk2.m3u8
 #EXTINF:-1,Discovery HD
 http://185.236.229.53:9981/play/a020
+#EXTINF:-1,Disney Cinemagic HD
+http://109.200.130.123:7027/play/a00r
 #EXTINF:-1,E! Entertainm. HD
 http://185.236.229.53:9981/play/a03g
 #EXTINF:-1,EURONEWS
@@ -101,8 +109,12 @@ http://185.236.229.53:9981/play/a00z
 http://185.236.229.53:9981/play/a00j
 #EXTINF:-1,kabel eins
 http://185.234.111.35:8003/play/a0b3/index.m3u8
+#EXTINF:-1,kabel eins
+http://109.200.130.123:7034/play/a014
 #EXTINF:-1,kabel eins Doku
 http://185.234.111.35:8003/play/a0b9/index.m3u8
+#EXTINF:-1,kabel eins Doku
+http://109.200.130.123:7034/play/a01a
 #EXTINF:-1,Kabel Eins Doku HD
 http://185.236.229.53:9981/play/a00v
 #EXTINF:-1,kabel eins HD
@@ -139,6 +151,8 @@ http://185.236.229.53:9981/play/a07l
 http://185.236.229.53:9981/play/a01y
 #EXTINF:-1,NatGeo HD
 http://185.236.229.53:9981/play/a02a
+#EXTINF:-1,NatGeo HD
+http://109.200.130.123:7027/play/a00s
 #EXTINF:-1,NDR Fernsehen
 https://ndrfs-lh.akamaihd.net/i/ndrfs_fs@430230/master.m3u8
 #EXTINF:-1,NDR Hamburg HD
@@ -167,12 +181,16 @@ http://185.234.111.35:8003/play/a0az/index.m3u8
 http://185.236.229.53:9981/play/a003
 #EXTINF:-1,Pro7 MAXX
 http://185.234.111.35:8003/play/a0b6/index.m3u8
+#EXTINF:-1,Pro7 MAXX
+http://109.200.130.123:7034/play/a017
 #EXTINF:-1,Pro7 MAXX HD
 http://185.236.229.53:9981/play/a00u
 #EXTINF:-1,Pro7 MAXX HD Austria
 http://185.236.229.53:9981/play/a00y
 #EXTINF:-1,ProSieben
 http://185.234.111.35:8003/play/a0b2/index.m3u8
+#EXTINF:-1,ProSieben
+http://109.200.130.123:7034/play/a013
 #EXTINF:-1,ProSieben Austria
 http://185.236.229.53:9981/play/a00i
 #EXTINF:-1,ProSieben HD
@@ -211,14 +229,20 @@ http://185.234.111.35:8003/play/a0at/index.m3u8
 http://185.236.229.53:9981/play/a004
 #EXTINF:-1,SAT.1
 http://185.234.111.35:8003/play/a0b1/index.m3u8
+#EXTINF:-1,SAT.1
+http://109.200.130.123:7034/play/a012
 #EXTINF:-1,SAT.1 A
 http://185.236.229.53:9981/play/a00l
 #EXTINF:-1,SAT.1 Bayern
 http://185.234.111.35:8003/play/a0b7/index.m3u8
+#EXTINF:-1,SAT.1 Bayern
+http://109.200.130.123:7034/play/a018
 #EXTINF:-1,SAT.1 CH
 http://185.236.229.53:9981/play/a00m
 #EXTINF:-1,SAT.1 Gold
 http://185.234.111.35:8003/play/a0b5/index.m3u8
+#EXTINF:-1,SAT.1 Gold
+http://109.200.130.123:7034/play/a016
 #EXTINF:-1,SAT.1 Gold HD
 http://185.236.229.53:9981/play/a005
 #EXTINF:-1,SAT.1 HD
@@ -227,6 +251,8 @@ http://185.236.229.53:9981/play/a00r
 http://185.236.229.53:9981/play/a00n
 #EXTINF:-1,SAT.1 NRW
 http://185.234.111.35:8003/play/a0b8/index.m3u8
+#EXTINF:-1,SAT.1 NRW
+http://109.200.130.123:7034/play/a019
 #EXTINF:-1,SAT.1 NS/Bremen
 http://185.236.229.53:9981/play/a00o
 #EXTINF:-1,SAT.1 RhlPf/Hessen
@@ -235,10 +261,14 @@ http://185.236.229.53:9981/play/a00p
 http://185.236.229.53:9981/play/a07t
 #EXTINF:-1,sixx HD Austria
 http://185.236.229.53:9981/play/a00x
+#EXTINF:-1,Sky Atlantic HD
+http://109.200.130.123:7027/play/a00q
 #EXTINF:-1,Spiegel Geschichte HD
 http://185.236.229.53:9981/play/a01q
 #EXTINF:-1,Spiegel TV Wissen
 http://185.236.229.53:9981/play/a027
+#EXTINF:-1,Spiegel TV Wissen
+http://109.200.130.123:7027/play/a00p
 #EXTINF:-1,SUPER RTL
 http://185.234.111.35:8003/play/a0av/index.m3u8
 #EXTINF:-1,SYFY HD
@@ -281,6 +311,8 @@ http://185.234.111.35:8003/play/a0cz/index.m3u8
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
 #EXTINF:-1,WELT
 http://185.234.111.35:8003/play/a0b4/index.m3u8
+#EXTINF:-1,WELT
+http://109.200.130.123:7034/play/a015
 #EXTINF:-1,WELT Live Stream
 https://eventenc02-lh.akamaihd.net/i/eventenc02_1@379038/index_1_av-p.m3u8?sd=10&dw=0&rebase=on
 #EXTINF:-1,ZDF
