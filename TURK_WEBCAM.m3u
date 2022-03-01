@@ -1,0 +1,277 @@
+#EXTM3U
+#EXTINF:-1,Aksaray-Belediye Önü
+http://185.106.20.233:1935/live/bel1.stream/HasBahCa.m3u8
+#EXTINF:-1,Aksaray-Valilik Önü
+http://185.106.20.233:1935/live/bel2.stream/HasBahCa.m3u8
+#EXTINF:-1,Bursa-Uludağ-Ağaoğlu Gondola
+https://live.dgn.net.tr/uludag/93nwbpf7a5/HasBahCa.m3u8
+#EXTINF:-1,Bursa-Uludağ-Beceren Pisti
+https://live.dgn.net.tr/uludag/v6jbtwy4fp/HasBahCa.m3u8
+#EXTINF:-1,Bursa-Uludağ-Cennetkaya
+https://live.dgn.net.tr/uludag/v625y4fp/HasBahCa.m3u8
+#EXTINF:-1,Bursa-Uludağ-Fahri Telesiyej
+https://live.dgn.net.tr/uludag/bpvt498s5h/HasBahCa.m3u8
+#EXTINF:-1,Bursa-Uludağ-Karinna
+https://live.dgn.net.tr/uludag/rp6csxceh/HasBahCa.m3u8
+#EXTINF:-1,Bursa-Uludağ-Kırkgözler
+https://live.dgn.net.tr/uludag/4rmxw9t1wp/HasBahCa.m3u8
+#EXTINF:-1,Bursa-Uludağ-Maden
+https://live.dgn.net.tr/uludag/392xsk5f5v/HasBahCa.m3u8
+#EXTINF:-1,Bursa-Uludağ-Tutyeli Alt
+https://live.dgn.net.tr/uludag/v7mx2ab9u5/HasBahCa.m3u8
+#EXTINF:-1,Bursa-Uludağ-Tutyeli Vadi
+https://live.dgn.net.tr/uludag/d455gh56p/HasBahCa.m3u8
+#EXTINF:-1,Bursa-Uludağ-İtalyan Pisti
+https://live.dgn.net.tr/uludag/hwp21h2py4/HasBahCa.m3u8
+#EXTINF:-1,Denizli-Adalet Parkı
+http://212.175.207.19:1935/canliyayin/dbbAdaletPark.stream/chunklist_w1159329220.m3u8
+#EXTINF:-1,Denizli-Bağbaşı Yaylası
+http://212.175.207.19:1935/canliyayin/dbbYayla.stream/chunklist_w1811188808.m3u8
+#EXTINF:-1,Denizli-Laodikeia
+http://212.175.207.19:1935/canliyayin/dbbLaodikya.stream/chunklist_w1281965443.m3u8
+#EXTINF:-1,Denizli-Teleferik
+http://212.175.207.19:1935/canliyayin/dbbTeleferik.stream/chunklist_w2054510327.m3u8
+#EXTINF:-1,Denizli-Çamlık Parkı
+http://212.175.207.19:1935/canliyayin/dbbCamlik.stream/chunklist_w1907799638.m3u8
+#EXTINF:-1,Denizli-Çınar Meydanı 1
+http://212.175.207.19:1935/canliyayin/dbbBelediye1.stream/chunklist_w26825572.m3u8
+#EXTINF:-1,Denizli-Çınar Meydanı 2
+http://212.175.207.19:1935/canliyayin/dbbBelediye2.stream/chunklist_w159491059.m3u8
+#EXTINF:-1,Denizli-Üçgen Meydanı
+http://212.175.207.19:1935/canliyayin/dbbOtogar.stream/chunklist_w1154350927.m3u8
+#EXTINF:-1,Denizli-İncilipınar Parkı
+http://212.175.207.19:1935/canliyayin/dbbIncilipinar.stream/chunklist_w1644859741.m3u8
+#EXTINF:-1,Isparta-Yalvaç-Hükümet Konağı
+http://195.175.107.10:8080/hls3/liv3.m3u8
+#EXTINF:-1,Isparta-Yalvaç-PTT Önü
+http://195.175.107.10:8080/hls2/liv2.m3u8
+#EXTINF:-1,IST-BÜYÜK ÇAMLICA
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_buyuk_camlica.stream/chunklist_w27132547.m3u8
+#EXTINF:-1,IST-DRAGOS
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_dragos.stream/chunklist_w2055518299.m3u8
+#EXTINF:-1,IST-EMİNÖNÜ
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_eminonu.stream/chunklist_w1065127999.m3u8
+#EXTINF:-1,IST-EMİR SULTAN
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_eyup.stream/chunklist_w714004953.m3u8
+#EXTINF:-1,IST-EMİRGAN
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_emirgan.stream/chunklist_w1232476941.m3u8
+#EXTINF:-1,IST-HİDİV KASRI
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_hidiv_kasri_1.stream/chunklist_w1974231243.m3u8
+#EXTINF:-1,Kahramanmaraş-Boğaziçi Kavşağı
+http://95.0.155.24/live/bogazici.stream/HasBahCa.m3u8
+#EXTINF:-1,Kahramanmaraş-Dr. Mustafa Meydanı
+http://95.0.155.24/live/drmustafa.stream/HasBahCa.m3u8
+#EXTINF:-1,Kahramanmaraş-Göksun Kavşak
+http://95.0.155.24/live/goksun.stream/HasBahCa.m3u8
+#EXTINF:-1,Kahramanmaraş-Kapalı Çarşı 1
+http://95.0.155.24/live/kapalicarsi1.stream/HasBahCa.m3u8
+#EXTINF:-1,Kahramanmaraş-Pazarcık Meydanı
+http://95.0.155.24/live/pazarcik.stream/HasBahCa.m3u8
+#EXTINF:-1,Kahramanmaraş-Ulucami
+http://95.0.155.24/live/ulucami.stream/HasBahCa.m3u8
+#EXTINF:-1,Kahramanmaraş-Şelale Kavşağı
+http://95.0.155.24/live/selale.stream/HasBahCa.m3u8
+#EXTINF:-1,Kars Sarıkamış Kayak Merkezi Karanlık Dere
+https://frn.rtsp.me/rTLnnuQO8JBaFOvC38BmPw/1643567111/hls/FAiDQNGS.m3u8
+#EXTINF:-1,Kars Sarıkamış Kayak Merkezi Oteller Bölgesi
+https://frn.rtsp.me/2Xabfty3NyzAJ0la6igxyw/1643566830/hls/2d8G65Yi.m3u8
+#EXTINF:-1,Kars Sarıkamış Kayak Merkezi Zirve
+https://frn.rtsp.me/zQ_0lwpe-qIMpWsEHs2gLQ/1643567456/hls/Si2tzh7A.m3u8
+#EXTINF:-1,Konya-Alaaddin Caddesi 1
+http://konya.sehirkameralari.com/live/56ab52e122769/HasBahCa.m3u8
+#EXTINF:-1,Konya-Alaaddin Caddesi 2
+http://konya.sehirkameralari.com/live/56a9e456dee18/HasBahCa.m3u8
+#EXTINF:-1,Konya-Bilim Merkezi
+http://konya.sehirkameralari.com/live/594b78742e13d/HasBahCa.m3u8
+#EXTINF:-1,Konya-Büyükşehir Belediyesi
+http://konya.sehirkameralari.com/live/52f0d277cb6b1/HasBahCa.m3u8?token=
+#EXTINF:-1,Konya-Eski Garaj
+http://konya.sehirkameralari.com/live/52f8ac7f0b9c8/HasBahCa.m3u8
+#EXTINF:-1,Konya-Galericiler Kavşağı
+http://konya.sehirkameralari.com/live/594b8c7fc023a/HasBahCa.m3u8
+#EXTINF:-1,Konya-Hükümet Meydanı
+http://konya.sehirkameralari.com/live/52f8ac26649e2/HasBahCa.m3u8
+#EXTINF:-1,Konya-Karatay Medresesi
+http://konya.sehirkameralari.com/live/52f89f4776f81/HasBahCa.m3u8
+#EXTINF:-1,Konya-Kayalıpark
+http://konya.sehirkameralari.com/live/52f89fa816e2b/HasBahCa.m3u8
+#EXTINF:-1,Konya-Kılıçarslan Gençlik Merkezi
+http://konya.sehirkameralari.com/live/594b8d6ec0d3d/HasBahCa.m3u8
+#EXTINF:-1,Konya-Kılıçarslan Şehir Meydanı
+http://konya.sehirkameralari.com/live/5902d8e46ae8a/HasBahCa.m3u8
+#EXTINF:-1,Konya-Mevlana - Üçler Kavşağı
+http://konya.sehirkameralari.com/live/52f8ac9765db4/HasBahCa.m3u8
+#EXTINF:-1,Konya-Mevlana Caddesi
+http://konya.sehirkameralari.com/live/5f106b8a0102b/HasBahCa.m3u8
+#EXTINF:-1,Konya-Mevlana Kültür Merkezi
+http://konya.sehirkameralari.com/live/52f8ac0de0eb2/HasBahCa.m3u8
+#EXTINF:-1,Konya-Mevlana Meydanı
+http://konya.sehirkameralari.com/live/52f8ad56da5f9/HasBahCa.m3u8
+#EXTINF:-1,Konya-Mobilyacılar Kavşağı
+http://konya.sehirkameralari.com/live/52f8acff68895/HasBahCa.m3u8
+#EXTINF:-1,Konya-Otogar Kavşağı
+http://konya.sehirkameralari.com/live/52f8ace7aaa21/HasBahCa.m3u8
+#EXTINF:-1,Konya-Sarraflar Yeraltı Çarşısı
+http://konya.sehirkameralari.com/live/52f8acce91ebc/HasBahCa.m3u8
+#EXTINF:-1,Konya-Sille Kavşağı
+http://konya.sehirkameralari.com/live/52f8abd1889b0/HasBahCa.m3u8
+#EXTINF:-1,Konya-Stadyum - Gar Kavşağı
+http://konya.sehirkameralari.com/live/52f8ad3d32ad3/HasBahCa.m3u8
+#EXTINF:-1,Konya-Türk Yıldızları Parkı
+http://konya.sehirkameralari.com/live/594b8b7dbd75b/HasBahCa.m3u8
+#EXTINF:-1,Konya-Yeni Meram Caddesi
+http://konya.sehirkameralari.com/live/52f8ab33dccf7/HasBahCa.m3u8
+#EXTINF:-1,Konya-Zafer Meydanı Gadavet
+http://konya.sehirkameralari.com/live/594b9129ec60f/HasBahCa.m3u8?token=
+#EXTINF:-1,Konya-İhsaniye Kavşağı
+http://konya.sehirkameralari.com/live/52f89f69e3378/HasBahCa.m3u8
+#EXTINF:-1,Konya-İnce Minareli Medrese
+http://konya.sehirkameralari.com/live/594b8ece1bb48/HasBahCa.m3u8
+#EXTINF:-1,Konya-İstiklal Harbi Şehitleri Abidesi
+http://konya.sehirkameralari.com/live/57066620cdebc/HasBahCa.m3u8
+#EXTINF:-1,Muğla-Marmaris-Bozburun
+http://cdn-ipkamera.yayin.com.tr/marmarisbel/bozburun/HasBahCa.m3u8
+#EXTINF:-1,Muğla-Marmaris-Meydan
+http://cdn-ipkamera.yayin.com.tr/marmarisbel/meydan/chunklist_w11552912.m3u8
+#EXTINF:-1,Muğla-Marmaris-Uzunyalı (Devamlı AÇIK DEĞİL)
+http://cdn-ipkamera.yayin.com.tr/marmarisbel/uzunyali/HasBahCa.m3u8
+#EXTINF:-1,Muğla-Marmaris-Yat Limanı
+http://cdn-ipkamera.yayin.com.tr/marmarisbel/yatlimani/HasBahCa.m3u8
+#EXTINF:-1,Muğla-Marmaris-İçmeler
+http://cdn-ipkamera.yayin.com.tr/marmarisbel/icmeler/HasBahCa.m3u8
+#EXTINF:-1,Nevşehir-Uçhisar-Kamera-1
+https://player.rade.com.tr/uchisar/uchisar.stream/HasBahCa.m3u8
+#EXTINF:-1,Nevşehir-Uçhisar-Kamera-2
+https://player.rade.com.tr/uchisar/uchisar2.stream/HasBahCa.m3u8
+#EXTINF:-1,Sivas-Aksu
+http://mn-nl.mncdn.com/sivasbel_tv_live/sivasbel_aksu/HasBahCa.m3u8
+#EXTINF:-1,Sivas-Medreseler
+http://mn-nl.mncdn.com/sivasbel_tv_live/sivasbel_medrese/HasBahCa.m3u8
+#EXTINF:-1,Sivas-Meraküm
+http://mn-nl.mncdn.com/sivasbel_tv_live/sivasbel_merakum/HasBahCa.m3u8
+#EXTINF:-1,Sivas-Yukarı Tekke
+http://mn-nl.mncdn.com/sivasbel_tv_live/sivasbel_tekke/HasBahCa.m3u8
+#EXTINF:-1,Sivas-Zara-Dörtyol
+https://server.arvas.com.tr/dortyol.m3u8
+#EXTINF:-1,Sivas-Zara-Meydan
+https://server.arvas.com.tr/meydan.m3u8
+#EXTINF:-1,Tekirdağ-Süleymanpaşa - Balıkçı Limanı
+http://wowza.tekirdag.bel.tr:1935/sahil/sahil.stream/chunklist_w1140208261.m3u8
+#EXTINF:-1,Tokat-Cumhuriyet Meydanı
+http://212.156.98.150:1936/Kamera/Meydan.stream/HasBahCa.m3u8
+#EXTINF:-1,Tokat-Stadyum Önü
+http://212.156.98.150:1936/Kamera/Stadyum.stream/HasBahCa.m3u8
+#EXTINF:-1,Çorum-Akşemseddin Cami
+http://95.0.0.94:1935/live/aksemseddincami.stream/HasBahCa.m3u8
+#EXTINF:-1,Çorum-Bahabey Kavşağı
+http://95.0.0.94:1935/live/bahabey.stream/HasBahCa.m3u8
+#EXTINF:-1,Çorum-Gazi Caddesi
+http://95.0.0.94:1935/live/saatkulesi.stream/HasBahCa.m3u8
+#EXTINF:-1,Çorum-Saat Kulesi
+http://95.0.0.94:1935/live/saatkulesi2.stream/HasBahCa.m3u8
+#EXTINF:-1,Çorum-İnönü Caddesi
+http://95.0.0.94:1935/live/inonucaddesi.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul Atatürk Köprüsü
+https://601a5ce60b9a1.streamlock.net/hls/400.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul Fındıklı
+https://601a55c88ec6d.streamlock.net/hls/186.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul Havalimanı Giriş
+https://601a5ce60b9a1.streamlock.net/hls/900.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul Kavacık Meydanı
+https://601a55c88ec6d.streamlock.net/hls/211.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul Kız Kulesi Sahil Yolu
+https://601a55c88ec6d.streamlock.net/hls/214.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul Ortaköy
+https://601a5ce60b9a1.streamlock.net/hls/379.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul Silivri Cezaevi
+https://601a55c88ec6d.streamlock.net/hls/281.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul Şişli
+https://601a43eea2819.streamlock.net/hls/294.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul-Bağcılar-Halk Sarayı - 1. Takı Salonu
+https://bagcilarbelediyesilive.mediatriple.net/bagcilarbelediyesi_live/broadcast_594135f45b25e.smil/chunklist_w1130910047_b200000.m3u8
+#EXTINF:-1,İstanbul-Bağcılar-Halk Sarayı - Konuklar
+https://bagcilarbelediyesilive.mediatriple.net/bagcilarbelediyesi_live/broadcast_5941447a83611.smil/HasBahCa.m3u8
+#EXTINF:-1,İstanbul-Bağcılar-Halk Sarayı - Nikah Masası
+https://bagcilarbelediyesilive.mediatriple.net/bagcilarbelediyesi_live/broadcast_59414489d70f5.smil/HasBahCa.m3u8
+#EXTINF:-1,İstanbul-Bağcılar-Halk Sarayı - Sahne (Devamlı AÇIK DEĞİL)
+https://bagcilarbelediyesilive.mediatriple.net/bagcilarbelediyesi_live/broadcast_594144367cee4.smil/chunklist_w1434137037_b200000.m3u8
+#EXTINF:-1,İstanbul-Büyük Çamlıca
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_buyuk_camlica.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul-Dragos
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_dragos.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul-Eminönü
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_eminonu.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul-Emirgan
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_emirgan.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul-Eyüp Sultan
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_eyup.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul-Eyüpsultan-Akşemsettin Parkı 1
+https://eyup4.taliavision.com/livestream/hls/aksemsettin1/index.m3u8
+#EXTINF:-1,İstanbul-Eyüpsultan-Akşemsettin Parkı 2
+https://eyup4.taliavision.com/livestream/hls/aksemsettin2/index.m3u8
+#EXTINF:-1,İstanbul-Eyüpsultan-Arifpaşa Parkı 1
+https://eyup.taliavision.com//livestream/hls/arifpasa1/index.m3u8
+#EXTINF:-1,İstanbul-Eyüpsultan-Arifpaşa Parkı 2
+https://eyup.taliavision.com//livestream/hls/arifpasa2/index.m3u8
+#EXTINF:-1,İstanbul-Eyüpsultan-Bir Nefes Parkı 1
+https://eyup2.taliavision.com/livestream/hls/birnefes1/index.m3u8
+#EXTINF:-1,İstanbul-Eyüpsultan-Bir Nefes Parkı 2
+https://eyup2.taliavision.com/livestream/hls/birnefes2/index.m3u8
+#EXTINF:-1,İstanbul-Eyüpsultan-Emniyettepe Parkı
+https://eyup2.taliavision.com/livestream/hls/emniyettepe2/index.m3u8
+#EXTINF:-1,İstanbul-Eyüpsultan-Emniyettepe Parkı 1
+https://eyup2.taliavision.com/livestream/hls/emniyettepe1/index.m3u8
+#EXTINF:-1,İstanbul-Eyüpsultan-Erdemliler Parkı 1
+https://eyup4.taliavision.com/livestream/hls/erdemliler1/index.m3u8
+#EXTINF:-1,İstanbul-Eyüpsultan-Erdemliler Parkı 2
+https://eyup4.taliavision.com/livestream/hls/erdemliler2/index.m3u8
+#EXTINF:-1,İstanbul-Eyüpsultan-Güzeltepe Parkı 1
+https://eyup3.taliavision.com/livestream/hls/guzeltepe1/index.m3u8
+#EXTINF:-1,İstanbul-Eyüpsultan-Güzeltepe Parkı 2
+https://eyup3.taliavision.com/livestream/hls/guzeltepe2/index.m3u8
+#EXTINF:-1,İstanbul-Eyüpsultan-Hz. Halit Parkı 1
+https://eyup.taliavision.com/livestream/hls/hzhalit1/index.m3u8
+#EXTINF:-1,İstanbul-Eyüpsultan-Hz. Halit Parkı 2
+https://eyup.taliavision.com/livestream/hls/hzhalit2/index.m3u8
+#EXTINF:-1,İstanbul-Eyüpsultan-Hz. Halit Parkı 3
+https://eyup.taliavision.com/livestream/hls/hzhalit3/index.m3u8
+#EXTINF:-1,İstanbul-Eyüpsultan-Yağlıdere Parkı 1
+https://eyup2.taliavision.com/livestream/hls/yaglidere1/index.m3u8
+#EXTINF:-1,İstanbul-Eyüpsultan-Yağlıdere Parkı 2
+https://eyup2.taliavision.com/livestream/hls/yaglidere2/index.m3u8
+#EXTINF:-1,İstanbul-Eyüpsultan-Özgecan Aslan Parkı 1
+https://eyup3.taliavision.com/livestream/hls/ozgecan1/index.m3u8
+#EXTINF:-1,İstanbul-Eyüpsultan-Özgecan Aslan Parkı 2
+https://eyup3.taliavision.com/livestream/hls/ozgecan2/index.m3u8
+#EXTINF:-1,İstanbul-Hidiv Kasrı
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_hidiv_kasri_1.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul-Karaköy
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_karakoy.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul-Kız Kulesi
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_kiz_kulesi_1.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul-Metrohan
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_metrohan.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul-Miniatürk
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_miniaturk.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul-Mısır Çarşısı
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_misir_carsisi.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul-Pierre Loti
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_pierloti.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul-Salacak
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_salacak.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul-Saraçhane
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sarachane.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul-Sepetçiler Kasrı
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sepetciler_kasri.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul-Sultanahmet 1
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sultanahmet_1.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul-Sultanahmet 2
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sultanahmet_2.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul-Taksim Meydanı
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_taksim.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul-Ulus Parkı
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_ulus_parki.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul-İstiklal Caddesi 1 (Devamlı AÇIK DEĞİL)
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_istiklal_cad_1.stream/HasBahCa.m3u8
+#EXTINF:-1,İstanbul-İstiklal Caddesi 2
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_istiklal_cad_2.stream/HasBahCa.m3u8
