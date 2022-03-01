@@ -1,0 +1,401 @@
+#EXTM3U
+#EXTINF:-1,112 - Ukraine
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1,24 Horas - Spain
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_720.m3u8
+#EXTINF:-1,30A Investment Pitch
+https://30a-tv.com/feeds/xodglobal/30atv.m3u8
+#EXTINF:-1,92 News - Pakistan
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1,Aaj Tak - India
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
+#EXTINF:-1,ABC News - Albania
+https://tv2.abcnews.al/live/abcnews/playlist.m3u8
+#EXTINF:-1,ABC News - Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1,ABC News - USA
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1,AfricaNews - Congo
+https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,Akit TV - Turkey
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1,Al Jazeera - Qatar
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1,Al Jazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1,Al Rafidain - Irak
+https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
+#EXTINF:-1,Al Yaum Tv - United Arab Emirate
+https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
+#EXTINF:-1,Americas Voice - USA
+https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Americas Voice - USA (OPT-2)
+https://p1media-americasvoice-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Arise News
+https://api.visionip.tv/live/ASHTTP/visiontvuk-news-arise-tv-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1,Asianet News - India
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+#EXTINF:-1,Astro Awani - Malaysia  Malaysian:English
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1,ATV - Hungary
+https://streamservers.atv.hu/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8
+#EXTINF:-1,ausbiz TV - Australia
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:-1,Australia Channel - Australia
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1,Az News TV - Azerbaijan
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+#EXTINF:-1,BBC World News - UK
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1,Belarus 24 - Belarus
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1,BeritaSatu - Indonesia
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+#EXTINF:-1,Bitcoin / Cryptocurrency Live
+https://tx.flv.nimo.tv/live/su2449511729040r40cfc3650e424dbfdd6264bad6a79200.flv
+#EXTINF:-1,Black News Channel
+https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Black News Channel - USA
+https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg Asia
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1,Bloomberg Asia Event
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1,Bloomberg Australia
+https://www.bloomberg.com/media-manifest/streams/aus.m3u8
+#EXTINF:-1,Bloomberg Europe
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1,Bloomberg Europe Event
+https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1,Bloomberg Politics
+https://www.bloomberg.com/media-manifest/streams/politics.m3u8
+#EXTINF:-1,Bloomberg QuickTake Global Financial News
+https://www.bloomberg.com/media-manifest/streams/qt.m3u8
+#EXTINF:-1,Bloomberg TV+
+https://f507e97fa86541f2b8af93557ee82930.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_Bloomberg/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1,Bloomberg TV+ (OPT-2)
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1,Bloomberg US
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1,Bloomberg US Event
+https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF:-1,BNC GO
+https://didoc69s3kqdd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BlackNewsChannel2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Bulgaria On Air
+http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+#EXTINF:-1,Business Rockstars
+https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
+#EXTINF:-1,CBC News - Canada
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+#EXTINF:-1,CBN News - USA
+https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:-1,CBN News - USA (OPT-2)
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
+#EXTINF:-1,CBS News
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:-1,CBS News (CBSN)
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1200.m3u8
+#EXTINF:-1,CBS News - USA
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,CBS News - USA (OPT-2)
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1,CBS News - USA (OPT-3)
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:-1,CBSN - USA
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,CBSN - USA (OPT-2)
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+#EXTINF:-1,CBSN Live Event - USA
+https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@196305/master.m3u8
+#EXTINF:-1,CGTN - China
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1,Cheddar Big News
+https://live.chdrstatic.com/cbn/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Cheddar News - USA
+https://live.chdrstatic.com/cbn/index.m3u8
+#EXTINF:-1,Chill Weather - USA (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCVnIpb1nmVE-urVRoDE90sQ/live
+#EXTINF:-1,CNA - Malaysia
+https://mediacorp-videosbclive.akamaized.net/310fff74530047d29076136efeabe72c/ap-southeast-1/6057994443001/playlist.m3u8
+#EXTINF:-1,CNBC Africa - South Africa
+https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
+#EXTINF:-1,CNBC Europe
+https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live/playlist.m3u8
+#EXTINF:-1,CNBC TV18 - India
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,CNC - China
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+#EXTINF:-1,CNET
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=228&deviceId=56283c8769ba54637dea0464&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1,CNN - USA
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,CNN International - Germany
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,CNN International - UK
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,CNN International - USA
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Decentric Media
+https://linear-68.frequency.stream/dist/localnow/68/hls/master/playlist.m3u8
+#EXTINF:-1,DeFinance
+https://decentric-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5f7656f4095fd738e74dbc53_defiance-live/b67fe0d4-a8eb-45c9-b750-c58119ae477e/0.m3u8
+#EXTINF:-1,Deutsche Welle - Germany
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1,Di Tv - Sweden
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
+#EXTINF:-1,Dunya News - Pakistan
+https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
+#EXTINF:-1,Eesti Televisioon (ETV) - Estonia
+https://sb.err.ee/live/etv.m3u8
+#EXTINF:-1,El Toro TV - Spain
+https://fake-live-eltorotv.flumotion.com/playlist.m3u8
+#EXTINF:-1,Estrella News
+https://estrellanews-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,ET Now - India
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
+#EXTINF:-1,Euronews
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1,Euronews (Denmark)
+https://rakuten-euronews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (Finland)
+https://rakuten-euronews-1-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (France)
+https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (Ireland)
+https://rakuten-euronews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (Mexico)
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (Netherlands)
+https://rakuten-euronews-1-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (Norway)
+https://rakuten-euronews-1-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (Portugal)
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (Sweden)
+https://rakuten-euronews-1-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,EuroNews - France
+https://rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,Euronews | Alemanha - Samsung
+https://64ae17e353a144d38d09cb7530008fb7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_EuroNewsLive/playlist.m3u8?ads.wurl_channel=545&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1,Euronews | Espanha - Plex
+https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/playlist.m3u8?ads.wurl_channel=671&ads.wurl_name=EuronewsSpanish&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60089d97f682a3002c34829d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1,Euronews | Espanha - Samsung
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8?ads.wurl_channel=544&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1,Expressen TV - Sweden
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8
+#EXTINF:-1,Forex Signals : GOLD SPOT MARKET FORECAST CRONOS SIGNALS (STK) (UDP)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=emP2_42yODA
+#EXTINF:-1,Forex Signals : XAUUSD TIMEFRAMES M5-M15-H1 TREND & POWER INDICATORS (STK) (UDP)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=3TRNoUxnY_4
+#EXTINF:-1,ForexLia : EURUSD & GBPUSD M5 Scalping System Live Forex Signals 24/7 (UDP) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=cOsxqcp1lSk
+#EXTINF:-1,ForexLia : Gold Live Signals - XAUUSD TIME FRAME 5 Minute M5 (UDP) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=63ujCFWrC8k
+#EXTINF:-1,ForexLia : Gold XAUUSD Intraday Live Signals - XAU/USD M1 H1 Forex Scalping Signals (UDP) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=bifTKjKwMWE
+#EXTINF:-1,ForexLia : Live Bitcoin - Ethereum 24/7 Signals - 5 Minute Candles (UDP) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=fijq8NOvb7M
+#EXTINF:-1,Fox News Now
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fox News Now - USA
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fox Wheather - USA
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1,France 24 - France
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1,Frank Speech - Overcomers.TV - USA
+https://frnksocial.mmdlive.lldns.net/frnksocial/a5e6157524ce49e3a0653d5841619ac3/manifest.m3u8
+#EXTINF:-1,Fresh News (720p)
+http://167.99.65.12:1935/live/myStream/HasBahCa.m3u8
+#EXTINF:-1,Fresh News TV (720p)
+http://167.99.65.12:1935/live/ngrp:myStream_all/HasBahCa.m3u8
+#EXTINF:-1,GB News - UK
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
+#EXTINF:-1,Gledaj TVCG SAT - Montenegro
+http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
+#EXTINF:-1,Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+#EXTINF:-1,Global News National - Canada
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1,Goa365 - India
+https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/playlist.m3u8
+#EXTINF:-1,Halab Today - Syria
+https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
+#EXTINF:-1,i24NEWS Updates - Israel
+https://d3kl0e87lk5c6c.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FuelTV-Plex/baeacf0d-fca2-4578-bc6b-083e78622b19.m3u8?adMethod=3&sessionId=i24Plex&ads.plex_token=WFzLWfMBGzAfrQY9emji&ads.channel_id=61e9af453508a50f84213dd6&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.app_bundle=com.plexapp.android&ads.app_name=plex&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.app_domain=app.plex.tv&ads.channel_name=i24News&ads.gdpr=0&ads.us_privacy=1---&ads.consent=0
+#EXTINF:-1,India Today - India
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1,InfoWars - USA
+http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
+#EXTINF:-1,InfoWars - USA
+https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
+#EXTINF:-1,InfoWars The Alex Jones Show - USA
+https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
+#EXTINF:-1,InfoWars War Room - USA
+https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
+#EXTINF:-1,Jakarta Globe News Channel
+https://b1english.beritasatumedia.com/Beritasatu/B1English_960x540.m3u8
+#EXTINF:-1,KRT Kirkuk
+https://5ab29cc78f681.streamlock.net/IHTV/livestream/playlist.m3u8
+#EXTINF:-1,Kurir TV - Serbia
+https://kurir-tv.haste-cdn.net/providus/live2805.m3u8
+#EXTINF:-1,M24 TV - Morocco
+http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
+#EXTINF:-1,Mirror Now - India
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:-1,Nabaa TV - Lebanon
+http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
+#EXTINF:-1,NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1,Nato (not 24/7)
+https://cofelylpi-livepush.video.llnw.net/NATO-LIVE-PUSH/playlist.m3u8
+#EXTINF:-1,NBC News Now - USA (OPT-2)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1,NBC News Now - USA (OPT-3)
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1,NBC News Now HD
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1,NDTV - India
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1,News 12
+https://lnc-news12.tubi.video/primary/5.m3u8
+#EXTINF:-1,News 12 New York
+https://livestream.chdrstatic.com/2272f9cc29d3f9e812a3b4cacbd767bf69c95a59434c3f482606a67962a0dd5e/localnow/n12nyLocalNow/news12newyork/primary/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,News 24 - Albania
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1,News 24 Balkan
+http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1,Newsmax - USA (OPT-2)
+https://newsmax-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,NewsNet - USA
+https://newsnetnational.akamaized.net/hls/live/2031673/newsnetnational_OUT/master.m3u8
+#EXTINF:-1,NewsNOW from Fox
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist360p.m3u8
+#EXTINF:-1,NewsX - India
+https://itvoign.multitvsolution.com/hls/newsx.m3u8
+#EXTINF:-1,Newsy (1080p)
+https://d3ra88okaj5j4j.cloudfront.net/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Newsy (720p)
+https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
+#EXTINF:-1,Newsy - USA (OPT-2)
+https://d3ra88okaj5j4j.cloudfront.net/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:-1,Newsy Top Stories - USA
+https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8
+#EXTINF:-1,NHK World - Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1,Northeast Live - India
+https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/playlist.m3u8
+#EXTINF:-1,NowThis - USA
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-nowthis/CDN/playlist.m3u8?p=samsung&device_id=%7BPSID%7D&is_lat=%7BTARGETOPT%7D&us_privacy=%7BUS_PRIVACY%7D&coppa=0&app_name=%7BAPP_NAME%7D
+#EXTINF:-1,One America News
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,One America News - USA
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,One America News Network
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_180p30.m3u8
+#EXTINF:-1,Palitra News - Georgia
+https://livestream.palitra.ge/hls/palitratv/index.m3u8
+#EXTINF:-1,Pluto TV News
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5268abcd0ce20a8472000114&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=202&terminate=false&userId=
+#EXTINF:-1,Press TV - Iran
+https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
+#EXTINF:-1,Rai New 24 - Italy
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1,Real Vision - USA
+https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
+#EXTINF:-1,ReTV - Latvia
+https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
+#EXTINF:-1,RLIVE TV - Moldova
+https://hls.rlive.md/chanel/tv/rlive.m3u8
+#EXTINF:-1,Roku | Black News Channel
+https://bnc-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1,Roku | Estrella News
+https://estrellanews-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,RSBN - USA
+https://live-fd164e1.rmbl.ws/slot-18/ngrp:73cv-qia5_all/playlist.m3u8?
+#EXTINF:-1,RT News HD
+https://rt-glb.gcdn.co/live/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1,RTVS - Slovakia
+https://n5.stv.livebox.sk/stv-tv/053187fcd22eb2f51c849b0b671aa737/stv3.smil/playlist.m3u8
+#EXTINF:-1,Rudaw
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1,Sky News - Australia
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master1920x1080.m3u8
+#EXTINF:-1,Sky News - UK
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+#EXTINF:-1,Sky News - UK (OPT-2)
+https://vidplus.pc.cdn.bitgravity.com/skynewspp-origin/live/playlist.m3u8
+#EXTINF:-1,STIRR - NASA TV
+https://usgeowall.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1,Stirr News 24/7
+https://dai.google.com/linear/hls/event/8hUeiLMpTm-YNqk7kadUwA/master.m3u8
+#EXTINF:-1,TA3 - Slovakia
+https://n16.stv.livebox.sk/ta3/9364a3274cd55419abe2ae00bdc7ec5d/1.smil/playlist.m3u8
+#EXTINF:-1,Tagesschau24 - Germany
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1,TastyTrade - USA
+https://bcovlive-a.akamaihd.net/r85c9d6fdf4a549089fcbd16f45b4cf3a/us-west-2/6057994532001/playlist_dvr.m3u8
+#EXTINF:-1,TD Ameritrade
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,TeleSUR - Venusuela
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1,Telewizja Republika - Poland
+https://ec28-waw1.waw2.cache.orange.pl/jupiter/o2-cl7/ssl/live/tvrepublika/live.m3u8
+#EXTINF:-1,The First - USA
+https://thefirst-distroscale.amagi.tv/index.m3u8
+#EXTINF:-1,The First - USA (OPT-2)
+https://thefirst-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,The Wall Street Journal Live
+https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
+#EXTINF:-1,The Wall Street Journal Live
+https://d3qk889yj9a2d2.cloudfront.net/out/v1/3d9b79bc1a934ac9bcd088e3554e91bb/index.m3u8
+#EXTINF:-1,Ticker NEWS - Australia
+https://helga.iptv2022.com/Ticker_NEWS/index.m3u8
+#EXTINF:-1,Ticker NEWS - Australia (OPT-2)
+https://vidgyormedia.pc.cdn.bitgravity.com/ticker-origin/live/playlist.m3u8
+#EXTINF:-1,Top Stories by Newsy
+http://content.uplynk.com/channel/04cce35dcd994bbc82d61805ae67a65f.m3u8
+#EXTINF:-1,Top Stories by Newsy (720p)
+https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
+#EXTINF:-1,TR: TRT WORLD HD
+https://tv-trtworld.live.trt.com.tr/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TRT World - Turkey
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1,Tubi | CBC News Highlights
+https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
+#EXTINF:-1,Tubi | Estrella News | SP
+https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
+#EXTINF:-1,TYT Network - USA
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-tyt-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,USA Today - USA
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8
+#EXTINF:-1,USA TODAY - USA (OPT-2)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eUhMzubzCLEWpUricwcK&channelId=60df3e18541143002f3b8607
+#EXTINF:-1,VG TV - Norway
+https://vgtvlive-lh.akamaized.net/hls/live/2014162/vgtv/En3q3HhsJQ3174hYTAeoC/master7000.m3u8
+#EXTINF:-1,Voa - Iran
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+#EXTINF:-1,Weather News - Japan
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTINF:-1,WeatherNation (KCKS-LD6) - USA
+https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
+#EXTINF:-1,WeatherNation (OPT-2)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=
+#EXTINF:-1,WeatherSpy - USA (OPT-2)
+https://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
+#EXTINF:-1,WION News - India
+https://dqkpvuuvaruk2.cloudfront.net/out/v1/f2054baeb8e94043bfc9c8cca2a0013d/index_5.m3u8
+#EXTINF:-1,Yahoo! Finance
+https://yahoo-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Yahoo! Finance (OPT-2)
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1,Yahoo! News
+https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8?expand=trc
+#EXTINF:-1,Yahoo! News
+https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
+#EXTINF:-1,Мир 24 - Russia
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,Україна 24 - Ukraine
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
