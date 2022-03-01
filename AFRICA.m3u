@@ -119,8 +119,6 @@ https://c4e14a5ce4c94bdbb8adda0617886b4c.mediatailor.us-east-1.amazonaws.com/v1/
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
 #EXTINF:-1,France 24 FR
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
-#EXTINF:-1,GALAXY
-http://102.132.19.90:8000/play/a00g/index.m3u8
 #EXTINF:-1,Galaxy TV
 https://5f0d32c69f8a498a838b6365fb20fa91.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-6/live_083/SD/playlist.m3u8
 #EXTINF:-1,GIA TV
@@ -129,24 +127,18 @@ http://102.132.19.90:8000/play/a01x/index.m3u8
 http://102.132.19.90:8000/play/a025/index.m3u8
 #EXTINF:-1,Gusto TV
 https://18368799e6974eb8b3d0114323401460.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/Viewmedia-23/live_123/HD/playlist.m3u8
-#EXTINF:-1,HAUSA7
-http://102.132.19.90:8000/play/a00c/index.m3u8
 #EXTINF:-1,Healing Center TV
 https://15382f7b1669443fab1bcaa2d94c145f.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-8/live_115/SD/playlist.m3u8
 #EXTINF:-1,Healing Jesus TV
 https://c4e14a5ce4c94bdbb8adda0617886b4c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-3/live_041/SD/playlist.m3u8
 #EXTINF:-1,HI TV
 http://102.132.19.90:8000/play/a00t/index.m3u8
-#EXTINF:-1,Hi-Impact TV
-https://c4e14a5ce4c94bdbb8adda0617886b4c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-3/live_045/SD/playlist.m3u8
 #EXTINF:-1,Hip TV
 https://5f0d32c69f8a498a838b6365fb20fa91.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-6/live_080/SD/playlist.m3u8
 #EXTINF:-1,HOME TV
 http://102.132.19.90:8000/play/a00n/index.m3u8
 #EXTINF:-1,Homebase TV
 https://ce50f5bb01704612b973d9ec00239ec6.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-2/live_022/SD/playlist.m3u8
-#EXTINF:-1,HOPEWORLD
-http://102.132.19.90:8000/play/a011/index.m3u8
 #EXTINF:-1,IndieFlix Action
 https://5f0d32c69f8a498a838b6365fb20fa91.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-6/live_089/SD/playlist.m3u8
 #EXTINF:-1,IndieFlix Black Voices
@@ -159,8 +151,6 @@ https://dca74a46948e480eb80ee453d9812624.mediatailor.us-east-1.amazonaws.com/v1/
 https://dca74a46948e480eb80ee453d9812624.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia10/live_140/HD/playlist.m3u8
 #EXTINF:-1,Iqraa Europe Africa (576p)
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/HasBahCa.m3u8
-#EXTINF:-1,Itage Telifisan
-https://869942e8b91a45188a83a91b72ed8a32.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-4/live_047/HD/playlist.m3u8
 #EXTINF:-1,ITVN
 https://a74472b133fe4e82be2c506126b5d0ba.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia/live_015/SD/playlist.m3u8
 #EXTINF:-1,Ivoire Channel tv
@@ -209,8 +199,6 @@ https://a74472b133fe4e82be2c506126b5d0ba.mediatailor.us-east-1.amazonaws.com/v1/
 https://ce50f5bb01704612b973d9ec00239ec6.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-2/live_027/SD/playlist.m3u8
 #EXTINF:-1,News Central
 https://d8d22be51c0e4951a293d65fc61b76d8.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-5/live_065/HD/playlist.m3u8
-#EXTINF:-1,NigbatiTV
-https://5f0d32c69f8a498a838b6365fb20fa91.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-6/live_078/SD/playlist.m3u8
 #EXTINF:-1,NOE TV
 http://102.132.19.90:8000/play/a022/index.m3u8
 #EXTINF:-1,Old West TV
@@ -221,8 +209,6 @@ https://15382f7b1669443fab1bcaa2d94c145f.mediatailor.us-east-1.amazonaws.com/v1/
 http://102.132.19.90:8000/play/a01s/index.m3u8
 #EXTINF:-1,RASD TV Sáhara
 https://cloud.streamingconnect.tv:455/rasdtv/rasdtv.m3u8
-#EXTINF:-1,Rave TV
-https://c4e14a5ce4c94bdbb8adda0617886b4c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-3/live_039/SD/playlist.m3u8
 #EXTINF:-1,REAL BLACK
 http://102.132.19.90:8000/play/a026/index.m3u8
 #EXTINF:-1,REAL BLACK 2
@@ -233,8 +219,6 @@ http://102.132.19.90:8000/play/a01g/index.m3u8
 https://15382f7b1669443fab1bcaa2d94c145f.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-8/live_119/SD/playlist.m3u8
 #EXTINF:-1,RTS1
 http://51.210.1.13:18000/rts1/hls/playlist.m3u8
-#EXTINF:-1,S-Cinema
-http://102.132.19.90:8000/play/a01f/index.m3u8
 #EXTINF:-1,Salvation TV
 https://ce50f5bb01704612b973d9ec00239ec6.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-2/live_017/SD/playlist.m3u8
 #EXTINF:-1,Sebi Oba
@@ -303,8 +287,6 @@ https://869942e8b91a45188a83a91b72ed8a32.mediatailor.us-east-1.amazonaws.com/v1/
 https://5f0d32c69f8a498a838b6365fb20fa91.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-6/live_090/SD/playlist.m3u8
 #EXTINF:-1,Trybe TV
 https://15382f7b1669443fab1bcaa2d94c145f.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-8/live_107/SD/playlist.m3u8
-#EXTINF:-1,TVC
-https://tvce.gridpapaservers.com/TVCSEPT/smil:myStream.smil/HasBahCa.m3u8
 #EXTINF:-1,TVC Entertainement
 https://5f0d32c69f8a498a838b6365fb20fa91.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-6/live_079/SD/playlist.m3u8
 #EXTINF:-1,TVC News
@@ -341,5 +323,3 @@ https://ce50f5bb01704612b973d9ec00239ec6.mediatailor.us-east-1.amazonaws.com/v1/
 https://dca74a46948e480eb80ee453d9812624.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia10/live_136/HD/playlist.m3u8
 #EXTINF:-1,ZIG LIFE
 http://102.132.19.90:8000/play/a023/index.m3u8
-#EXTINF:-1,ZOECHANNEL
-http://102.132.19.90:8000/play/a01m/index.m3u8
