@@ -281,12 +281,16 @@ https://c4e14a5ce4c94bdbb8adda0617886b4c.mediatailor.us-east-1.amazonaws.com/v1/
 https://ce50f5bb01704612b973d9ec00239ec6.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-2/live_019/SD/playlist.m3u8
 #EXTINF:-1,Thrill One Sport
 https://stitcheraws.unreel.me/wse-node05.powr.com/live/60ad16189590a654243e9655/HasBahCa.m3u8
+#EXTINF:-1,TPA 1 (480p) [Not 24/7]
+https://iptv-all.lanesh4d0w.repl.co/angola/tpa1
 #EXTINF:-1,Travel & Food TV
 https://869942e8b91a45188a83a91b72ed8a32.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-4/live_048/HD/playlist.m3u8
 #EXTINF:-1,TRUTH TV
 https://5f0d32c69f8a498a838b6365fb20fa91.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-6/live_090/SD/playlist.m3u8
 #EXTINF:-1,Trybe TV
 https://15382f7b1669443fab1bcaa2d94c145f.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-8/live_107/SD/playlist.m3u8
+#EXTINF:-1,TV Zimbo (720p) [Not 24/7]
+https://iptv-all.lanesh4d0w.repl.co/angola/tv-zimbo
 #EXTINF:-1,TVC Entertainement
 https://5f0d32c69f8a498a838b6365fb20fa91.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-6/live_079/SD/playlist.m3u8
 #EXTINF:-1,TVC News
