@@ -3,16 +3,12 @@
 https://mn-nl.mncdn.com/blutv_cocuk_dvr/live.m3u8
 #EXTINF:-1,Cartoon Network
 http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://82.194.1.4:8001/play/42E_11977H_SID1115/index.m3u8
 #EXTINF:-1,CARTOON NETWORK HD
 http://lives2.canlitv.center/cartoonnet.m3u8
 #EXTINF:-1,CARTOON NETWORK ydk
 http://mugla.tvizlehd.com/live/cartoon.m3u8
 #EXTINF:-1,Disney Channel
 http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://82.194.1.4:8002/play/E42_12422H_SID50200/index.m3u8
 #EXTINF:-1,DiSNEY CHANNEL TR
 http://mugla.tvizlehd.com/live/dcchannel.m3u8
 #EXTINF:-1,EBA iLKOKUL
@@ -35,20 +31,12 @@ http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
 http://mugla.tvizlehd.com/live/minikago.m3u8
 #EXTINF:-1,Minika Çocuk
 https://lives2.canlitv.center/minikacocuk.m3u8
-#EXTINF:-1,minikaCOCUK
-http://82.194.1.4:8002/play/E42_12054H_SID10303/index.m3u8
-#EXTINF:-1,minikaGO
-http://82.194.1.4:8002/play/E42_12054H_SID10304/index.m3u8
 #EXTINF:-1,TR: TRT COCUK HD
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT COCUK
 http://195.155.98.170:5858/play/a09n
-#EXTINF:-1,TRT COCUK
-http://82.194.1.4:8001/play/42E_11958V_SID10504/index.m3u8
 #EXTINF:-1,TRT COCUK HD
 http://195.155.98.170:5858/play/a09b
-#EXTINF:-1,TRT COCUK HD
-http://82.194.1.4:8001/play/E42_11054V_SID0/index.m3u8
 #EXTINF:-1,TRT Cocuk HD TR
 http://5.254.16.186:80/TRTCocuk/mono.m3u8
 #EXTINF:-1,TRT COCUK SD

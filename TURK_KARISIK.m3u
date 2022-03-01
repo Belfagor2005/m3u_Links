@@ -49,8 +49,6 @@ http://lalegultv.netmedya.net/hls/lalegultv.m3u8
 https://yayin2.medya24.com:1947/medya24/live/chunklist_w738076911.m3u8
 #EXTINF:-1,Memom TV
 https://tv170.ozelip.com:1936/memomtv/memomtv/HasBahCa.m3u8
-#EXTINF:-1,MGC
-http://46.31.146.187:44500/play/a030/index.m3u8
 #EXTINF:-1,Milli Piyango TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCZ9GezBqs_pV63UTrylkciw
 #EXTINF:-1,MPL TV
@@ -69,14 +67,10 @@ https://59cba4d34b678.streamlock.net/canlitv/otagtv/chunklist_w1843270513.m3u8
 https://2.rtmp.org/tv219/yayin.stream/chunklist.m3u8
 #EXTINF:-1,Sevgim Çiçeği TV
 https://5be5d840359c6.streamlock.net/sevgicicegi/sevgicicegi/HasBahCa_w988948456.m3u8
-#EXTINF:-1,Tarım Türk TV
-http://46.31.146.187:44500/play/a02f/index.m3u8
 #EXTINF:-1,TASC TV
 http://stream.tasc.tv:5080/WebRTCApp/streams/524722660612178507728771.m3u8
 #EXTINF:-1,TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
-#EXTINF:-1,TBRT Kanal 1
-https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TC TV
 http://51.254.48.123:2052/tctv/tctv/chunklist.m3u8
 #EXTINF:-1,TiviTürk
@@ -95,8 +89,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 https://tv170.ozelip.com:1936/tv500/tv500/HasBahCa.m3u8
 #EXTINF:-1,tvO
 https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/HasBahCa.m3u8
-#EXTINF:-1,Uçankuş TV
-https://livex458745.livestreamlive.xyz/ucankus.m3u8
 #EXTINF:-1,Van Gölü TV
 https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/HasBahCa_w583842648_b1694720.m3u8
 #EXTINF:-1,Vatan TV
@@ -105,8 +97,6 @@ http://iptvmasterlink.dyndns.org:8080/VatanTv/playlist.m3u8
 http://sabantv2020.ozelip.com:8080/yarimadatv/yarimadatv/HasBahCa.m3u8
 #EXTINF:-1,Yol TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
-#EXTINF:-1,Zaza TV
-http://46.31.146.187:44500/play/a03s/index.m3u8
 #EXTINF:-1,Ülke TV
 http://iptvmasterlink.dyndns.org:8080/UlkeTv/playlist.m3u8
 #EXTINF:-1,Üniversite TV

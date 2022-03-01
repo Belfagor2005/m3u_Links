@@ -65,8 +65,6 @@ https://listen.powerapp.com.tr/dance/dance.smil/chunklist_b2628000_sltur.m3u8
 https://listen.powerapp.com.tr/dance/dance.smil/HasBahCa.m3u8
 #EXTINF:-1,POWER HD
 http://195.155.98.170:5858/play/a0ab
-#EXTINF:-1,POWER HD
-http://82.194.1.4:8005/play/E42_12265V_SID14602/index.m3u8
 #EXTINF:-1,POWER LOVE HD
 https://listen.powerapp.com.tr/plove/love.smil/HasBahCa.m3u8
 #EXTINF:-1,POWER TURK
@@ -93,8 +91,6 @@ http://yerelmedya.tv:1935/powertv/bant1/HasBahCa.m3u8
 https://mn-nl.mncdn.com/blutv_power2/live_720p2000000kbps/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,POWER TÜRK
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/HasBahCa.m3u8
-#EXTINF:-1,POWERTURK HD
-http://82.194.1.4:8005/play/E42_12265V_SID14603/index.m3u8
 #EXTINF:-1,Powertürk
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8
 #EXTINF:-1,Radyo Kulüp

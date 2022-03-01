@@ -37,8 +37,6 @@ https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
 http://51.254.48.123:2052/bilsem/bilsem/HasBahCa.m3u8
 #EXTINF:-1,BiZiM EV TV
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/HasBahCa.m3u8
-#EXTINF:-1,CEM TV
-http://mugla.tvizlehd.com/live/cemtv.m3u8
 #EXTINF:-1,Cine 5
 https://host.onlineradyotv.net:8081/cine5/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Cinemidi
@@ -103,8 +101,6 @@ http://hd9994.4kradyotv.com:26606/smh61/smh61/HasBahCa.m3u8
 https://yayin2.medya24.com:1947/medya24/live/HasBahCa_w738076911.m3u8
 #EXTINF:-1,MEDYAM 14 TV
 http://mugla.tvizlehd.com/live/supertv.m3u8
-#EXTINF:-1,MGC
-http://46.31.146.187:44500/play/a030/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Milli Piyango TV
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCZ9GezBqs_pV63UTrylkciw
 #EXTINF:-1,Misket TV
@@ -125,16 +121,12 @@ https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/ma
 https://broadcasttr.com:446/kayseriosb/bant1/HasBahCa_w1586814739.m3u8
 #EXTINF:-1,Otağ TV
 https://59cba4d34b678.streamlock.net/canlitv/otagtv/HasBahCa_w1843270513.m3u8
-#EXTINF:-1,OZBURUN TV SD
-http://yilmaz.srfms.com:1935/yilmaz/livestream/chunklist_w1163224813.m3u8
 #EXTINF:-1,Sancak TV
 https://2.rtmp.org/tv219/yayin.stream/HasBahCa.m3u8
 #EXTINF:-1,Sat 7 Türk
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_720p/chunks_dvr.m3u8
 #EXTINF:-1,Ser TV
 https://tv170.ozelip.com:1936/sertv/sertv/HasBahCa.m3u8
-#EXTINF:-1,Serhat TV
-http://46.31.146.187:44500/play/a02f/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Super 7 TV
 https://tv170.ozelip.com:1936/super/super/HasBahCa.m3u8
 #EXTINF:-1,SZC
@@ -181,7 +173,5 @@ https://59cba4d34b678.streamlock.net/canlitv/yarentv/chunklist.m3u8
 https://yayin30.haber100.com/live/yasamtv/chunklist_w2024915114.m3u8
 #EXTINF:-1,YILDIZ EN TV
 http://mugla.tvizlehd.com/live/yildiztv.m3u8
-#EXTINF:-1,Zaza TV
-http://46.31.146.187:44500/play/a03s/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Şişli TV
 http://cwebtv1920.ozelip.com:21298/sislitv/sislitv/HasBahCa.m3u8

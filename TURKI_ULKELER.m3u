@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1,AlmatyTV KAZAK
-http://5.254.16.186/AlmatyTV/mono.m3u8
 #EXTINF:-1,Biz Cinema ÖZBEK
 https://st.biztv.uz/hls/c_hi/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Biz TV ÖZBEK
 https://st.biztv.uz/hls/stream_hi/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Crimea 1 KIRIM
 https://mrlive.1tvcrimea.ru/1tvcrimea.m3u8
-#EXTINF:-1,Crimea 24 KIRIM
-https://simf.1tvcrimea.ru/show/simferopol24/chunks.m3u8
 #EXTINF:-1,FTV KIRIM
 https://str2.yodacdn.net/publive/ftv/video.m3u8
 #EXTINF:-1,IR:AL ZAHRA TV

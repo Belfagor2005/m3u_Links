@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Ahsenül Takvim TV
 https://tv170.ozelip.com:1936/takvimtv/takvimtv/HasBahCa.m3u8
-#EXTINF:-1,Al Quran Al Kareem TV
-http://m.live.net.sa:1935/live/quran/HasBahCa.m3u8
-#EXTINF:-1,Al Sunnah Al Nabawiyah
-http://m.live.net.sa:1935/live/sunnah/HasBahCa.m3u8
 #EXTINF:-1,Berat TV
 http://cdn-berattv.yayin.com.tr/berattv/berattv/HasBahCa.m3u8
 #EXTINF:-1,CAMiA TV HD
@@ -49,8 +45,6 @@ http://hd9994.4kradyotv.com:26606/minbertv/minbertv/HasBahCa.m3u8
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCTr00Butm_gEZmbUz_KI9gg
 #EXTINF:-1,On4 TV
 http://yayin.netradyom.com:1935/live/on4/HasBahCa.m3u8
-#EXTINF:-1,QURAN TV HD
-http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/chunklist_w2066488187.m3u8
 #EXTINF:-1,Rehber TV
 https://yayin30.haber100.com/live/rehbertv/HasBahCa.m3u8
 #EXTINF:-1,REHBER TV ydk
