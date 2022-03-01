@@ -3,10 +3,18 @@
 http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
 #EXTINF:-1,1 Odessa ?
 http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
+#EXTINF:-1,1+1
+http://37.187.28.95:2022/1plus1/mpegts
 #EXTINF:-1,100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1,112 UA HD
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,1HD Music TV
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,21 канал Ужгород [UA]
+rtmp://213.174.8.15:1935/live/danio
+#EXTINF:-1,2x2
+http://46.174.83.66/2x2/mpegts
 #EXTINF:-1,3 Цифровой
 http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
 #EXTINF:-1,33 канал (Хмельницкий)
@@ -15,6 +23,10 @@ http://33tvv.ml/33chanel/live/index.m3u8?HasBahCa.m3u8
 https://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
 #EXTINF:-1,365
 http://46.174.83.66/365/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,365
+http://46.174.83.66/365/mpegts
+#EXTINF:-1,5Kanal
+http://46.174.83.66/5Kanal/mpegts
 #EXTINF:-1,7 Kanal
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
 #EXTINF:-1,7 канал
@@ -35,16 +47,32 @@ http://stream.atr.ua/atr/live/index.m3u8?HasBahCa.m3u8
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-720p/playlist.m3u8
 #EXTINF:-1,BamBarBia TV
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1,BridgeTV
+http://46.174.83.66/BridgeTV/mpegts
 #EXTINF:-1,BTB ?
 http://video.vtvplus.com.ua:81/hls/online/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,City TV (Одесса)
 http://cdn1.live-tv.od.ua:8081/a1od/citytv-abr/a1od/citytvod/chunks.m3u8
 #EXTINF:-1,CNL Europa ?
 http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8
+#EXTINF:-1,CNL UA
+http://178.212.236.3:8003/cnl/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CTC
+http://46.174.83.66/CTC/mpegts
 #EXTINF:-1,Current Time ?
 https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Domashniy
+http://46.174.83.66/Domashniy/mpegts
 #EXTINF:-1,Enter-фільм
 http://31.43.48.248:7000/ch54/video.m3u8
+#EXTINF:-1,Euronews
+http://46.174.83.66/Euronews/mpegts
+#EXTINF:-1,EWTN UA
+https://d3j0n5al39mfyd.cloudfront.net/ewtn/ukraine_1280x720_3300k.m3u8
+#EXTINF:-1,futbol
+http://37.187.28.95:2022/futbol/mpegts
+#EXTINF:-1,futbol2
+http://37.187.28.95:2022/footbol2/mpegts
 #EXTINF:-1,G TV
 http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/playlist.m3u8
 #EXTINF:-1,G TV (Одесса)
@@ -55,14 +83,26 @@ https://stream.uagit.tv/gittv.m3u8
 http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
 #EXTINF:-1,GTV (576p)
 http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8
+#EXTINF:-1,HD Fashion UA
+http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,HTH ?
 https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,HTK
 http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1,I-UA TV
+http://kie2.cdn.i-ua.tv/hlsme/iuatv_720p.m3u8
+#EXTINF:-1,I-UA TV HD
+http://kie2.cdn.i-ua.tv/hlsme/iuatv_1080p.m3u8
+#EXTINF:-1,I-UA.TV
+https://kie2.cdn.i-ua.tv/hlsme/iuatv_480p.m3u8
+#EXTINF:-1,ictv
+http://37.187.28.95:2022/ictv/mpegts
 #EXTINF:-1,ID Fashion
 https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8?HasBahCa.m3u8?_=1602581479
 #EXTINF:-1,IHTEP ?
 https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,inter
+http://37.187.28.95:2022/inter/mpegts
 #EXTINF:-1,ITV (Ровно)
 http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
 #EXTINF:-1,ITV HD
@@ -71,18 +111,54 @@ http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
 https://cdn10.live-tv.od.ua:8083/izod/izod-abr-lq/playlist.m3u8
 #EXTINF:-1,K1 ?
 http://109.68.40.67/life/k1_3/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Karusel
+http://46.174.83.66/Karusel/mpegts
+#EXTINF:-1,KHL HD
+http://46.174.83.66/KHL_HD/mpegts
+#EXTINF:-1,Kultura
+http://46.174.83.66/Kultura/mpegts
 #EXTINF:-1,Lale ?
 http://stream.atr.ua/lale//live/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,matc_boec
+http://37.187.28.95:2022/matc_boec/mpegts
+#EXTINF:-1,Matc_futbol_2_hd
+http://37.187.28.95:2022/Matc_futbol_2_hd/mpegts
+#EXTINF:-1,Matc_futbol_3_hd
+http://37.187.28.95:2022/Matc_futbol_3_hd/mpegts
+#EXTINF:-1,Matc_igra_hd
+http://37.187.28.95:2022/Matc_igra_hd/mpegts
+#EXTINF:-1,match
+http://37.187.28.95:2022/match/mpegts
+#EXTINF:-1,match_futbol1_HD
+http://37.187.28.95:2022/match_futbol1_HD/mpegts
+#EXTINF:-1,matchplaneta
+http://37.187.28.95:2022/matchplaneta/mpegts
+#EXTINF:-1,Matchpremyer
+http://37.187.28.95:2022/Matchpremyer/mpegts
+#EXTINF:-1,Mir
+http://46.174.83.66/Mir/mpegts
+#EXTINF:-1,MuzTV
+http://46.174.83.66/MuzTV/mpegts
+#EXTINF:-1,Noviy
+http://37.187.28.95:2022/Noviy/mpegts
+#EXTINF:-1,NTV
+http://46.174.83.66/NTV/mpegts
 #EXTINF:-1,Odesa Live
 http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr-lq/playlist.m3u8
 #EXTINF:-1,Olvia
 http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr-lq/ktkod/ktkod-sub3/playlist.m3u8
+#EXTINF:-1,ostrosygetnoe
+http://37.187.28.95:2022/ostrosygetnoe/mpegts
+#EXTINF:-1,OTR
+http://46.174.83.66/OTR/mpegts
 #EXTINF:-1,Pershiy Zakhidniy ?
 http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1,Perviy Delovoy
 http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Perviy Gorodskoy Odessa
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1,Perviy kanal
+http://46.174.83.66/1/mpegts
 #EXTINF:-1,Plus
 http://85.238.112.69:8811/hls_sec/239.0.14.15-.m3u8
 #EXTINF:-1,PLUS [UA]
@@ -93,16 +169,36 @@ http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/ind
 http://85.238.112.69:8811/hls_sec/239.0.58.39-.m3u8
 #EXTINF:-1,Pryamyi
 http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Psihology21
+http://46.174.83.66/Psihologiya21/mpegts
+#EXTINF:-1,Pytnica
+http://46.174.83.66/Pytnica/mpegts
 #EXTINF:-1,Radio Suite
 http://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8
 #EXTINF:-1,Radio Suite
 http://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/HasBahCa.m3u8
+#EXTINF:-1,RBC
+http://46.174.83.66/RBC/mpegts
 #EXTINF:-1,Renome (Одесса)
 http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1,RenTV
+http://46.174.83.66/RenTV/mpegts
+#EXTINF:-1,RU_TV
+http://46.174.83.66/RU_TV/mpegts
 #EXTINF:-1,Rudana
 https://live.rudana.com.ua/hls/stream_FHD.m3u8
+#EXTINF:-1,Russia1
+http://46.174.83.66/Russia1/mpegts
+#EXTINF:-1,Russia24
+http://46.174.83.66/Russia24/mpegts
+#EXTINF:-1,Russian Illusion+ SD
+http://46.174.83.66/Illusion+/mpegts
+#EXTINF:-1,setanta_eurasia_hd
+http://37.187.28.95:2022/setanta_eurasia_hd/mpegts
 #EXTINF:-1,Simon ?
 http://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:-1,Spas
+http://46.174.83.66/Spas/mpegts
 #EXTINF:-1,Svarogichi
 http://tv.tv-project.com:1935/live/live1/playlist.m3u8
 #EXTINF:-1,TIM HD
@@ -111,16 +207,42 @@ http://194.242.100.24:6666
 http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8
 #EXTINF:-1,TIS TV ?
 http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
+#EXTINF:-1,TNT
+http://46.174.83.66/TNT/mpegts
+#EXTINF:-1,TNT4
+http://46.174.83.66/TNT4/mpegts
 #EXTINF:-1,Travel Guide TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 #EXTINF:-1,Treti Cifrovoj ?
 http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8
 #EXTINF:-1,TV 5 Zaporozhye ?
 http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:-1,TV3
+http://46.174.83.66/TV3/mpegts
 #EXTINF:-1,TVA Czernowitz ?
 http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,TVCentr
+http://46.174.83.66/TVCentr/mpegts
+#EXTINF:-1,UA
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,UA
+http://185.29.255.187:8001/play/a016
+#EXTINF:-1,UA DONBAS
+http://185.29.255.187:8001/play/a01w
+#EXTINF:-1,UA KRYM
+http://185.29.255.187:8001/play/a017
+#EXTINF:-1,UA TV
+http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,UA TV
+http://95.67.106.243/hls/ua-tv_ua_mid/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,UA TV (Reserve2)
+http://95.67.106.242:80/hls/ua-tv_ua_mid/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,UA ZAKARPATTIA
+http://185.29.255.187:8001/play/a00f
 #EXTINF:-1,UA Одесса
 http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod-sub/playlist.m3u8
+#EXTINF:-1,UA: Одеса (384p) [Not 24/7]
+https://cdn10.live-tv.od.ua:8083/odtrkod/odtrkod-abr/playlist.m3u8
 #EXTINF:-1,UA:Одесса
 http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod/playlist.m3u8
 #EXTINF:-1,ukraina
@@ -131,12 +253,18 @@ http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
 https://stream.ztv.zp.ua/hls/live.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Zdorove Odessa
 http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
+#EXTINF:-1,Zdorovoe_TV
+http://46.174.83.66/Zdorovoe_TV/mpegts
 #EXTINF:-1,Zdorovood TV Odessa ?
 http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
 #EXTINF:-1,Zee TV
 http://194.213.23.7:3304
 #EXTINF:-1,Zooпарк
 http://46.174.83.66/Zoopark/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Zooпарк
+http://46.174.83.66/Zoopark/mpegts
+#EXTINF:-1,Zvezda
+http://46.174.83.66/Zvezda/mpegts
 #EXTINF:-1,А1
 http://cdn1.live-tv.od.ua:8081/a1od/a1od-720p/playlist.m3u8
 #EXTINF:-1,А1 (Одесса)
@@ -171,6 +299,8 @@ http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/154/index.m3u8?HasBahCa.m3u8
 http://46.174.83.66/Domashniy/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Драйв
 http://46.174.83.66/Drive/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Драйв
+http://46.174.83.66/Drive/mpegts
 #EXTINF:-1,Думская ТВ
 http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
 #EXTINF:-1,Думская ТВ (Одеса)
@@ -185,10 +315,14 @@ http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
 http://46.174.83.66/Zdorovoe_TV/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Здоровье (Одесса)
 http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/chunks.m3u8
+#EXTINF:-1,Здоровье [UA]
+https://cdn1.live-tv.od.ua:8083/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
 #EXTINF:-1,Измаил ТВ
 http://cdn10.live-tv.od.ua:8081/izod/izod-abr-lq/izod/izod-sub2/playlist.m3u8
 #EXTINF:-1,Индийское кино
 http://46.174.83.66/Indiiskoe_kino/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Интер [UA]
+https://edge2.iptv.macc.com.ua/img/inter_1/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Инший (Одесса)
 http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr-lq/playlist.m3u8
 #EXTINF:-1,Карапуз ТВ
@@ -211,6 +345,8 @@ http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
 http://46.174.83.66/Mir/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Мир Баскетбола
 http://46.174.83.66/MirBasketbola/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Мир баскетбола
+http://46.174.83.66/MirBasketbola/mpegts
 #EXTINF:-1,Моя Стихия HD
 http://46.174.83.66/Morskoi_HD/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Наше новое кино
@@ -247,6 +383,8 @@ http://46.174.83.66/1/index.m3u8?HasBahCa.m3u8
 http://194.190.78.91/pskov/rewind-10800.m3u8
 #EXTINF:-1,Полтавское ТВ
 http://cdn10.live-tv.od.ua:8081/hrpl/720p/playlist.m3u8
+#EXTINF:-1,ПРЯМИЙ (UA)
+http://95.67.21.100/hls/prm_ua_low/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Психология
 http://46.174.83.66/Psihologiya21/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Пятый канал
@@ -261,12 +399,20 @@ http://cdn1.live-tv.od.ua:8081/31chod/31chod/playlist.m3u8
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr-lq/playlist.m3u8
 #EXTINF:-1,Ретро
 http://46.174.83.66/Retro/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Ретро ТВ
+http://46.174.83.66/Retro/mpegts
 #EXTINF:-1,Самара ГИС
 http://45.67.57.9:8080/new/new/tracks-v1a1/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Сварожичи ТВ HD (720p) [UA]
+http://80.91.177.102:1935/live/live2/playlist.m3u8
+#EXTINF:-1,Сварожичи ТВ HD (720p) [UA]
+http://80.91.177.102:1935/live/live2/HasBahCa.m3u8
 #EXTINF:-1,СТС
 http://46.174.83.66/CTC/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Суббота HD
 http://85.112.114.11:8088/udp/238.2.49.249:1234
+#EXTINF:-1,Суббота!
+http://46.174.83.66/Subbota/mpegts
 #EXTINF:-1,Суспільне ТБ
 http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod-abr-lq/playlist.m3u8
 #EXTINF:-1,Сфера ТВ
@@ -295,6 +441,18 @@ http://cdn1.live-tv.od.ua:8081/31chod/31chod-sub/playlist.m3u8
 http://46.174.83.66/Unikum/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Усадьба
 http://46.174.83.66/Usadba/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Усадьба
+http://46.174.83.66/Usadba/mpegts
+#EXTINF:-1,Футбол 1
+http://37.187.28.95:2022/footbol1/mpegts
+#EXTINF:-1,Футбол 1 FHD (ua)
+https://bal.varcdn1.ru/lb/ua1/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Футбол 2 FHD (ua)
+https://bal.varcdn1.ru/lb/ua2/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Че
+http://46.174.83.66/Che/mpegts
+#EXTINF:-1,Ю
+http://46.174.83.66/U/mpegts
 #EXTINF:-1,Южная волна
 http://cdn1.live-tv.od.ua:8081/wave/wave-720/playlist.m3u8
 #EXTINF:-1,Южная Волна HD

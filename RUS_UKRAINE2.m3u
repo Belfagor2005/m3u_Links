@@ -2,13 +2,9 @@
 #EXTINF:-1,'Apostrophe TV
 http://185.29.255.187:8001/play/a00g
 #EXTINF:-1,1+1
-http://6dc51851.megogo.xyz/iptv/UNQK8HXZHZWX73/994/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,1+1
 http://185.29.255.187:8001/play/a00h
 #EXTINF:-1,1+1 International
 http://109.200.130.124:7003/play/a005
-#EXTINF:-1,112 UA HD
-http://app.live.112.events/hls-ua/112hd_mid/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,112 Украина HD
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,12 kanal
@@ -17,8 +13,6 @@ http://185.29.255.187:8001/play/a00k
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_sdhigh.m3u8
 #EXTINF:-1,2+2
 http://185.29.255.187:8001/play/a00j
-#EXTINF:-1,21 канал Ужгород [UA]
-rtmp://213.174.8.15:1935/live/danio
 #EXTINF:-1,24 Канал
 http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8?HasBahCa.m3u8
 #EXTINF:-1,24 канал HD
@@ -67,8 +61,6 @@ http://v4.proofix.ru:80/8tv-russia/index.m3u8?HasBahCa.m3u8
 http://livestream.8kanal.tv/hls/livestream_hd720.m3u8
 #EXTINF:-1,8 Канал Европа
 http://v4.proofix.ru:80/8tv-europe/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,= Самообновляемый плейлист Great Crabs IPTV =
-http://nano.teleservice.su:8080/hls/100l.m3u8
 #EXTINF:-1,A21 Network
 https://tv.a21network.ru/stream/37909/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,A21 Network - NM TV
@@ -125,8 +117,6 @@ http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 rtmp://77.235.18.154:1935/live/live.stream
 #EXTINF:-1,City TV (BG)
 https://tv.city.bg/play/tshls/citytv/3.m3u8
-#EXTINF:-1,CNL UA
-http://178.212.236.3:8003/cnl/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Company TV
 http://wma10.fluidstream.net/CompanyTV/_definst_:livestream_720p/playlist.m3u8
 #EXTINF:-1,Company TV
@@ -157,8 +147,6 @@ http://185.29.255.187:8001/play/a00w
 http://185.29.255.187:8001/play/a007
 #EXTINF:-1,Espreso TV
 http://185.29.255.187:8001/play/a00x
-#EXTINF:-1,EWTN UA
-https://d3j0n5al39mfyd.cloudfront.net/ewtn/ukraine_1280x720_3300k.m3u8
 #EXTINF:-1,FAN
 http://94.230.240.17:8080/fan/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Film Box
@@ -183,34 +171,16 @@ https://live.prd.dlive.tv/hls/live/happyradio.m3u8
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,HD Fashion & Lifestyle TV
 http://95.67.47.114/hls/hdfashion_ua_mid/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,HD Fashion UA
-http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,HDFashion & LifeStyle
 http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,HDFashion & LifeStyle (1080p)
 http://95.67.47.114/hls/hdfashion_ua.m3u8
-#EXTINF:-1,I-UA TV
-http://kie2.cdn.i-ua.tv/hlsme/iuatv_720p.m3u8
-#EXTINF:-1,I-UA TV HD
-http://kie2.cdn.i-ua.tv/hlsme/iuatv_1080p.m3u8
-#EXTINF:-1,I-UA.TV
-https://kie2.cdn.i-ua.tv/hlsme/iuatv_480p.m3u8
 #EXTINF:-1,ID Fashion TV
 http://95.67.21.20/hls/idfashion_ua_mid/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,INRATING TV
 http://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Inter
 http://185.29.255.187:8001/play/a008
-#EXTINF:-1,IPTV Play:Trance is Star
-http://tis.catcast.tv/content/391/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,IPTV Play:Мультсказки
-http://autopilot.catcast.tv/content/38850/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,IPTV Play:Память
-http://autopilot.catcast.tv/content/38821/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,IPTV Play:Ужастик
-http://autopilot.catcast.tv/content/38896/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,IPTV Play:Фантастика
-http://autopilot.catcast.tv/content/38801/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Iнтер
 https://edge2.iptv.macc.com.ua/img/inter_3/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,K1
@@ -397,6 +367,8 @@ https://live.prd.dlive.tv/hls/live/ivanich.78.m3u8
 http://185.29.255.187:8001/play/a01u
 #EXTINF:-1,TMTV
 http://hls-iptv.tattelecom.ru:80/online_tv_TMTV/tracks-v1a1/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Trance is Star
+http://tis.catcast.tv/content/391/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Travel Guide TV (720p)
 https://cdn10.live-tv.od.ua:8083/leonovtv/test1/playlist.m3u8
 #EXTINF:-1,TRO
@@ -427,24 +399,6 @@ http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
 http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/HasBahCa.m3u8
 #EXTINF:-1,TVM Channel
 http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,UA
-http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,UA
-http://185.29.255.187:8001/play/a016
-#EXTINF:-1,UA DONBAS
-http://185.29.255.187:8001/play/a01w
-#EXTINF:-1,UA KRYM
-http://185.29.255.187:8001/play/a017
-#EXTINF:-1,UA TV
-http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,UA TV
-http://95.67.106.243/hls/ua-tv_ua_mid/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,UA TV (Reserve2)
-http://95.67.106.242:80/hls/ua-tv_ua_mid/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,UA ZAKARPATTIA
-http://185.29.255.187:8001/play/a00f
-#EXTINF:-1,UA: Одеса (384p) [Not 24/7]
-https://cdn10.live-tv.od.ua:8083/odtrkod/odtrkod-abr/playlist.m3u8
 #EXTINF:-1,UKR LIVE
 http://live.ukrlive.tv/hls/hd.m3u8
 #EXTINF:-1,Ukraina 24
@@ -599,8 +553,6 @@ http://185.161.224.216/dash/JaraTv_SD.ism/playlist.mpd
 http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/chunklist.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
-#EXTINF:-1,Здоровье [UA]
-https://cdn1.live-tv.od.ua:8083/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
 #EXTINF:-1,Измаил ТВ (576p) [Not 24/7]
 https://cdn10.live-tv.od.ua:8083/izod/izod-abr/playlist.m3u8
 #EXTINF:-1,Илли ТВ
@@ -615,8 +567,6 @@ http://lb1.macc.com.ua/img/inter_3/index.m3u8?HasBahCa.m3u8
 http://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Интер (512p)
 http://109.68.40.67/img/inter_2/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,Интер [UA]
-https://edge2.iptv.macc.com.ua/img/inter_1/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,ИРТ (Днепр)
 http://91.193.128.233:1935/live//irt.stream/playlist.m3u8
 #EXTINF:-1,ИРТ (Днепр)
@@ -715,6 +665,8 @@ http://autopilot.catcast.tv/content/37739/index.m3u8?HasBahCa.m3u8
 http://195.26.83.96:7024/play/74
 #EXTINF:-1,Мульт и Музыка
 http://195.26.83.96:7024/play/75
+#EXTINF:-1,Мультсказки
+http://autopilot.catcast.tv/content/38850/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,МультСказки
 https://v2.catcast.tv/content/38850/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Надiя
@@ -779,6 +731,8 @@ http://91.193.128.233:1935/live/otv.stream/HasBahCa.m3u8
 http://91.193.128.233:1935/live//otv.stream_576p/HasBahCa.m3u8
 #EXTINF:-1,ОТВ (Одинцово)
 http://185.18.4.16/live/3m/playlist.m3u8
+#EXTINF:-1,Память
+http://autopilot.catcast.tv/content/38821/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Память/СССР ТВ
 https://v2.catcast.tv/content/38821/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Панорама ТВ (Тверь)
@@ -829,8 +783,6 @@ http://185.78.112.46:8077/priboy_tv/index.m3u8?HasBahCa.m3u8
 http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Прямий
 http://95.67.21.100/hls/prm_ua_hi/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,ПРЯМИЙ (UA)
-http://95.67.21.100/hls/prm_ua_low/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Прямой
 http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Пульсар ТВ (Ахтырка)
@@ -901,10 +853,6 @@ http://80.91.177.102:1935/live/live1/playlist.m3u8
 http://80.91.177.102:1935/live/live1/HasBahCa.m3u8
 #EXTINF:-1,Сварожичи ТВ
 http://tv.tv-project.com:1935/live/live1/HasBahCa.m3u8
-#EXTINF:-1,Сварожичи ТВ HD (720p) [UA]
-http://80.91.177.102:1935/live/live2/playlist.m3u8
-#EXTINF:-1,Сварожичи ТВ HD (720p) [UA]
-http://80.91.177.102:1935/live/live2/HasBahCa.m3u8
 #EXTINF:-1,Свое ТВ (Ставрополь)
 http://live.stv24.tv:8080/svoetv/MQ_video.m3u8
 #EXTINF:-1,Севастополь 24
@@ -1015,8 +963,6 @@ https://stream.rai.ua/rai/stream.m3u8
 https://cdn1.live-tv.od.ua:8083/31chod/31chod-sub/playlist.m3u8
 #EXTINF:-1,ТРК Тонус (Саки)
 http://171.25.175.68:888/tonus
-#EXTINF:-1,ТРК УКРАЇНА
-http://6dc51851.megogo.xyz/iptv/UNQK8HXZHZWX73/1011/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Трофей HD
 http://trofey.net:1935/live/smil:trofey.smil/chunklist_b878000_slukr.m3u8
 #EXTINF:-1,ТСВ (Приднестровье)
@@ -1025,6 +971,8 @@ https://iptv-hls.idc.md/hls/2/live2.m3u8
 http://185.185.69.62:8084/hls/tuapse24.m3u8
 #EXTINF:-1,Тюсо ТВ
 http://95.67.62.156/hls/tuso_ua_mid/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Ужастик
+http://autopilot.catcast.tv/content/38896/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Украина
 https://kv-k21-mc02.ollcdn.net/trku-live/20/a5d0f259a48c6bef7e875a438724b9c6/61eb41f8/ukrainahd/ukrainahd.m3u8
 #EXTINF:-1,Украина 24
@@ -1035,12 +983,10 @@ http://live-1.otcnet.ru/pravdatv/index.m3u8?HasBahCa.m3u8
 https://media.ukraine-inform.com/ef/stream.m3u8
 #EXTINF:-1,Фан Спорт.
 https://live-k2311-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1,Фантастика
+http://autopilot.catcast.tv/content/38801/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Фантастика HD
 http://hlss.goodgame.ru/hls/187241.m3u8
-#EXTINF:-1,Футбол 1 FHD (ua)
-https://bal.varcdn1.ru/lb/ua1/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,Футбол 2 FHD (ua)
-https://bal.varcdn1.ru/lb/ua2/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Футбол хаб
 http://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1,Хабар 24 HD
