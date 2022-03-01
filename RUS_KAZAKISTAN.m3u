@@ -23,10 +23,6 @@ https://89.106.234.4/A1_34_35.m3u8
 https://89.106.234.4/A2_34_35.m3u8
 #EXTINF:-1,A2 (576p) [Not 24/7]
 https://sc.id-tv.kz/A2.m3u8
-#EXTINF:-1,Almaty (KZ)
-https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
-#EXTINF:-1,Almaty TV
-https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/chunklist.m3u8?HasBahCa.m3u8?hls_proxy_host=pub1.rtmp.s01.l.almatytv
 #EXTINF:-1,Almaty TV (KZ)
 https://sc.id-tv.kz/Almaty_34_35.m3u8
 #EXTINF:-1,Amedia 1
@@ -155,8 +151,6 @@ https://89.106.234.4/Rossiya24_34_35.m3u8
 https://89.106.234.4/RossiyaK_34_35.m3u8
 #EXTINF:-1,Saryarqa
 https://stream.kaztrk.kz/regional/karagandytv/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,Skrypin UA
-https://open-cdn.lanet.tv/live/1008.m3u8
 #EXTINF:-1,STS
 https://89.106.234.4/STS_34_35.m3u8
 #EXTINF:-1,test
@@ -167,8 +161,6 @@ https://89.106.234.4/TiJi_34_35.m3u8
 https://sc.id-tv.kz/TiJi_34_35.m3u8
 #EXTINF:-1,Turkmen Спорт
 http://217.174.225.146/legacyhls/ch004_400/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,UA Херсон
-http://webcams.ks.ua/hls/skifija.m3u8
 #EXTINF:-1,Viasat Sport
 https://sc.id-tv.kz/ViasatSport_34_35.m3u8
 #EXTINF:-1,Бобер

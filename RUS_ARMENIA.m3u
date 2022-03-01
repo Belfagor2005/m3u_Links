@@ -11,12 +11,8 @@ https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
 https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 #EXTINF:-1,ARM:AVD TV
 http://autopilot.catcast.tv/content/40791/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,ARM:Fresh TV
-http://freshtv.catcast.tv/content/33718/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,ARM:Hayq Rus TV
 http://autopilot.catcast.tv/content/40515/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,ARM:Mix TV
-http://autopilot.catcast.tv/content/40800/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,ARM:Normax
 http://autopilot.catcast.tv/content/40660/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Armenia 1
@@ -37,7 +33,5 @@ http://uiptv.do.am/1ufc/113500247/playlist.m3u8
 http://uiptv.do.am/1ufc/112234126/playlist.m3u8
 #EXTINF:-1,РЕН ТВ
 http://uiptv.do.am/1ufc/102323759/playlist.m3u8
-#EXTINF:-1,Россия 1 (Калуга)
-http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/chunklist_b400000.m3u8
 #EXTINF:-1,ТВ Центр
 http://uiptv.do.am/1ufc/000000009/playlist.m3u8

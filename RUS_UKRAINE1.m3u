@@ -1,0 +1,599 @@
+#EXTM3U
+#EXTINF:-1,1 Krivoy Rog
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:-1,1 Odessa ?
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
+#EXTINF:-1,1 Авто
+http://193.151.107.120:8000/play/138/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,1+1  HD
+http://193.151.107.120:8000/play/6/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1,12 канал
+http://193.151.107.120:8000/play/166/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,1HD Music TV
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,2+2 HD
+http://193.151.107.120:8000/play/20/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,3 Цифровой
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
+#EXTINF:-1,33 канал (Хмельницкий)
+http://33tvv.ml/33chanel/live/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,34 Kanal ?
+https://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+#EXTINF:-1,360TuneBox
+http://193.151.107.120:8000/play/120/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,365
+http://46.174.83.66/365/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,4ever music HD
+http://193.151.107.120:8000/play/169/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,5 Канал HD
+http://193.151.107.120:8000/play/28/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,7 Kanal
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1,7 канал
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1,7 канал (KZ) HD
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr-lq/playlist.m3u8
+#EXTINF:-1,7 Канал (Одесса)
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/playlist.m3u8
+#EXTINF:-1,7 Канал HD (Одесса)
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/chunks.m3u8
+#EXTINF:-1,7 канал Одесса
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr-lq/7tvod/7tvod-sub3/playlist.m3u8
+#EXTINF:-1,8 канал
+http://193.151.107.120:8000/play/165/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,A Classic
+http://193.151.107.120:8000/play/47/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Animal Planet HD
+http://193.151.107.120:8000/play/62/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Arhat TB
+http://arhat.tv/public/720p/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ATR ?
+http://stream.atr.ua/atr/live/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ATR HD
+http://193.151.107.120:8000/play/55/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Bambarbia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1,BamBarBia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1,Bollywood HD
+http://193.151.107.120:8000/play/93/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Bolt HD
+http://193.151.107.120:8000/play/86/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,BTB ?
+http://video.vtvplus.com.ua:81/hls/online/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,City TV (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/citytv-abr/a1od/citytvod/chunks.m3u8
+#EXTINF:-1,CNL Europa ?
+http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8
+#EXTINF:-1,CNN HD
+http://193.151.107.120:8000/play/65/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Current Time ?
+https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Discovery Channel
+http://193.151.107.120:8000/play/42/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,DocuBox HD
+http://193.151.107.120:8000/play/80/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,DW English HD
+http://193.151.107.120:8000/play/59/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,English Club HD
+http://193.151.107.120:8000/play/108/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Enter Film HD
+http://193.151.107.120:8000/play/25/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Enter-фільм
+http://31.43.48.248:7000/ch54/video.m3u8
+#EXTINF:-1,Epic Drama HD
+http://193.151.107.120:8000/play/89/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Epoque HD
+http://193.151.107.120:8000/play/105/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,EU Music HD
+http://193.151.107.120:8000/play/118/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://193.151.107.120:8000/play/124/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Extreme sports
+http://193.151.107.120:8000/play/121/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Fashion One HD
+http://193.151.107.120:8000/play/63/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Fashion TV HD
+http://193.151.107.120:8000/play/67/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,FashionBox
+http://193.151.107.120:8000/play/79/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,FashionUA HD
+http://193.151.107.120:8000/play/32/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Fast&FunBox HD
+http://193.151.107.120:8000/play/78/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,FightBox HD
+http://193.151.107.120:8000/play/128/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,FilmBox
+http://193.151.107.120:8000/play/145/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,FilmBox ArtHouse
+http://193.151.107.120:8000/play/81/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Flix Snip HD
+http://193.151.107.120:8000/play/112/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Food Network HD
+http://193.151.107.120:8000/play/71/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,France24 HD EN
+http://193.151.107.120:8000/play/104/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,G TV
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/playlist.m3u8
+#EXTINF:-1,G TV (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:-1,GIT
+https://stream.uagit.tv/gittv.m3u8
+#EXTINF:-1,GTV
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:-1,GTV (576p)
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8
+#EXTINF:-1,Hollywood HD
+http://193.151.107.120:8000/play/172/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,HTH ?
+https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,HTK
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1,ICTV HD
+http://193.151.107.120:8000/play/15/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ID Fashion
+https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8?HasBahCa.m3u8?_=1602581479
+#EXTINF:-1,ID HD
+http://193.151.107.120:8000/play/99/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,IHTEP ?
+https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ITV (Ровно)
+http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
+#EXTINF:-1,ITV HD
+http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+#EXTINF:-1,Izmail TV ?
+https://cdn10.live-tv.od.ua:8083/izod/izod-abr-lq/playlist.m3u8
+#EXTINF:-1,K1 ?
+http://109.68.40.67/life/k1_3/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,KinoKazka HD
+http://193.151.107.120:8000/play/27/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,LALE
+http://193.151.107.120:8000/play/139/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Lale ?
+http://stream.atr.ua/lale//live/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Live
+http://193.151.107.120:8000/play/144/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,M1 HD
+http://193.151.107.120:8000/play/36/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,M2 HD
+http://193.151.107.120:8000/play/117/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Megogo Live HD
+http://193.151.107.120:8000/play/100/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Milady Television
+http://193.151.107.120:8000/play/54/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,MTV Hits
+http://193.151.107.120:8000/play/119/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,MusicBox HD
+http://193.151.107.120:8000/play/68/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Nick Jr.
+http://193.151.107.120:8000/play/56/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://193.151.107.120:8000/play/45/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Niki Junior HD
+http://193.151.107.120:8000/play/83/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Niki Kids HD
+http://193.151.107.120:8000/play/64/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Odesa Live
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr-lq/playlist.m3u8
+#EXTINF:-1,Olvia
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr-lq/ktkod/ktkod-sub3/playlist.m3u8
+#EXTINF:-1,Osnova Promo
+http://193.151.107.120:8000/play/91/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Osnova_logo
+http://193.151.107.120:8000/play/999/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,OstWest
+http://193.151.107.120:8000/play/174/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,OTV
+http://193.151.107.120:8000/play/24/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Paramount Comedy
+http://193.151.107.120:8000/play/82/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Pershiy Zakhidniy ?
+http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,Perviy Delovoy
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Perviy Gorodskoy Odessa
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1,Plus
+http://85.238.112.69:8811/hls_sec/239.0.14.15-.m3u8
+#EXTINF:-1,PLUS [UA]
+http://dmitry-tv.ml/hls/ua/CH_PLUS.m3u8
+#EXTINF:-1,Pravda TYT
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Prime Time
+http://85.238.112.69:8811/hls_sec/239.0.58.39-.m3u8
+#EXTINF:-1,Pryamyi
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Radio Suite
+http://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8
+#EXTINF:-1,Radio Suite
+http://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/HasBahCa.m3u8
+#EXTINF:-1,Renome (Одесса)
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1,Rudana
+https://live.rudana.com.ua/hls/stream_FHD.m3u8
+#EXTINF:-1,SeaTV HD
+http://193.151.107.120:8000/play/106/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Setanta Sport+ HD
+http://193.151.107.120:8000/play/107/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Setanta Sports HD
+http://193.151.107.120:8000/play/147/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,SHAKHTAR TV HD
+http://193.151.107.120:8000/play/70/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Simon ?
+http://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:-1,Sirius TV
+http://193.151.107.120:8000/play/75/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Star Cinema HD
+http://193.151.107.120:8000/play/87/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Star Family HD
+http://193.151.107.120:8000/play/88/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Svarogichi
+http://tv.tv-project.com:1935/live/live1/playlist.m3u8
+#EXTINF:-1,TiJi
+http://193.151.107.120:8000/play/97/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TIM
+http://193.151.107.120:8000/play/39/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TIM HD
+http://194.242.100.24:6666
+#EXTINF:-1,TIS Odessa
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8
+#EXTINF:-1,TIS TV ?
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
+#EXTINF:-1,TLC Украина
+http://193.151.107.120:8000/play/58/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Trace Sport HD
+http://193.151.107.120:8000/play/94/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+#EXTINF:-1,Travel+Adventure HD
+http://193.151.107.120:8000/play/103/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Treti Cifrovoj ?
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8
+#EXTINF:-1,TV 1000 World Kino
+http://193.151.107.120:8000/play/50/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TV 5 Zaporozhye ?
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:-1,TV1000 Action HD
+http://193.151.107.120:8000/play/140/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TV1000 East HD
+http://193.151.107.120:8000/play/44/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TV5
+http://193.151.107.120:8000/play/181/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVA Czernowitz ?
+http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,TVPinfo HD
+http://193.151.107.120:8000/play/19/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,UA Одесса
+http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod-sub/playlist.m3u8
+#EXTINF:-1,UA: Крим
+http://193.151.107.120:8000/play/8/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,UA: Чернігів
+http://193.151.107.120:8000/play/4/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,UA:Донбас
+http://193.151.107.120:8000/play/69/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,UA:Культура
+http://193.151.107.120:8000/play/3/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,UA:Одесса
+http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod/playlist.m3u8
+#EXTINF:-1,UA:Перший HD
+http://193.151.107.120:8000/play/2/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ukraina
+http://37.187.28.95:2022/ukraina/mpegts
+#EXTINF:-1,UTRAVEL HD
+http://193.151.107.120:8000/play/182/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,VH1 Europe
+http://193.151.107.120:8000/play/115/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Viasat Explore
+http://193.151.107.120:8000/play/53/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Viasat Nature CEE
+http://193.151.107.120:8000/play/38/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Viasat Sport Россия HD
+http://193.151.107.120:8000/play/125/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,VIP Comedy HD
+http://193.151.107.120:8000/play/133/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,VIP Megahit HD
+http://193.151.107.120:8000/play/131/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,VIP Premiere HD
+http://193.151.107.120:8000/play/129/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Xsport HD
+http://193.151.107.120:8000/play/109/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Yuzhnaja Volna
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
+#EXTINF:-1,Z Zaporozhye
+https://stream.ztv.zp.ua/hls/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Zdorove Odessa
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
+#EXTINF:-1,Zdorovood TV Odessa ?
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
+#EXTINF:-1,Zee TV
+http://194.213.23.7:3304
+#EXTINF:-1,ZOOM HD
+http://193.151.107.120:8000/play/52/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Zooпарк
+http://46.174.83.66/Zoopark/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,А1
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-720p/playlist.m3u8
+#EXTINF:-1,А1 (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-480p/playlist.m3u8
+#EXTINF:-1,А1 Одесса
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr-lq/playlist.m3u8
+#EXTINF:-1,Аверс
+http://193.151.107.120:8000/play/178/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Академiя HD720 [UA]
+http://dmitry-tv.ml/hls/ua/CH_AKADEMIAHD720.m3u8
+#EXTINF:-1,Академия
+http://cdn10.live-tv.od.ua:8081/36chod/36chod/playlist.m3u8
+#EXTINF:-1,Академия ТВ (Одесса)
+http://cdn10.live-tv.od.ua:8081/36chod/36chod-abr-lq/playlist.m3u8
+#EXTINF:-1,Алекс (Запорожье)
+http://46.46.112.223/hls/alexua_576.m3u8
+#EXTINF:-1,Алекс UA
+http://46.46.112.223/live/livestream2.m3u8
+#EXTINF:-1,Апостроф HD
+http://193.151.107.120:8000/play/96/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Белсат
+http://193.151.107.120:8000/play/141/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Бигуди
+http://193.151.107.120:8000/play/21/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,БРТ
+http://194.11.28.2:8000/udp/239.255.1.1:1234
+#EXTINF:-1,Бутик ТВ
+http://193.151.107.120:8000/play/29/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,БІК
+http://194.50.51.34/playlist.m3u8?token=tva.org.ua
+#EXTINF:-1,ГLAS [UA]
+http://dmitry-tv.ml/hls/ua/CH_GLAS.m3u8
+#EXTINF:-1,Глас
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+#EXTINF:-1,Глас (Одесса)
+http://195.138.81.101:8081/hls_sec/239.0.4.18-.m3u8
+#EXTINF:-1,Дача HD
+http://193.151.107.120:8000/play/110/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Дитинець
+http://193.151.107.120:8000/play/1/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Дитинець_П
+http://193.151.107.120:8000/play/8991/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Дом кино
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/154/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Домашний
+http://46.174.83.66/Domashniy/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Донбас
+http://193.151.107.120:8000/play/179/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Донбас Online
+http://193.151.107.120:8000/play/180/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Дорама HD
+http://193.151.107.120:8000/play/173/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Драйв
+http://46.174.83.66/Drive/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Думская ТВ
+http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
+#EXTINF:-1,Думская ТВ (Одеса)
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr-lq/playlist.m3u8
+#EXTINF:-1,Думская ТВ (Одесса)
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska480p/playlist.m3u8
+#EXTINF:-1,Думская.TV
+http://212.79.122.24:8000/play/a006/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Думская.TV (720p)
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
+#EXTINF:-1,Еко-ТБ
+http://193.151.107.120:8000/play/41/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Еспресо TV HD
+http://193.151.107.120:8000/play/31/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Здоровое ТВ
+http://46.174.83.66/Zdorovoe_TV/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Здоровье (Одесса)
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/chunks.m3u8
+#EXTINF:-1,Зоряний HD
+http://193.151.107.120:8000/play/123/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Измаил ТВ
+http://cdn10.live-tv.od.ua:8081/izod/izod-abr-lq/izod/izod-sub2/playlist.m3u8
+#EXTINF:-1,Индийское кино
+http://46.174.83.66/Indiiskoe_kino/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Интер HD
+http://193.151.107.120:8000/play/14/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Инший (Одесса)
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr-lq/playlist.m3u8
+#EXTINF:-1,К1 HD
+http://193.151.107.120:8000/play/35/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,К2 HD
+http://193.151.107.120:8000/play/46/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Караван TV
+http://193.151.107.120:8000/play/85/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Карапуз ТВ
+http://85.10.202.119/content/karapuztv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Квартал ТВ
+http://193.151.107.120:8000/play/34/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Кинокомедия
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/145/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Кинокомедия
+http://46.174.83.66/Kinokomedia/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Киносвидание
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/728/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Київ
+http://193.151.107.120:8000/play/143/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,КРУГ
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/playlist.m3u8
+#EXTINF:-1,Люкс FM
+http://212.79.122.24:8000/play/a00p/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Малятко TV
+http://193.151.107.120:8000/play/98/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Мега HD
+http://193.151.107.120:8000/play/22/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Между.Net HD
+http://212.77.128.179:8089/www_mezhdunet/mezhdunet/chunks.m3u8
+#EXTINF:-1,Между.Net ТВ HD
+http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
+#EXTINF:-1,МИР
+http://46.174.83.66/Mir/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Мир Баскетбола
+http://46.174.83.66/MirBasketbola/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Моя Стихия HD
+http://46.174.83.66/Morskoi_HD/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Настоящее время HD
+http://193.151.107.120:8000/play/142/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Натали
+http://193.151.107.120:8000/play/60/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Наука
+http://193.151.107.120:8000/play/72/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Наше новое кино
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/517/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,НЛО TV HD
+http://193.151.107.120:8000/play/17/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Новий Чернігів
+http://193.151.107.120:8000/play/164/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Новое радио FM
+http://212.79.122.24:8000/play/a00o/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Новый канал HD
+http://193.151.107.120:8000/play/9/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,НТВ
+http://46.174.83.66/NTV/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,НТН HD
+http://193.151.107.120:8000/play/16/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Обоз ТВ HD
+http://193.151.107.120:8000/play/84/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Общественное Независимое ТВ
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1,ОДЕСА
+http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod-abr/odtrkod/odtrkod-sub/playlist.m3u8
+#EXTINF:-1,Одеса int.
+http://85.238.112.69:8811/hls_sec/239.4.228.28-.m3u8
+#EXTINF:-1,Одесса Live
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-480p/playlist.m3u8
+#EXTINF:-1,ОНТ
+http://85.238.112.40:8810/hls_sec/239.1.75.33-.m3u8
+#EXTINF:-1,ОТР
+http://46.174.83.66/OTR/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ОЦЕ HD
+http://193.151.107.120:8000/play/40/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Первый Городской (Кривой Рог)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:-1,Первый городской (Кривой Рог) (720p)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8
+#EXTINF:-1,Первый Городской (Одеса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr-lq/playlist.m3u8
+#EXTINF:-1,Первый Городской (Одесса) HD [UA]
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr-lq/1tvod/1tvod-sub2/chunks.m3u8
+#EXTINF:-1,Первый Городской Кривой Рог
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr-lq/1tvkr/1tvkr-sub/chunks.m3u8
+#EXTINF:-1,Первый канал
+http://46.174.83.66/1/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Первый Псковский
+http://194.190.78.91/pskov/rewind-10800.m3u8
+#EXTINF:-1,Перший Західний HD
+http://193.151.107.120:8000/play/163/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Пиксель HD
+http://193.151.107.120:8000/play/30/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Плюс Плюс HD
+http://193.151.107.120:8000/play/33/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Полтавское ТВ
+http://cdn10.live-tv.od.ua:8081/hrpl/720p/playlist.m3u8
+#EXTINF:-1,Промінь
+http://193.151.107.120:8000/play/302/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Прямий HD
+http://193.151.107.120:8000/play/26/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Психология
+http://46.174.83.66/Psihologiya21/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Пятый канал
+http://46.174.83.66/5Kanal/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Рада HD
+http://193.151.107.120:8000/play/5/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Радіо Культура
+http://193.151.107.120:8000/play/303/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Рен ТВ
+http://46.174.83.66/RenTV/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Репортер (720p)
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
+#EXTINF:-1,Репортер HD
+http://cdn1.live-tv.od.ua:8081/31chod/31chod/playlist.m3u8
+#EXTINF:-1,Репортер r(Одесса)
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr-lq/playlist.m3u8
+#EXTINF:-1,Ретро
+http://46.174.83.66/Retro/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Рибалка TV
+http://193.151.107.120:8000/play/95/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Самара ГИС
+http://45.67.57.9:8080/new/new/tracks-v1a1/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Сонце
+http://193.151.107.120:8000/play/51/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,СТБ HD
+http://193.151.107.120:8000/play/13/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,СТС
+http://46.174.83.66/CTC/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Суббота HD
+http://85.112.114.11:8088/udp/238.2.49.249:1234
+#EXTINF:-1,Суспільне ТБ
+http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod-abr-lq/playlist.m3u8
+#EXTINF:-1,Сфера ТВ
+http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
+#EXTINF:-1,ТВ-1
+http://193.151.107.120:8000/play/102/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ТВ3
+http://46.174.83.66/TV3/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ТВЖ (Аша)
+http://37.79.254.224:1234/hls2/tvg.m3u8
+#EXTINF:-1,Телевсесвіт
+http://193.151.107.120:8000/play/168/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Телеканал новин 24
+http://193.151.107.120:8000/play/43/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Терра
+http://193.151.107.120:8000/play/66/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ТЕТ HD
+http://193.151.107.120:8000/play/23/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ТИМ ТВ
+http://194.242.100.24:6666/
+#EXTINF:-1,ТИС ТВ
+http://cdn10.live-tv.od.ua:8081/riood/tisod504/playlist.m3u8
+#EXTINF:-1,ТИС-ТВ [HD]
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/playlist.m3u8
+#EXTINF:-1,ТНТ
+http://46.174.83.66/TNT/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Третий Цифровой
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr-lq/playlist.m3u8
+#EXTINF:-1,ТРК Круг
+http://cdn1.live-tv.od.ua:8081/krugod/krugod/playlist.m3u8
+#EXTINF:-1,ТРК Круг [UA]
+http://dmitry-tv.ml/hls/ua/CH_KRUG.m3u8
+#EXTINF:-1,ТРК Репортер Одесса
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-sub/playlist.m3u8
+#EXTINF:-1,Трофей
+http://193.151.107.120:8000/play/57/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Украина HD
+http://193.151.107.120:8000/play/10/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Україна 24 HD
+http://193.151.107.120:8000/play/170/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Українське радіо
+http://193.151.107.120:8000/play/301/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Уникум
+http://46.174.83.66/Unikum/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,УНІАН HD
+http://193.151.107.120:8000/play/92/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Усадьба
+http://46.174.83.66/Usadba/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Фауна
+http://193.151.107.120:8000/play/74/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Футбол 1 HD
+http://193.151.107.120:8000/play/127/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Футбол 1 SD
+http://193.151.107.120:8000/play/11/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Футбол 2 HD
+http://193.151.107.120:8000/play/126/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Футбол 2 SD
+http://193.151.107.120:8000/play/48/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Футбол 3
+http://193.151.107.120:8000/play/73/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Центральний
+http://193.151.107.120:8000/play/171/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Черноморская ТРК
+http://193.151.107.120:8000/play/111/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Южная волна
+http://cdn1.live-tv.od.ua:8081/wave/wave-720/playlist.m3u8
+#EXTINF:-1,Южная Волна HD
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/chunks.m3u8
+#EXTINF:-1,Южная Волна ТВ (Одеса)
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-504/playlist.m3u8
+#EXTINF:-1,ЯТБ
+http://46.175.163.130/live_yatb/playlist.m3u8
+#EXTINF:-1,Індиго TV HD
+http://193.151.107.120:8000/play/12/index.m3u8?HasBahCa.m3u8
