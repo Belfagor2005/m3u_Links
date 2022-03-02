@@ -73,10 +73,6 @@ http://canalregional.md/tv/live/canalregional.m3u8
 https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/playlist.m3u8
 #EXTINF:-1,CGTN Русский
 http://liveru.cgtn.com/1000r/prog_index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,City TV
-http://cdn1.live-tv.od.ua:8081/a1od/citytvod/playlist.m3u8
-#EXTINF:-1,City TV Одесса
-http://cdn1.live-tv.od.ua:8081/a1od/citytv-abr/playlist.m3u8
 #EXTINF:-1,Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 #EXTINF:-1,Country Music 4U
@@ -175,8 +171,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1,Mir HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1,MolaTV
-http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1,MTV Yo! 2
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS09/master.m3u8?HasBahCa.m3u8
 #EXTINF:-1,MTV Yo! 3
@@ -245,20 +239,14 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1,Riigikogu
 https://riigikogu.babahhcdn.com/bb1027/smil:riigikogu_ch1.smil/playlist.m3u8
-#EXTINF:-1,RT Documentary Russian (1080p)
-https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1,RT Documentary Russian (1080p) [Not 24/7]
 http://uiptv.do.am/1ufc/300663722/playlist.m3u8
-#EXTINF:-1,RT Documentary Russian (720p)
-https://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1,RT News (1080p)
 https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
 #EXTINF:-1,RTG HD
 https://strm.yandex.ru/kal/rtg/rtg0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1,RTV San Marino Sport HD
 http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8?HasBahCa.m3u8
-#EXTINF:-1,RTД
-https://hls.rt.com/hls/rtdru360.m3u8
 #EXTINF:-1,Russian JahrMarkt
 https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 #EXTINF:-1,SC Tv
@@ -555,8 +543,6 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA_2/variant.m3u8
 #EXTINF:-1,Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1,Здоровье (Одесса)
-https://cdn1.live-tv.od.ua:8083/zdorovood/zdorovo-abr-lq/playlist.m3u8
 #EXTINF:-1,Известия (720p)
 https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1,Известия FHD
@@ -741,14 +727,10 @@ http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3
 https://livestream.palitra.ge/hls/palitratv/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Память ТВ
 https://autopilot.catcast.tv/content/38821/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,Первый Вегетарианский
-http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr-sub/chunks.m3u8
 #EXTINF:-1,Первый Волгоградский
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/chunklist.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Первый городской (Киров)
 http://rt-vlg-kirov-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KIROV_PERVYGORODSKOY/variant.m3u8?version=2
-#EXTINF:-1,Первый Городской (Кривой Рог)
-http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr-lq/playlist.m3u8
 #EXTINF:-1,Первый городской (Омск)
 http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/variant.m3u8?version=2
 #EXTINF:-1,Первый Деловой
@@ -789,8 +771,6 @@ http://rt-ct-tula-htlive-lb.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8?vers
 http://rt-ct-yarl-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8?version=2
 #EXTINF:-1,Перший Західний (Львів)
 http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/chunklist_w406301318.m3u8
-#EXTINF:-1,Перший Міський (Одеса)
-http://cdn1.live-tv.od.ua:8081/1tvod/1tvod/playlist.m3u8
 #EXTINF:-1,Правда ТУТ Киев
 http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_mid/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Прима
@@ -835,8 +815,6 @@ http://lova.me/hls/hithd.m3u8
 http://hithd.camsh.orsk.ru/hls/hit.m3u8
 #EXTINF:-1,радио Хит ТВ (300p)
 http://lova.me/hls/hit.m3u8
-#EXTINF:-1,РАИ
-http://stream.rai.ua/rai/stream.m3u8
 #EXTINF:-1,Ратник (1080p)
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1,РГВК Дагестан (Махачкала)
@@ -1003,8 +981,6 @@ https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d1
 http://cdn08.vtomske.ru/hls/stream2.m3u8
 #EXTINF:-1,Томское время
 http://rt-sib-tomsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
-#EXTINF:-1,Третий цифровой
-http://cdn1.live-tv.od.ua:8081/3tvod/3tvod/playlist.m3u8
 #EXTINF:-1,Три Ангела
 https://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1,ТРК Евразия (Орск)
