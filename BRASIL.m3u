@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,1001 Noites
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8
 #EXTINF:-1,A e N
 http://177.104.160.101:8000/play/a01e
 #EXTINF:-1,A&E
@@ -7,6 +9,10 @@ http://pfsv.io:80/dx6PVjx2/29993/293
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8?HasBahCa.m3u8
 #EXTINF:-1,AFRO MUSIC CHANNEL
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9420
+#EXTINF:-1,Agro Brasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1,AGRO TV
+http://tvpremiumhd.club/lista-gratuita/224502/on/live.php?id=177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1,AgroBrasil TV (720p) [Not 24/7]
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/HasBahCa.m3u8
 #EXTINF:-1,ALL SPORTS
@@ -87,9 +93,13 @@ http://pfsv.io:80/dx6PVjx2/29993/126
 http://177.104.160.101:8000/play/a00w
 #EXTINF:-1,CARTOONS
 http://181.176.148.142:8000/play/a009
+#EXTINF:-1,CBN Rio
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:-1,CBN Rio (720p)
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:-1,CBN SP
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1,CBN São Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:-1,CENTRAL TV
 https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w2100483638.m3u8
@@ -109,6 +119,8 @@ http://181.176.148.142:8000/play/a01l
 https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1394894910.m3u8
 #EXTINF:-1,Cine tv 3
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
+#EXTINF:-1,Cine+
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1,CIUDAD MAGICA 105.1 FM AUSONIA
 https://srv2.zcast.com.br/ciudadm/ciudadm/HasBahCa.m3u8
 #EXTINF:-1,Climatempo
@@ -131,6 +143,8 @@ http://177.104.160.101:8000/play/a00y
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist.m3u8?HasBahCa.m3u8
 #EXTINF:-1,COM Brasil
 https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,COM Brasil
+https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
 #EXTINF:-1,COM Brasil (720p) [Not 24/7]
 https://596639ebdd89b.streamlock.net/8032/8032/HasBahCa.m3u8
 #EXTINF:-1,COMBATE
@@ -325,6 +339,8 @@ http://mastershowtv.videovox.pw/master6123/master6123/chunklist_w1282824749.m3u8
 https://mastershowtv.videovox.pw/master6123/master6123/chunklist.m3u8?HasBahCa.m3u8?wowzasessionid=1841437714
 #EXTINF:-1,Masterchef
 https://bit.ly/masterchefBR?/playlist_1280x720_3000k.m3u8
+#EXTINF:-1,Metrópole News TV
+http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
 #EXTINF:-1,Miss Universo Brasil HD | Brasil
 https://video01.soultv.com.br/umiss/umiss/HasBahCa.m3u8
 #EXTINF:-1,MKK Web TV (480p) [Not 24/7]
@@ -667,10 +683,6 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/HasBahCa.m3u8
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/HasBahCa.m3u8
 #EXTINF:-1,TV VARZEA GRANDE
 https://video02.kshost.com.br/adauton7191/adauton7191/HasBahCa.m3u8
-#EXTINF:-1,TV Verdes Campos
-https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8?HasBahCa.m3u8
-#EXTINF:-1,TV Verdes Campos (360p) [Not 24/7]
-https://596639ebdd89b.streamlock.net/8124/8124/HasBahCa.m3u8
 #EXTINF:-1,TV WA
 http://177.104.160.101:8000/play/a00s
 #EXTINF:-1,Tv Xtreme
@@ -703,16 +715,10 @@ http://pfsv.io:80/dx6PVjx2/29993/290
 https://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/HasBahCa.m3u8
 #EXTINF:-1,URBAN TV
 https://5ad482a77183d.streamlock.net/urbantvstreaminggmail.com/urbantvstreaminggmail.com/chunklist_w32906010.m3u8
-#EXTINF:-1,Via Morena | BR
-https://59f2354c05961.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/HasBahCa.m3u8
 #EXTINF:-1,Viajando pelo Brasil
 https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/HasBahCa.m3u8
-#EXTINF:-1,VILA TV
-https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1858246200.m3u8
 #EXTINF:-1,Vintage TV * | BR
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/HasBahCa.m3u8
-#EXTINF:-1,VIVA
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109445
 #EXTINF:-1,WARNER
 http://pfsv.io:80/dx6PVjx2/29993/241
 #EXTINF:-1,Warner
@@ -725,7 +731,3 @@ http://pfsv.io:80/dx6PVjx2/29993/133
 http://177.104.160.101:8000/play/a00r
 #EXTINF:-1,XR Health Brasil
 https://video01.soultv.com.br/xrhealth/xrhealth/HasBahCa.m3u8
-#EXTINF:-1,YEEAAH TV
-http://srv3.zcast.com.br/yeeaah/yeeaah/HasBahCa.m3u8
-#EXTINF:-1,Yeeaah! (720p) [Not 24/7]
-https://srv3.zcast.com.br/yeeaah/yeeaah/HasBahCa.m3u8
