@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Ankara Ses TV
-https://host.onlineradyotv.net:9999/ankarasestv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ARABESK TV
 https://yayin.santraltr.com/hls/arabeskyeni.m3u8
 #EXTINF:-1,AViVA TV
@@ -25,6 +23,106 @@ https://yayin.santraltr.com/hls/genctv.m3u8
 http://fidece38941.ozelip.com:2052/genckraltv/genckraltv/HasBahCa.m3u8
 #EXTINF:-1,Genç Kraliçe TV
 https://tv170.ozelip.com:1936/genckralicetv/genckralicetv/HasBahCa.m3u8
+#EXTINF:-1,HasBahCa Afacan Çocuk Şarkıları
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/35799
+#EXTINF:-1,HasBahCa Ay Ay Ayıcıklar
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/35542
+#EXTINF:-1,HasBahCa Can Bebek Çocuk Şarkıları | Little Angel Türkçe
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/34191
+#EXTINF:-1,HasBahCa Doru Atı  Şarkıları
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/30724
+#EXTINF:-1,HasBahCa Minima  Çizgi Film ve Şarkıları
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/23941
+#EXTINF:-1,HasBahCa Müzik TV - 2016
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/18871
+#EXTINF:-1,HasBahCa Müzik TV - 2017
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/18829
+#EXTINF:-1,HasBahCa Müzik TV - 2019 HITS
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/23977
+#EXTINF:-1,HasBahCa Müzik TV - 2020 HITS
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/18867
+#EXTINF:-1,HasBahCa Müzik TV - 2020 POP
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/23942
+#EXTINF:-1,HasBahCa Müzik TV - 2021 01
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/32242
+#EXTINF:-1,HasBahCa Müzik TV - 2021 02
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/55512
+#EXTINF:-1,HasBahCa Müzik TV - 4K
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/31482
+#EXTINF:-1,HasBahCa Müzik TV - 4K Turkce Pop 2022
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/79088
+#EXTINF:-1,HasBahCa Müzik TV - Alternatif & Rock
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/30722
+#EXTINF:-1,HasBahCa Müzik TV - Ankara Havaları 2014
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/21055
+#EXTINF:-1,HasBahCa Müzik TV - Arabesk
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/23980
+#EXTINF:-1,HasBahCa Müzik TV - COVER
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/30726
+#EXTINF:-1,HasBahCa Müzik TV - Damar Şarkılar
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/34802
+#EXTINF:-1,HasBahCa Müzik TV - Enstrümental
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/30725
+#EXTINF:-1,HasBahCa Müzik TV - Halk 01
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/36117
+#EXTINF:-1,HasBahCa Müzik TV - Halk 02
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/36118
+#EXTINF:-1,HasBahCa Müzik TV - Halk 03
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/36119
+#EXTINF:-1,HasBahCa Müzik TV - Halk 04
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/36120
+#EXTINF:-1,HasBahCa Müzik TV - Halk 05
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/57038
+#EXTINF:-1,HasBahCa Müzik TV - Halk 06
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/57039
+#EXTINF:-1,HasBahCa Müzik TV - Halk 2020
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/18868
+#EXTINF:-1,HasBahCa Müzik TV - Karadeniz
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/23978
+#EXTINF:-1,HasBahCa Müzik TV - Oyun Havaları
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/16195
+#EXTINF:-1,HasBahCa Müzik TV - Remix
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/30723
+#EXTINF:-1,HasBahCa Müzik TV - Slow
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/23981
+#EXTINF:-1,HasBahCa Müzik TV - Sufi
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/23982
+#EXTINF:-1,HasBahCa Müzik TV - TOPLİSTE
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/27827
+#EXTINF:-1,HasBahCa Müzik TV - Turan Müzikleri
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/55607
+#EXTINF:-1,HasBahCa Müzik TV - Türk Dünyası Müzikleri
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/18718
+#EXTINF:-1,HasBahCa Müzik TV - Türkçe Pop  2022
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/79239
+#EXTINF:-1,HasBahCa Müzik TV - Türkçe Pop 01 2021
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/34800
+#EXTINF:-1,HasBahCa Müzik TV - Türkçe Pop 02 2021
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/71794
+#EXTINF:-1,HasBahCa Müzik TV - Türkçe Pop 03 2021
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/79240
+#EXTINF:-1,HasBahCa Müzik TV - Türkçe Pop 04 2021
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/79241
+#EXTINF:-1,HasBahCa Müzik TV - Türkçe Pop 05 2021
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/79242
+#EXTINF:-1,HasBahCa Müzik TV - Türkçe RAP 01
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/30637
+#EXTINF:-1,HasBahCa Müzik TV - Türkçe RAP 02
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/37155
+#EXTINF:-1,HasBahCa Müzik TV - Türkçe RAP 03
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/37156
+#EXTINF:-1,HasBahCa Müzik TV - Türkçe RAP 04
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/71799
+#EXTINF:-1,HasBahCa Müzik TV - Türkçe RAP 05
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/71800
+#EXTINF:-1,HasBahCa Müzik TV - Yeni Hit Şarkılar
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/71802
+#EXTINF:-1,HasBahCa Müzik TV - Özgün Müzik
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/23979
+#EXTINF:-1,HasBahCa Zeynoş ile Adiş Bebek Şarkıları
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/75676
+#EXTINF:-1,HasBahCa Zeynoş ile Adiş Çocuk Şarkıları
+http://detr.eu:8000/hasbahcamuzik/hasbahcamuzik/75677
 #EXTINF:-1,KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1,Kral Pop TV
@@ -35,8 +133,6 @@ https://dogus-live.daioncdn.net/kraltv/kraltv_720p.m3u8
 http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
 #EXTINF:-1,KRAL TV  ydk
 https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
-#EXTINF:-1,Marmara TV
-https://host.onlineradyotv.net:9999/marmaratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Mega TV İskenderun
 https://tv170.ozelip.com:1936/megatv/megatv/HasBahCa.m3u8
 #EXTINF:-1,MiLYON TV SD
@@ -95,8 +191,6 @@ http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/HasBahCa.m3u8
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8
 #EXTINF:-1,Radyo Kulüp
 http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/HasBahCa.m3u8
-#EXTINF:-1,Radyo Kulüp
-http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
 #EXTINF:-1,SILA TV
 https://yayin.santraltr.com/hls/silatv.m3u8
 #EXTINF:-1,TATLISES TV
